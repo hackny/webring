@@ -17,7 +17,7 @@ In your message (or pull request), please be sure to include:
 1. Your name
 2. The year you did your fellowship
 3. An image or emoji that can be placed next to your website to make it look nice and unique on the webring page
-4. (optional) A brief description of your website
+4. (optional) A brief (max 40-50 word) description of your website.
 
 **Step 3**: Welcome to the webring! Go explore around other alumNY's websites while you're here.
 
