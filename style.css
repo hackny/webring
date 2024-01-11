@@ -1,0 +1,107 @@
+:root {
+    --content-width: 600px;
+    --color-dark: #515151;
+    --color-hackny: rgb(255, 13, 0);
+    --color-white: #FFF;
+    --color-off-white: #EEEEEE;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    font-weight: 400;
+    color: var(--color-dark);
+    background: var(--color-white);
+    font-size: 18px;
+}
+
+a {
+    color: var(--color-hackny);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+h2 {
+    margin: .5em 0;
+}
+
+#logo {
+    border-radius: 5px;
+    margin-right: 25px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    span {
+        color: var(--color-hackny);
+    }
+}
+
+.container {
+    margin: 25px auto;
+    width: var(--content-width);
+}
+
+.site {
+    display: flex;
+    padding: 10px;
+    margin: 10px 0px;
+    background-color: var(--color-off-white);
+    border-radius: 5px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.site:hover {
+    background-color: var(--color-hackny);
+}
+
+.site:hover .site--title {
+    color: var(--color-white);
+}
+
+.site--meta {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.site--emoji {
+    font-size: 2em;
+    margin-right: 15px;
+    margin-left: 5px;
+    width: 2em;
+    height: 2em;
+    min-width: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1em;
+    background-color: var(--color-white);
+}
+
+.site--title {
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.site--year {
+    color: var(--color-dark);
+    font-size: .75em;
+}
+
+.site--description {
+    color: var(--color-dark);
+    font-size: .75em;
+}
+
+footer {
+    font-size: .75em;
+}
