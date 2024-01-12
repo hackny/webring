@@ -9,11 +9,12 @@ module PlanetHackNY
       URI.open(fellow["rss_url"]) do |rss|
         feed = RSS::Parser.parse(rss)
         posts = feed.items.map do |item|
-          {id: item.guid.content,
-           title: item.title,
-           url: item.link,
-           description: item.description,
-           published: item.pubDate}
+          {"id" => item.guid.content,
+           "title" => item.title,
+           "url" => item.link,
+           "fellow" => fellow,
+           "description" => item.description,
+           "published_at" => item.pubDate}
         end
       end
 
@@ -34,7 +35,9 @@ module PlanetHackNY
         end
       end
 
-      site.data["planet"] = all_posts
+      site.data["planet"] = all_posts.sort do |a, b|
+        a[:published_at] <=> b[:published_at]
+      end
     end
   end
 end

@@ -1,51 +1,31 @@
 ---
+layout: base
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>hackNY webring</title>
-    <link rel="stylesheet" href="static/style.css" />
-    <link rel="stylesheet" href="static/local.css" />
-    <script type="text/javascript" src="static/script.js"></script>
-  </head>
-  <body>
-    <header class="container">
-      <img id="logo" src="logo.png" width="70" height="70" />
-      web<span>ring</span>
-    </header>
-    <div class="container">
-      <p>
-        hackNY is a community of technologists aspiring to change the world.
-      </p>
-      <p>
-        Our aim is to build a <b>diverse</b> and <b>inclusive</b> tech
-        community to empower the next generation of responsible leaders in NYC.
-        You can learn more on our <a href="https://hackny.org">website</a>.
-      </p>
-      <p>
-        The hackNY webring is a directory of personal websites for alumNY of the
-        <a href="https://hackny.org/fellows-program">fellowship program</a>.
-      </p>
-      <h2>alumNY websites</h2>
-      <div class="actions">
-        <button onclick="goToRandom()">Random site &raquo;</button>
-      </div>
-      {% assign fellows = site.data.fellows | sample: 400 %}
-      {% for fellow in fellows %}
-      <a href="{{fellow.url}}" class="site">
-        <div class="site--emoji">{% if fellow.emoji %}{{fellow.emoji}}{% else %}😀{% endif %}</div>
-        <div class="site--meta">
-          <div class="site--title">{{fellow.name}} <span class="site--year">('{{fellow.year | slice: -2, 2}})</span></div>
-          {% if fellow.description %}
-            <div class="site--description">{{fellow.description}}</div>
-          {% endif %}
-        </div>
-      </a>
-      {% endfor %}
-    </div>
-    <footer class="container">
-      &copy; {{ site.time | date: "%Y" }} hackNY. Website source 
-      <a href="https://github.com/hackny/webring.hackny.org">here</a>.
-    </footer>
-  </body>
-</html>
+<p>
+  hackNY is a community of technologists aspiring to change the world.
+</p>
+<p>
+  Our aim is to build a <b>diverse</b> and <b>inclusive</b> tech
+  community to empower the next generation of responsible leaders in NYC.
+  You can learn more on our <a href="https://hackny.org">website</a>.
+</p>
+<p>
+  The hackNY webring is a directory of personal websites for alumNY of the
+  <a href="https://hackny.org/fellows-program">fellowship program</a>.
+</p>
+<h2>alumNY websites</h2>
+<div class="actions">
+  <button onclick="goToRandom()">Random site &raquo;</button>
+</div>
+{% assign fellows = site.data.fellows | sample: 400 %}
+{% for fellow in fellows %}
+<a href="{{fellow.url}}" class="site">
+  <div class="site--emoji">{% if fellow.emoji %}{{fellow.emoji}}{% else %}😀{% endif %}</div>
+  <div class="site--meta">
+    <div class="site--title">{{fellow.name}} <span class="site--year">('{{fellow.year | slice: -2, 2}})</span></div>
+    {% if fellow.description %}
+      <div class="site--description">{{fellow.description}}</div>
+    {% endif %}
+  </div>
+</a>
+{% endfor %}
