@@ -1,0 +1,23 @@
+---
+---
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planet hackNY</title>
+    <link>{{site.url}}</link>
+    <description>A link aggregator for hackNY alumNY</description>
+    <webMaster>steve@stevegattuso.me (Steve Gattuso)</webMaster>
+    <lastBuildDate>{{site.time | date_to_rfc822}}</lastBuildDate>
+
+      {% assign planet = site.data.planet | sort: "published_at" | reverse | limit: 25 %}
+    {% for post in planet limit:25 %}
+      <item>
+        <title>[{{ post.fellow.name}}] {{ post.title }}</title>
+        <guid>{{post.url}}</guid>
+        <link>{{ post.url }}</link>
+        <pubDate>{{ post.published_at | date_to_rfc822 }}</pubDate>
+        <description>{{ post.description | xml_escape }}</description>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
+
