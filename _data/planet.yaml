@@ -1,0 +1,1182 @@
+---
+- id: https://www.stevegattuso.me/2024/01/03/faircamp.html
+  title: Added Faircamp to bookmarks
+  url: https://www.stevegattuso.me/2024/01/03/faircamp.html
+  fellow: &1
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  description: "\n              <p>Adding a link to <a href=\"https://simonrepp.com/faircamp/\">Faircamp</a>
+    to the projects bookmarks page because holy crap this is cool!</p>\n\n<blockquote>\n
+    \ <p>A statically generated music portfolio website builder, aimed at providing
+    artists with an alternative to an increasingly hostile Bandcamp. I’m really, really
+    impressed with the aesthetic of the output and how crazily feature complete it
+    is for a static website.</p>\n\n  <p>Be sure to check out the <a href=\"https://webring.key13.uk/\">webring</a>
+    which links to live Faircamp websites.</p>\n</blockquote>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/202312091215%20Bookmarks%20-%20Projects%20&amp;%20companies.html\"
+    class=\"wiki-link\">Projects &amp; companies</a></p>\n\n          "
+  published_at: 2024-01-03 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
+  title: 2023, in review
+  url: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
+  fellow: *1
+  description: "\n              \n                <img src=\"https://www.stevegattuso.me/static/blog-images/2023-review-header.jpg\"
+    />\n              \n              <p>It’s 4:30a as I’m writing this, jetlagged
+    after getting home from a trip to Mexico and New York for the holidays. Thankfully
+    there’s a silver lining to my inability to sleep: a brief window of quiet to reflect
+    and write about my past year.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2024/01/02/2023-in-review.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2024-01-02 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
+  title: Why build this website?
+  url: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
+  fellow: *1
+  description: "\n              \n              <p>I’ve been putting a lot of time
+    into this website lately. With all of this work, I’ve been wondering: why do all
+    of this? I don’t really have much of an audience on this blog- nor do I have much
+    of a desire to “build a brand.” What’s the point of it all? I’ve meditated on
+    this question and think I’ve come up with a few sources of motivation for doing
+    all of this.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/12/11/why-build-this-website.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-12-11 09:12:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
+  title: Re-organized the bookmarks section
+  url: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
+  fellow: *1
+  description: "\n              <p>I’ve been adding a bunch of links and things to
+    this section lately and decided to refactor it a bit. It’s still not exactly where
+    I want it to be, but there are now a larger number of smaller pages which should
+    <em>hopefully</em> be easier/more fun to browse through.</p>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/202310091958%20Bookmarks.html\"
+    class=\"wiki-link\">Bookmarks</a></p>\n\n          "
+  published_at: 2023-12-09 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
+  title: Re-published my NYC travel guide
+  url: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
+  fellow: *1
+  description: "\n              <p>A friend of mine asked for some recommendations
+    about where to go while visiting the city and I remembered that I wrote up a guide
+    years ago (pre-pandemic). I finally had some time to sit down, verify that everything
+    still exists post-pandemic, and update/add some recs to the list.</p>\n\n<p>It
+    seemed silly to keep this private after putting so much work into it, so it’s
+    now available for all to see!</p>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/201905010000%20Steve's%20NYC%20Travel%20Guide.html\"
+    class=\"wiki-link\">Steve’s NYC Travel Guide</a></p>\n\n          "
+  published_at: 2023-12-03 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/11/29/update-books.html
+  title: Updated the books page
+  url: https://www.stevegattuso.me/wiki/202312091218%20Bookmarks%20-%20Non-fiction.html
+  fellow: *1
+  description: "\n              <p>The books page was pretty barren since migrating
+    from my old Clojure-based website generator to my shiny new Jekyll/Tiddlywiki-based
+    generator. I’ve finally gone through and transferred over the full list of favorite
+    books and updated a few of the attached summaries.</p>\n\n          "
+  published_at: 2023-11-29 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/11/26/update-rss.html
+  title: Added changelog entries to the RSS feed
+  url: https://www.stevegattuso.me/2023/11/26/update-rss.html
+  fellow: *1
+  description: "\n              <p>Over the last couple of months I’ve been slowly
+    but steadily increasing the number of wiki pages on my website. I’ve quietly logged
+    these changes on a rather inconspicuous “changelog” section of my site’s index
+    page, but have been waffling about whether or not to include these changes in
+    my RSS feed.</p>\n\n<p>As of today I think I’ve finally settled on a way to include
+    these updates in my RSS feed while also keeping them separate from the full-on
+    blog posts on my website. If you’re seeing this, it worked!</p>\n\n<p>Don’t worry,
+    these page updates are all manually written and I promise to only mention things
+    that are noteworthy. That is, I’m not going to blast your RSS feed away with noise
+    as I make gramatical tweaks to pages.</p>\n\n<p>I will, on the other hand, keep
+    you posted as I update and create new pages like some of the more recent projects
+    and things I’ve been working on:</p>\n\n<ul>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202311060918%20Citibike%20system%20data%20reference.html\"
+    class=\"wiki-link\">Citibike system data reference</a></li>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202310091958%20Bookmarks.html\"
+    class=\"wiki-link\">Bookmarks</a></li>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202010200000%20Red%20Lentil%20Curry.html\"
+    class=\"wiki-link\">Red Lentil Curry</a></li>\n</ul>\n\n<p>See ya soon!<br />\n-
+    Steve</p>\n\n          "
+  published_at: 2023-11-26 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
+  title: 'FeeDon: a Mastodon to RSS bridge'
+  url: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
+  fellow: *1
+  description: "\n              \n              <p>A few months ago I started work<sup
+    id=\"fnref:0\" role=\"doc-noteref\"><a href=\"#fn:0\" class=\"footnote\" rel=\"footnote\">1</a></sup>
+    on a small project to convert Mastodon timelines into RSS feeds. While Mastodon
+    has pretty good RSS support out-of-the-box, it only really creates feeds for individual
+    users. I had a few additional features that I was looking for:</p>\n\n<div class=\"footnotes\"
+    role=\"doc-endnotes\">\n  <ol>\n    <li id=\"fn:0\" role=\"doc-endnote\">\n      <p>If
+    you’re curious, the original toot where I solicited feedback on the idea is <a
+    href=\"https://merveilles.town/@vesto/110457145588521079\">here</a>. <a href=\"#fnref:0\"
+    class=\"reversefootnote\" role=\"doc-backlink\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n\n
+    \             <b><a href=\"https://www.stevegattuso.me/2023/08/14/introducing-feedon.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-08-14 00:00:00.000000000 +02:00
+- id: https://www.stevegattuso.me/2023/08/08/planned-economies.html
+  title: What I've been learning about planned economies
+  url: https://www.stevegattuso.me/2023/08/08/planned-economies.html
+  fellow: *1
+  description: "\n              \n              <p>Over the last couple of months
+    I’ve been following a mental thread that has me exploring the idea of <em>planned
+    economies</em>. If you’ve never heard of it before, strap on your economics hat
+    and get ready for a wild ride. The high-level idea behind them is to allocate
+    scarce resources according to a set of society or community level goals. These
+    goals can be anything from pointing everything at building machinery for protecting
+    oneself during a war<sup id=\"fnref:0\" role=\"doc-noteref\"><a href=\"#fn:0\"
+    class=\"footnote\" rel=\"footnote\">1</a></sup> to transitioning to a sustainable
+    economy.</p>\n\n<div class=\"footnotes\" role=\"doc-endnotes\">\n  <ol>\n    <li
+    id=\"fn:0\" role=\"doc-endnote\">\n      <p>Something I found out recently: the
+    American economy was briefly <a href=\"https://en.wikipedia.org/wiki/War_Production_Board\">converted
+    to a planned economy</a> during WWII when it became apparent that private companies
+    couldn’t be trusted to manufacture the materials necessary for sustaining the
+    war effort. <a href=\"#fnref:0\" class=\"reversefootnote\" role=\"doc-backlink\">&#8617;</a></p>\n
+    \   </li>\n  </ol>\n</div>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/08/08/planned-economies.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-08-08 00:00:00.000000000 +02:00
+- id: https://www.stevegattuso.me/2023/04/26/new-york-munich.html
+  title: New York, Munich
+  url: https://www.stevegattuso.me/2023/04/26/new-york-munich.html
+  fellow: *1
+  description: "\n              \n                <img src=\"https://www.stevegattuso.me/static/blog-images/munich-new-york.jpg\"
+    />\n              \n              <p>My partner and I moved to Munich in late
+    January, leaving Brooklyn after seven years of city life and decades more of living
+    in the New York (the state). Life over the last few months has largely consisted
+    of going through the steps of rebuilding life. Finding and moving into a new home,
+    searching for and settling into new jobs, etc. The things anyone goes through
+    when they move to a new place, but with a sprinkle of visa hassles and language
+    woes.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/04/26/new-york-munich.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-04-26 00:00:00.000000000 +02:00
+- id: https://blog.rayberger.org/2023-in-review
+  title: 2023 in Review
+  url: https://blog.rayberger.org/2023-in-review
+  fellow: &2
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  description: "<p>2023 was a big year for me, and I want to look back and appreciate
+    it.</p><p>Generally, I've been occupied with:</p><ul><li><p>Two semesters of classes
+    for my Urban Studies Masters (<a target=\"_blank\" href=\"https://www.4cities.eu/\">4CITIES</a>)</p></li><li><p>Traveling
+    Europe, some for class, some for fun</p></li><li><p>Moving to Vienna in February
+    and to Amsterdam in August</p></li></ul><p>I'm proud I survived all the school
+    and travel while taking care of my physical and mental well-being.</p><h2 id=\"heading-a-favorite-memory\">\U0001F41C
+    A favorite memory</h2><p>Learning to cook hormigas culonas (aka \"big ass ants\")
+    in a private workshop at <a target=\"_blank\" href=\"https://maps.app.goo.gl/Ctj6kTgvms12Hz1x8\">Casa
+    Comn</a> in <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Barichara\">Barichara</a>,
+    Colombia that Mapy planned! We started with a bowl full of frozen ants and had
+    to remove the head (because the pincers will still cut you), legs, and wings.
+    Then, we fried them on some traditional ceramic cookware from the region. We tasted
+    a few when they were rare, medium-rare, and well done.</p><p>Certainty, an experience
+    I'll never forget. The smells and tastes were so fun. I loved seeing Mapy's reactions
+    as she got out of her comfort zone. The woman who taught the workshop was part
+    of a collective commune and told us how she's been building community with it
+    and elevating people. It was all so fun and brought me a lot of joy, and I hope
+    I can do it again one day.</p><p><img src=\"https://cdn.hashnode.com/res/hashnode/image/upload/v1704472221964/0fe1c7da-d700-41cd-8253-1fffd18e993e.jpeg\"
+    alt=\"fried ants on a leaf on some thing fried\" class=\"image--center mx-auto\"
+    /></p><h2 id=\"heading-happy-times\">Happy times \U0001F483\U0001F1F3\U0001F1F1\U0001F6B4</h2><ul><li><p>I
+    did a 10-week class called <a target=\"_blank\" href=\"https://www.crea.nl/courses/dans-en/dance-to-share-beginner/?lang=en\">Dance
+    to Share</a> taught by <a target=\"_blank\" href=\"https://www.instagram.com/maria.alabern/\">Maria
+    Alabern</a> at CREA. The style was inspired by <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Azonto\">Azonto</a>
+    / West African Street dance. It was quite challenging each week but a highlight
+    of each week. I signed up because of the teacher's energy during the trial and
+    found a wonderful group. My highlight of the semester was the high I got from
+    our final performance in front of an audience.</p></li><li><p>Cycling in Amsterdam
+    made me happy. It just feels good, relaxing, safe, and free!</p></li><li><p>I
+    have started to like cooking and want to do it more.</p></li><li><p>I really enjoyed
+    my classes in Amsterdam:</p><ul><li><p><em>Rethinking Urban Transportation Planning</em>
+    with <a target=\"_blank\" href=\"https://twitter.com/fietsprofessor\">Marco te
+    Brmmelstroet</a> and <a target=\"_blank\" href=\"https://www.linkedin.com/in/georgeliuphd/\">George
+    Liu</a>.</p></li><li><p><em>Current Debates in Food Geography</em> with <a target=\"_blank\"
+    href=\"https://scholar.google.nl/citations?user=xP5S4IEAAAAJ&amp;hl=nl\">Cody
+    Hochstenbach</a> and <a target=\"_blank\" href=\"https://scholar.google.com/citations?user=Kx3WFzIAAAAJ&amp;hl=en\">Willem
+    Boterman</a></p></li><li><p>I call our the professors because they created a fantastic
+    experience and enjoyable courses above and beyond expectations.</p></li></ul></li><li><p>Vienna
+    was also a lovely city to spend a semester in. It was my first time living alone,
+    which was better than I expected. I wish I could be at the <a target=\"_blank\"
+    href=\"https://en.wikipedia.org/wiki/Donauinsel\">Donauinsel</a> every day during
+    the summer.</p></li><li><p>I organized housing for the <a target=\"_blank\" href=\"https://hackny.org/\">hackNY</a>
+    fellowship and got <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Cory_Doctorow\">Cory
+    Doctorow</a> to speak to the fellows.</p></li><li><p>I am thankful for having
+    many great friends, near and far, in my life. I've felt that a lot this year.</p></li><li><p>Finally,
+    my girlfriend Mapy has been by my side and brought me much joy through the challenges.</p></li></ul><h2
+    id=\"heading-frustrations\">Frustrations</h2><p>Leisure reading was few and far
+    between, but I read a ton for school.</p><p>Learning Spanish has been a slow process.
+    Every time I go to a Spanish-speaking country, I'm less prepared than expected.
+    Ultimately, I need to just practice speaking more. Here are the resources I used:</p><div
+    class=\"hn-table\"><table><thead><tr><td>Name</td><td>Description</td></tr></thead><tbody><tr><td><a
+    target=\"_blank\" href=\"https://www.languagetransfer.org/\">Language Transfer</a></td><td>My
+    favorite (and free) tool for learning about Spanish</td></tr><tr><td><a target=\"_blank\"
+    href=\"https://www.clozemaster.com/\">Clozemaster</a></td><td>For expanding vocab
+    ($70 for lifetime license)</td></tr><tr><td><a target=\"_blank\" href=\"https://www.lingoda.com/en/\">Lingoa</a></td><td>Was
+    okay but always changing teachers wasn't fun</td></tr><tr><td>Duolingo</td><td>Sucks
+    me in to maintain the streak but feels increasingly useless</td></tr><tr><td>TV</td><td>I've
+    tried watching more shows and movies in Spansih</td></tr></tbody></table></div><h2
+    id=\"heading-online-things\">Online Things</h2><ul><li><p><a target=\"_blank\"
+    href=\"https://blog.rayberger.org/\">11 blogs posts</a></p></li><li><p>60 PRs
+    merged on Github, admittedly many in my own repos</p></li><li><p><a target=\"_blank\"
+    href=\"https://openlibrary.org/\">Open Library</a></p><ul><li><ul><li><p><a target=\"_blank\"
+    href=\"https://github.com/internetarchive/openlibrary/pull/8238\">Add the option
+    to \"share\" a title/ISBN to the Open Library Web App</a></p><ul><li><a target=\"_blank\"
+    href=\"https://github.com/internetarchive/openlibrary/pull/8414\">Fix a tiny CSS
+    bug on the Want to Read button</a></li></ul></li></ul></li><li><p>dev experience
+    and maintenance including: upgrade to Node 20, Webpack 5, improve the GitPod workflow</p></li><li><p><a
+    target=\"_blank\" href=\"https://github.com/search?q=org%3ALemmyNet+is%3Apr+is%3Aclosed+author%3ARayBB+created%3A2023&amp;type=pullrequests\">11
+    little PRs</a> to <a target=\"_blank\" href=\"https://join-lemmy.org/\">Lemmy</a>,
+    the federated Reddit alternative</p></li></ul></li><li><p>6 Wikipedia Pages created,
+    including: <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Fairphone_5\">Fairphone
+    5</a> and <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/How_Data_Happened\">How
+    Data Happened</a></p></li><li><p>2951 <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Wikidata\">Wikidata</a>
+    edits (mostly via the <a target=\"_blank\" href=\"https://www.wikidata.org/wiki/Wikidata:Tools/Wikidata_for_Web\">Wikidata
+    for Web extension</a>)</p></li><li><p>I made a Facebook group scraper for finding
+    housing in Amsterdam and wired it up with <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Gemini_(language_model)\">Google
+    Gemini</a> (like ChatGPT) free tier to assess how good a posting is.</p></li></ul><h1
+    id=\"heading-2024-plans\">2024 Plans</h1><ul><li><p>Complete my internship focused
+    on researching <a target=\"_blank\" href=\"https://www.thelabofthought.co/articles/manifest-for-just-streets\">Just
+    Streets</a></p></li><li><p>Write my thesis about the economic geography of edible
+    insects</p></li><li><p>Contribute more to open source, especially after graduating</p></li><li><p>Keep
+    learning Spanish</p></li><li><p>Travel Europe, gotta make the most of it while
+    I'm here</p></li><li><p>Most importantly, dedicate energy to my relationships
+    with friends and family</p></li></ul><p>This post was inspired by <a target=\"_blank\"
+    href=\"https://www.stevegattuso.me/2024/01/02/2023-in-review.html\">Steve's post</a>
+    and <a target=\"_blank\" href=\"https://yearcompass.com/\">YearCompass</a> (I
+    highly recommend it to help reflect on your year).</p>"
+  published_at: 2024-01-05 21:03:35.000000000 +00:00
+- id: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
+  title: Fixing Free Mobile Roaming Connection
+  url: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
+  fellow: *2
+  description: '<p>I use <a target="_blank" href="https://en.wikipedia.org/wiki/Free_Mobile">Free
+    Mobile</a> as my phone company in Europe. 19.99 for 35GB of roaming is a great
+    deal since it works not only in Europe but much of the Americas, Asia, Australia
+    and <a target="_blank" href="https://assistance-1.free.fr/mobile/freeroaming/">much
+    more</a>.</p><p>Anyway, I was poking around in my account setting trying to figure
+    out how to stop Free from texting me every time I turn off airplane mode:</p><blockquote><p>Messagerie
+    "666" Free: le 06/12  11:49, ce correspondant a appel 1 fois sur votre mobile
+    sans laisser de message</p></blockquote><p>It comes from different numbers so
+    I can''t just block it. If anyone knows how to stop these please let me know!
+    <strong>Edit:</strong> I asked support and they said it can''t be turned off.</p><h2
+    id="heading-the-problem">The Problem</h2><p>I was on the "<a target="_blank" href="https://mobile.free.fr/account/mes-options/forfait-bloque">my
+    options page</a>" and turned on "blocked plan" (Forfait bloqu) which says:</p><blockquote><p>Activating
+    this option will block all calls, SMS and MMS to special paid numbers as well
+    as roaming and paid communications to and internationally or DROM-COM.</p></blockquote><p>Oops,
+    I didn''t realize that would stop my roaming data from working right away...</p><p>When
+    I got back on wifi I turned off that setting, rebooted, turned off my phone, waited
+    a few hours, changed APN settings (I use <a target="_blank" href="https://support-pro.free.fr/configurer-manuellement-le-reseau-mobile-serveur-sms-mms-apn-et-acces-internet/">these</a>),
+    etc. But ultimately I couldn''t get any connection to the data that afternoon.</p><h2
+    id="heading-the-fix">The Fix</h2><p>Settings&gt; Network &amp; Internet &gt; Sims
+    (select my sim) &gt; Turn off "Automatically select network"</p><p>In that list,
+    most networks say something like "4G vodafone NL (forbidden)". <strong>I tapped
+    it anyway. Then I connected to data without a problem.</strong> I went back and
+    turned on auto select network again so I don''t have any problems when I travel.</p>'
+  published_at: 2023-12-06 14:38:42.000000000 +00:00
+- id: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
+  title: Cancelling Vienna's Annual Pass Early
+  url: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
+  fellow: *2
+  description: <p>I'm writing this blog post about canceling my <a target="_blank"
+    href="https://www.wienerlinien.at/web/wl-en/annual-pass">Weiner Linen annual pass</a>
+    with the hope it saves someone a little hassle.</p><p>This blog post was written
+    in October 2023 but this happened back in July.</p><p>When I moved to Vienna I
+    wasn't eligible for the public transit student card because I was older than 25.
+    The next cheapest option for riding daily is the annual ticket. Unfortunately,
+    I was only staying in Vienna for a year so I just gotta cancel the ticket early
+    to get a partial refund.</p><p>"Just" is the keyword here. When I ordered the
+    annual pass the physical card never came in the mail but since I had it in my
+    phone I didn't request a replacement.</p><h2 id="heading-cancelling">Cancelling</h2><p>As
+    the date of my move out got closer I researched how to cancel the annual pass.
+    Turns out you need to go to one of a few physical locations. My friend went to
+    one location and said they were unhelpful and recommended I go to <a target="_blank"
+    href="https://maps.app.goo.gl/rZ8PY3Q1bDUC92Co9">this one</a> and be done in five
+    minutes.</p><p>When I arrived they told me that since I don't have the physical
+    card I have to file a lost request form, print it out, and bring it back. I asked
+    them if it was possible to fill out the form at the counter. They insisted they
+    couldn't print it and that it was not possible to do it with them because <a target="_blank"
+    href="https://www.fundamt.gv.at/WebPublic/">the form</a> was too complicated and
+    not available in English. They recommended going to a print shop but that wasn't
+    an option before they closed. Turns out the form didn't take 5 minutes to fill
+    out using Google Translate and only asked basic questions.</p><p>That day was
+    my last day in the city that they were open and there wasn't time so I asked if
+    a friend could do it.</p><p>They said my friend needs to bring:</p><ul><li><p>A
+    special doc (which they gave to me) that authorizes someone to act in your behalf</p></li><li><p>A
+    printed copy of my ID</p></li><li><p>The report of the lost card</p></li><li><p>Maybe
+    money to pay the lost card fee (turns out they never asked)</p></li></ul><p>My
+    friend brought these and <strong>canceled my card without a problem</strong>.
+    However, she did mention that they were annoyed that the address I put on the
+    form for the lost card didn't match the address in my account (since I moved after
+    opening my account).</p><p>There you have it. Canceling the card isn't so bad
+    and well worth the cost savings. But if you don't have the physical card just
+    fill out the form ahead of time. Unfortunately, this info didn't seem easy to
+    find online and even when I called them they couldn't tell me what the form to
+    fill was. After publishing this blog Vienna started offering the "digital-only
+    annual pass" so hopefully this won't be an issue for anyone else!</p>
+  published_at: 2023-10-29 22:19:47.000000000 +00:00
+- id: https://blog.rayberger.org/contributing-to-lemmy
+  title: 'Contributing to Lemmy: Documentation'
+  url: https://blog.rayberger.org/contributing-to-lemmy
+  fellow: *2
+  description: '<p>About three years ago I joined <a target="_blank" href="https://en.wikipedia.org/wiki/Lemmy_(software)">Lemmy</a>,
+    a Reddit-like link aggregator built on the <a target="_blank" href="https://simple.wikipedia.org/wiki/Fediverse">fediverse</a>
+    (signup <a target="_blank" href="https://join-lemmy.org/">here</a>), and have
+    been occasionally active since. When the <a target="_blank" href="https://en.wikipedia.org/wiki/2023_Reddit_API_controversy">2023
+    Reddit API controversy</a> happened I jumped in to contribute a bit more to Lemmys
+    development.</p><p>At that moment there were already tons of people contributing
+    to the frontend codemore than the maintainers could easily handle. Despite all
+    the active contributors, it seemed like few had updated the documentation so,
+    I decided to help with that.</p><p>Over the week, I merged eight PRs across the
+    <a target="_blank" href="https://github.com/LemmyNet/lemmy/pulls?q=is%3Apr+author%3ARayBB">LemmyNet/lemmy</a>,
+    <a target="_blank" href="https://github.com/LemmyNet/lemmy-ui/pulls?q=author%3ARayBB+">LemmyNet/lemmy-ui</a>,
+    and <a target="_blank" href="https://github.com/LemmyNet/lemmy-docs/pulls?q=author%3ARayBB">LemmyNet/lemmy-docs</a>
+    repos.</p><p>I was happy to:</p><ul><li><p>setup <a target="_blank" href="https://github.com/LemmyNet/lemmy/pull/3086">better
+    issue templates</a>, to help the devs with the onslaught of new bug reports</p></li><li><p>And
+    add <a target="_blank" href="https://github.com/LemmyNet/lemmy-docs/pull/196">typo
+    checking in the CI</a> for the docs</p></li><li><p>Fix a <a target="_blank" href="https://github.com/LemmyNet/lemmy-docs/pulls?q=author%3ARayBB">few
+    small issues</a> with the docs</p></li></ul><p>The experience was really nice
+    as the devs were fast and helpful in responding to my PRs despite being under
+    a huge workload as they surged in popularity. I like Lemmy because it is easy
+    to set up and hard to censor (due to being federated). I look forward to seeing
+    how the fediverse will grow with platforms like Lemmy and <a target="_blank" href="https://github.com/ernestwisniewski/kbin">kbin</a>
+    joining it.</p><p>A note: it has come to my attention that one of the maintainers
+    of Lemmy has <a target="_blank" href="https://github.com/dessalines/essays/blob/master/socialism_faq.md">some
+    political views</a> that I dont agree with. However, Lemmy is still contributing
+    to the greater good and inherently designed so people can spin up a new instance
+    if they have different opinions so Im happy I was able to contribute in my small
+    way.</p>'
+  published_at: 2023-08-27 23:47:10.000000000 +00:00
+- id: https://blog.rayberger.org/book-review-red-team-blues
+  title: 'Book Review: Red Team Blues'
+  url: https://blog.rayberger.org/book-review-red-team-blues
+  fellow: *2
+  description: '<p><a target="_blank" href="https://us.macmillan.com/books/9781250865847/redteamblues"><em>Red
+    Team Blues</em></a> is the first book in a new series by <a target="_blank" href="https://craphound.com/">Cory
+    Doctorow</a>. In the near future, a retired forensic accountant, Martin Hench
+    takes on one final job for an old friend. What follows is an unconventional who-done-it,
+    featuring romance, gang warfare, philosophical ponderings, twists and turns, and
+    problems with no clear solution. The title is a play on the words <a target="_blank"
+    href="https://en.wikipedia.org/wiki/Red_team">Red Team</a>, which is the attackers
+    in security, and Blues which is to be sad but also ironic because the red team
+    is usually pitted against the blue team.</p><p>I love how Doctorow makes Martin
+    Hench, the 67-year-old retired accountant, relatable and have a thrilling story
+    as he tries to navigate a world of opportunities to give up his morals and take
+    the easy path. The books critiques of surveillance and Martins balanced approach
+    to securing his activities inspire me to fight for a world where we dont have
+    to jump through so many hoops for some privacy.</p><p>Although the book contains
+    some pretty gruesome descriptions of hurt people, those dont dominate the story
+    and are well balanced by the romantic and adventure parts. I listened to <a target="_blank"
+    href="https://libro.fm/audiobooks/5184389278339-red-team-blues">the audiobook</a>,
+    narrated by <a target="_blank" href="https://en.wikipedia.org/wiki/Wil_Wheaton">Wil
+    Wheaton</a>, which is so well acted it intensified all of the ups and downs.</p><p>My
+    only real complaint about this book (but hey you cant do it all) was the ending.
+    The book clearly has some strong moral messages about problems (like surveillance)
+    and how we can avoid them long term. However, at the end of the book (small spoiler
+    here), the character simply donates a large amount of money to an organization
+    helping homeless people. For all the big ideas this book puts out Im a bit disappointed
+    it didnt touch more on the root causes of homelessness (property speculation,
+    weak tenant protections, inaccessible healthcare, etc) which arent addressed by
+    homeless shelters. Perhaps thats saved for one of the next books in the series
+    ;)</p><p>In short, I loved this book and would recommend it to anyone looking
+    for a short, exciting, and educational story. Im quite excited for the next book
+    in the series <em>The Bezzle,</em> which is just one of <a target="_blank" href="https://www.kickstarter.com/projects/doctorow/red-team-blues-another-audiobook-that-amazon-wont-sell/posts/3861247">many</a>
+    books Doctorow has coming down the pipeline.</p><p>Disclaimer: Doctorow offered
+    to add your name to the end of the next book if you write a review and send it
+    to him. Thats a partial motivation for writing this but I already paid for the
+    book before I knew about that offer.</p>'
+  published_at: 2023-07-24 20:45:54.000000000 +00:00
+- id: https://blog.rayberger.org/google-maps-reviews-moderated
+  title: So, Google Maps Reviews Are Moderated?
+  url: https://blog.rayberger.org/google-maps-reviews-moderated
+  fellow: *2
+  description: '<p>In the wee hours of this morning, I got this email (which you can
+    see in the Appendix) that said my Google Maps review wasnt posted and which implied
+    it was fake engagement.</p><h1 id="heading-review-in-question">Review in Question</h1><p><img
+    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689778870103/a449a86c-709b-4595-85f9-f3947a2d72e7.png"
+    alt class="image--center mx-auto" /></p><p>Text of the five-star review:</p><blockquote><p>Even
+    though I didn''t personally love the flavors I think that it''s a decent portion
+    and probably quite good for the type of food it is.</p></blockquote><p>I see why
+    this looks like a fake review. Its pretty generic, it says something negative(ish),
+    and I gave the restaurant five stars.</p><p>I got this email at 2 AM but posted
+    the review much earlier in the day. This means there was probably some element
+    of human reporting or curation here.</p><h1 id="heading-why-did-i-write-the-review-like-this">Why
+    did I write the review like this?</h1><p>Well, I thought the food was probably
+    quite good objectively but the particular dish I got didnt have flavors that I
+    enjoyed. So I just wanted to give them a strong rating for having whats probably
+    authentic food with nice portions at decent prices.</p><p>A side note: The next
+    review I posted for the walking tour I didnt wasnt posted right away. It said
+    pending but 20 minutes later when I refreshed the page it was posted. I wonder
+    if thats related.</p><h1 id="heading-what-the-internet-says">What The Internet
+    Says</h1><p>Not much. A few people are complaining on Google forums <a target="_blank"
+    href="https://support.google.com/business/thread/175785054">here</a>, <a target="_blank"
+    href="https://support.google.com/maps/thread/189989721/your-review-isn-t-posted?hl=en">here</a>,
+    and <a target="_blank" href="https://www.localguidesconnect.com/t5/General-Discussion/Your-review-isn-t-posted/td-p/3510780">here</a>.
+    Seems this started about a year ago but hasn''t come up too often. I hope that
+    means it isn''t an issue so much for people posting legit reviews.</p><h1 id="heading-why-do-i-keep-using-google-maps">Why
+    do I keep Using Google Maps?</h1><ol><li><p>I haven''t found a great alternative
+    for POI (Points of Interest) when traveling.</p></li><li><p>The photos of menus
+    and food are very helpful.</p></li><li><p>I don''t have an iPhone to use Apple
+    Maps.</p></li><li><p>I use (and contribute to) OpenStreetMap when I can but it
+    simply doesn''t have an ecosystem yet to help you find relevant POI.</p></li><li><p>It''s
+    a net positive to my life right now.</p></li><li><p>They''ve gamified it to the
+    point of being fun to contribute.</p></li></ol><h1 id="heading-final-thoughts">Final
+    Thoughts</h1><p>I''m stuck with Google Maps for now. If this is the main inconvenience
+    I face (surveillance aside) because of it then that''s not so bad. I look forward
+    to the day an Open Source alternative finds some success and I can start contributing
+    there more.</p><p>Update: 21 July 2023. I edited my review last night to town
+    the stars and be more specific. The review was yet again "not posted" so now I''ll
+    just delete it.</p><hr /><h1 id="heading-appendix">Appendix</h1><p>Email from
+    Google:</p><p><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1689779005954/d753c3dc-ce06-424a-913a-51c7b9eaf7c2.png"
+    alt class="image--center mx-auto" /></p><p>Text of Email:</p><blockquote><p>Your
+    review isnt posted</p><p>What happened</p><p>Content that violates our policy
+    on fake engagement isn''t allowed. Fake engagement includes incentivized content,
+    content intended to manipulate a place''s rating, and other content that doesn''t
+    represent a genuine experience.</p><p><a target="_blank" href="https://support.google.com/contributionpolicy/answer/7400114#fake_engagement&amp;zippy=%2Cfake-engagement">See
+    content policy</a></p><p>What you can do</p><p>If you think we made a mistake,
+    you can submit an appeal.</p></blockquote>'
+  published_at: 2023-07-19 15:21:23.000000000 +00:00
+- id: https://blog.rayberger.org/migrating-matrix-accounts
+  title: Migrating Between Matrix (Element) Accounts for Beeper
+  url: https://blog.rayberger.org/migrating-matrix-accounts
+  fellow: *2
+  description: "<p>I was recently invited to Beeper (one chat app for fb/insta/discord/linkedin/etc).
+    It has definitely helped me stay up-to-date with replying to friends across different
+    chat apps as I can now see them all in one place.</p><p>Beeper doesnt let you
+    connect a Matrix account (yet). Which kinda makes sense since Beeper gives you
+    a Matrix account when you sign up. Since Ive been enjoying Beeper so much I decided
+    to try to move a few chats from my main Matrix account to there.</p><p>I <a target=\"_blank\"
+    href=\"http://kagi.com/\">Kagid</a> around a bit and didnt see too much about
+    how one should migrate accounts. I did see <a target=\"_blank\" href=\"https://ems.element.io/tools/matrix-migration\">this
+    tool</a> to do it for you. However, the tool says This is a labs feature and should
+    be used with caution and I dont want to share my credentials to see how well it
+    works. It does say this though:</p><blockquote><p>Migration is performed by logging
+    in on behalf of your old and new accounts and automatically inviting your new
+    account in to all of the rooms that your old account is in. You can optionally
+    request that your old user leaves rooms once the new user has successfully joined.</p></blockquote><p>I
+    decided to try it for myself manually. First, I created a chat between my Beeper
+    and <a target=\"_blank\" href=\"http://Matrix.org\">Matrix.org</a> accounts. Then
+    I added my Beeper account to a 1:1 chat with a friend.</p><h1 id=\"heading-decrypting-messages\">Decrypting
+    Messages</h1><p>Unfortunately, thats where I hit my first snag, the <a target=\"_blank\"
+    href=\"https://github.com/vector-im/element-meta/issues/245\">dreaded</a> error
+    message:</p><blockquote><p>Unable to decrypt: The sender's device has not sent
+    us the keys for this message.</p></blockquote><p><img src=\"https://lh5.googleusercontent.com/TnhlK6A7dbjDQfi6q4sXRCA2mojUR8-M1v6GMh5ULA1ONnAbim80E9Sm7g2IN46zMd-rFIqnlGYFSx_gjYv96R7z_3q41EdVKA-IJIWer_GMpscLTx1hPhZJiTV9t_blI6kvQUMIvVjaEU9Zyj5CYkA\"
+    alt=\"Screenshot of Beeper chat with previously metioned error message.\" /></p><p>It
+    was showing this for messages from my Matrix account and from my friend. I waited
+    a while. I clicked the force sync button. I didnt see any request on my other
+    devices to send keys. I found <a target=\"_blank\" href=\"https://github.com/vector-im/element-meta/issues/245\">this</a>
+    relatively recent (2023) meta issue about encryption issues and how theyre being
+    addressed by the Element R (rust) crypto library being rolled out. This tells
+    me it is still an issue. The <a target=\"_blank\" href=\"https://blog.neko.dev/posts/unable-to-decrypt-matrix.html\">blog
+    post</a> linked in the thread gave me the idea to poke around in my settings and
+    see what I can find. I verified the session between my two accounts but it didn't
+    help. I kept digging around.</p><p>Lo and behold: theres an option to Import and
+    Export E2E room keys. It seemed like it might help and it couldnt hurt so I went
+    ahead and exported the keys from my Matrix account and imported them into my Beeper
+    account. Voil, now all the messages are decrypted! \U0001F44F</p><p>I added my
+    Beeper account to a big (10+) E2E group chat. The same issue happened, but over
+    a few minutes some of the messages showed up from people who were online but most
+    remained encrypted. I once again imported the same keys to Beeper and boom, all
+    the messages were readable. Awesome!</p><h1 id=\"heading-making-accounts-admin\">Making
+    Accounts Admin</h1><p>One other issue, I want to make my Beeper account Admin
+    in these rooms. I click Room Info -&gt; People -&gt; My Beeper account but dont
+    see any option to make someone else an admin. I just see these options:</p><p><img
+    src=\"https://lh5.googleusercontent.com/HgHKvRsKGFjqus6uShfzp7bmnWrBvpayApctioX8VUOMjjfVO76nKDHE0kvA9gpCEqNqDVgYq-ixHcOQXo7RjxJjxOd1FUqqYNcBNVFjKqDjQ-6vxDEcFxQj6Dw3Ys8IXkx68hjVUnkj1uULu4LOEz8\"
+    alt class=\"image--center mx-auto\" /></p><p>Confused, I google How to make someone
+    a room admin in Matrix and similar phrases but dont come up with anything. After
+    a while, I figured out to click setting on the room and then under Role &amp;
+    Permissions you can add someone as admin. Its a bit tucked away, and definitely
+    room for improvement with the Element clients but it worked like a charm.</p><h1
+    id=\"heading-summary\">Summary</h1><p>The migration was a bit annoying, but overall
+    Im happy that it was relatively easy to migrate accounts and that, with a little
+    polish, the process should be no problem in the future.</p><p>On a side note:
+    I do worry about completely relying on Beeper for my Matrix chats. They are a
+    VC-backed company that may not be around too long. However, theyve built a great
+    experience that Im willing to pay for when the time comes so Ill enjoy it while
+    it lasts. Oh, also it sucks that Beeper <a target=\"_blank\" href=\"https://en.wikipedia.org/wiki/Man-in-the-middle_attack\">MITM</a>
+    all your messages but the end UX is nice enough to justify it for now.</p><p>PS:
+    Someone should make a video demo of the Matrix migration tool so people can see
+    how it works. Specifically, does it move all your chats or let you select which
+    ones to move? Does it handle the keys issue I had to deal with manually?</p>"
+  published_at: 2023-07-13 14:36:26.000000000 +00:00
+- id: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
+  title: 'Urban Sustainability Transformation in St. Petersburg, Florida: the Final
+    Final of Vienna'
+  url: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
+  fellow: *2
+  description: '<p>I just completed my final final for the Vienna semester of the
+    4CITIES Masters of Urban Studies. I am relieved. It has been a long way coming
+    and the 3,500 words didn''t come easy. The class was <a target="_blank" href="https://ufind.univie.ac.at/en/course.html?lv=290017&amp;semester=2023S">Urban
+    Sustainability Transformations</a>.</p><p>The paper felt a bit silly when it only
+    looked at Civil Society Participation, Data Accessibility, and Drivers &amp; Constraints.
+    Those were the main aspects we (as a class) chose to assess but they don''t feel
+    like the best ones for St. Pete with its environmental and social challenges.
+    However, found a way to work Racial Justice into the paper with literature from
+    outside the class.</p><p>It wasn''t so easy to find sources related to racial
+    issues and urban processes. But I did find a few I liked:</p><ul><li><p><a target="_blank"
+    href="https://digitalcommons.usf.edu/etd/1672/"><em>Struggle In The Sunshine City:
+    The Movement For Racial Equality In St. Petersburg Florida 1955-1968</em></a>
+    by Peyton L. Jones (2010)</p><ul><li>A USF Masters Thesis about St. Pete during
+    the civil rights movement.</li></ul></li><li><p><a target="_blank" href="https://www.jstor.org/stable/26384876">Rebranding
+    Black Public Spaces In St. Petersburg, Florida: Economic Development For Whom?</a>
+    by Evelyn Newman Phillips (2016)</p><ul><li>An overview of how tourism in St.
+    Pete historically had negative impacts on Black residents.</li></ul></li><li><p><a
+    target="_blank" href="https://doi.org/10.1080/26884674.2021.1934201"><em>The urban
+    process under racial capitalism: Race, anti-Blackness, and capital accumulation</em></a>
+    by Prentiss A. Dantzler (2021)</p><ul><li>Talks about how racial issues haven''t
+    been discussed much in the literature on urban processes.</li></ul></li></ul><p>Overall,
+    I''m relatively happy with the paper and ultimately enjoyed the process of researching
+    for it and finding some interesting papers along the way.</p><p>Now it''s time
+    to enjoy summer break :)</p><p>Update 11 July 2023: My friend Evan recommended
+    another book</p><ul><li><a target="_blank" href="https://stpetersburgpress.com/product/where-have-all-the-mangoes-gone/"><em>Where
+    Have All The Mangoes Gone? Reactivating the Tropicana Field Site</em></a> by Sarah-Jane
+    L Vatelot (2019)</li></ul>'
+  published_at: 2023-07-04 22:26:23.000000000 +00:00
+- id: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
+  title: ChatGPT for a quick Leaflet project in class
+  url: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
+  fellow: *2
+  description: '<p>People have been gushing over ChatGPT for some time now, especially
+    my tech friends. I''ve wanted to try it for making some small projects. Today
+    I had my chance.</p><p>During a methods class for my urban studies program, we
+    learned to use <a target="_blank" href="https://maptionnaire.com/">Maptionnaire</a>
+    and did an informal survey of our classmates. Afterward, we had the chance to
+    analyze the data however we wanted. Most people used Maptionnaire''s great built-in
+    heatmap tool but it didn''t offer a good way for showing the size of numeric responses.</p><p>Our
+    survey asked "Where did you cry in Brussels?" and "How many tears did you cry?"
+    I wanted to make a map to show not just where people cried but also some indicator
+    of how much they cried. So I decided to use my programming skills to try to do
+    this quickly.</p><p>In about 45 minutes, I was able to ask ChatGPT a few questions,
+    tweak the responses and have a working demo.</p><h1 id="heading-chatgpt-conversation">ChatGPT
+    Conversation</h1><ul><li><p><strong>Q: How can I map GeoJSON in a way so that
+    the size of the icon changes based on the specific value?</strong></p></li><li><p>A:
+    Use a mapping library such as <a target="_blank" href="https://leafletjs.com/">Leaflet</a>.</p></li><li><p><strong>Q:
+    How can I use this GeoJSON and map it with the Leaflet?</strong></p></li><li><p>A:
+    Some starter HTML that worked to display the points on the map.</p></li><li><p><strong>Q:
+    How can I change the above so the radius of each marker is proportional to the
+    response to the question of how many tears?</strong></p></li><li><p>A: Some changes
+    to the code.</p></li><li><p><strong>Q: How can I make it so that when you hover
+    over a marker it says how many tears were cried?</strong></p></li><li><p>A: Some
+    more changes.</p></li></ul><p>The answers to the above were longer. I''m only
+    demonstrating the spirit of the conversation.</p><h1 id="heading-screenshot">Screenshot</h1><p><img
+    src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680651093832/d2124e83-d16f-4c3d-b5fd-5701bd733ee0.webp"
+    alt class="image--center mx-auto" /></p><p>Live demo: <a target="_blank" href="https://www.rayberger.org/onepagers/sites/spring-school-tears/tears.html">https://www.rayberger.org/onepagers/sites/spring-school-tears/tears.html</a></p><p>Source:
+    <a target="_blank" href="https://github.com/RayBB/onepagers/blob/main/sites/spring-school-tears/tears.html">https://github.com/RayBB/onepagers/blob/main/sites/spring-school-tears/tears.html</a></p><h1
+    id="heading-final-thoughts">Final Thoughts</h1><p>Doing a project like this with
+    ChatGPT can save a lot of time, especially when working with a new tool. However,
+    the code it produced was a little weird and did require tweaking. For now, I doubt
+    someone could do the same without some software development experience. However,
+    it never hurts to give it a try and I''m sure the tech will be improving.</p>'
+  published_at: 2023-04-03 23:36:52.000000000 +00:00
+- id: https://blog.rayberger.org/movie-review-fire-of-love
+  title: 'Movie Review: Fire of Love'
+  url: https://blog.rayberger.org/movie-review-fire-of-love
+  fellow: *2
+  description: '<p><a target="_blank" href="https://en.wikipedia.org/wiki/Fire_of_Love_(2022_film)">Fire
+    of Love</a>, by <a target="_blank" href="https://en.wikipedia.org/wiki/Sara_Dosa">Sara
+    Sora</a>, is one of the best documentaries I''ve seen in a while. It tells the
+    story of <a target="_blank" href="https://en.wikipedia.org/wiki/Katia_and_Maurice_Krafft">Katia
+    and Maurice Krafft</a>, two French volcanists who travel the world seeking to
+    understand how volcanoes work. The film is narrated and features footage shot
+    by Katia and Maurice along with a few clips from interviews.</p><p>I don''t have
+    great words to describe why, but it was overall a really enjoyable movie that
+    inspires me to dig deep into things that interest me no matter what others say.
+    The film also talks a lot about how the couple heavily depended on each other
+    and wouldn''t be able to do their work alone. It makes me wonder what other duos
+    had a big impact on the world together.</p><p>Trailer: <a target="_blank" href="https://www.youtube.com/watch?v=oMArx64RBO4">https://www.youtube.com/watch?v=oMArx64RBO4</a></p>'
+  published_at: 2023-02-12 21:38:12.000000000 +00:00
+- id: https://blog.rayberger.org/filtering-financial-emails
+  title: Filtering Financial Emails
+  url: https://blog.rayberger.org/filtering-financial-emails
+  fellow: *2
+  description: <p>I generally try to keep my inbox clean. That means unsubscribing
+    from everything I don't read and sending newsletters to a specific folder so I
+    don't get push notifications for them.</p><p>However, I never created filters
+    for financial emails. Somehow, I thought that if I did I'd miss some important
+    bill or alert. I've been getting these emails for around a decade now and never
+    once has one of the emails been time sensitive.</p><p>So I've finally set up a
+    filter in Gmail and it looks like this:</p><p>Skip inbox and add the label "Financial"
+    if it's from any of the senders</p><pre><code class="lang-plaintext">betterment.com
+    OR chase.com OR coinbase.com OR discover.com OR freetaxusa.com OR glhec.org OR
+    gtefinancial.org OR gusto.com OR intuit.com OR lespfcu OR n26.com OR optumfinancial.com
+    OR paypal.com OR personalcapital.com OR robinhood.com OR uphold.com OR vanguard.com
+    OR venmo.com</code></pre><p>Now I can just click the "Financial" label every few
+    days to see if there's anything to deal with.</p>
+  published_at: 2023-02-08 02:58:22.000000000 +00:00
+- id: https://blog.rayberger.org/idea-to-merged-in-less-than-30-minutes
+  title: 'Idea To Merged In Less Than 30 Minutes: An Experience Contributing To Open
+    Library'
+  url: https://blog.rayberger.org/idea-to-merged-in-less-than-30-minutes
+  fellow: *2
+  description: '<p>Today, I had such a wonderful experience contributing code to <a
+    target="_blank" href="https://openlibrary.org/">Open Library</a> that I felt compelled
+    to write a short blog post about it.</p><p><strong>Summary:</strong> I found out
+    why the search API wasnt working as I expected and had <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/7435">my
+    fix merged</a> less than 30 minutes later.</p><h2 id="heading-background">Background</h2><ul><li><p>Ive
+    contributed to Open Librarys codebase before but havent been active recently.
+    Though, I also help as a Librarian and <a target="_blank" href="https://blog.openlibrary.org/2021/09/25/extending-a-warm-welcome-to-new-patrons/">occasional
+    mentor</a>. They''re always looking for <a target="_blank" href="https://openlibrary.org/volunteer">more
+    designers, translators, and general volunteers</a>.</p></li><li><p>Open Library
+    is an amazing project that''s part of the Internet Archive. It enables anyone
+    to legally read books for free and has a full-text search of the millions of available
+    books.</p></li></ul><h1 id="heading-problem">Problem</h1><p>I wanted to use <a
+    target="_blank" href="http://followthatpage.com">followthatpage.com</a> to get
+    notified when new books are added and the search results for a query change. Follow
+    That Page only does a simple text diff and the original API call I was making
+    <code>https://openlibrary.org/search.json?q=craigslist</code> contained the full
+    JSON of all the books. Unfortunately, when anything about any of the books changed
+    I would recieve a large diff.</p><p>I realized I could use the <code>fields</code>
+    query param to only get the <code>title</code> and <code>key</code> (book id)
+    of the works like this: <code>https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key</code>.
+    I also noticed that the books were sorted by relevance. Im not sure how relevance
+    works but Ive seen search result order change when Ive added more information
+    to books. So I decided to try sorting the books by their title following the search
+    API docs. Unfortunately, the docs were a bit confusing and I didnt know why I
+    couldnt sort by the key.</p><h1 id="heading-reaching-out">Reaching Out</h1><p>I
+    popped into Open Librarys Slack and posed the question:</p><p><img src="https://lh3.googleusercontent.com/phlJV2xUMf7wEHxpRVlmdMBpisQjTuyEPJ1eyMkZKY7O6oaS9vOfzd-ptsciyDF8qwOf53YYGSGHDi43lX4G_vcJjvO41dJa0cX5okP_rPLVvh0h6EyTk9SGG017zKDaJXYm9AJ65Fil3Faj407v2AD-IAyAqLiInIL37cVm0lSyElzaFkz3RkHTLKzHbQ"
+    alt="I''m struggling to understand the docs here.  How can I make this api call
+    sort? I just need an example because this isn''t working.  https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key"
+    /></p><p><a target="_blank" href="https://openlibrary.org/dev/docs/api/search">Docs
+    in Question</a>,</p><p>API call: <a target="_blank" href="https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key"><code>https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key</code></a></p><p>Drini,
+    an Open Library maintainer, responded in a few minutes letting me know that we
+    can only sort by a few allowed facets and asked why I wanted to sort by key.</p><p>I
+    explained my idea to be notified of new works added for a certain search and he
+    kindly pointed me to <a target="_blank" href="https://github.com/internetarchive/openlibrary/blob/abd73aa37ea27b4e7d70f521bfd1e30b7dc1dc6e/openlibrary/plugins/worksearch/schemes/works.py#L113-L132">the
+    file</a> I would need to modify to do what I wanted. He confirmed I could follow
+    the convention <code>random</code> was already used, which enables sorting in
+    ascending or descending order.</p><p>Since Open Library''s dev wasn''t on my computer,
+    I used the <a target="_blank" href="https://www.gitpod.io/">GitPod</a> button
+    (which <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/5465">I
+    set up</a> for Open Library a year ago) in the README and had a dev environment
+    ready to go in minutes. I tweaked the file needed to sort by key and tested the
+    API in GitPod. Everything looked good.</p><p>Im not that familiar with GitPods
+    workflow for creating pull requests (PRs) so I just went to the file in GitHub
+    and edited it via the web IDE.</p><p><img src="https://lh4.googleusercontent.com/MnvPZyOQgh_QIxFlJsTnuPBLtbtaKfR9oVF-6xzhFVmRS0K5zpLa2bmTrhkd5Hgsi0FXUSJV7vZFWxkQqlxzcTnsQIoStNFa1tRBUggMcm1PwFCACpo8Xt762ehg-elOVRscbb05ioXKWqMC1Wel2sVTJaqJEqL8hTDxGKSVoN--0IHmfCVCtiDDquk1Wg"
+    alt="screenshot of GitHub''s file browser with an arrow pointing to the edit button."
+    /></p><p>I recorded a demo video of my change working in GitPod for the PR. Then
+    I filled out the rest of the details for <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/7435">the
+    PR</a> and posted it on Slack:</p><blockquote><p>Hey @Drini, not asking you to
+    review now. But just letting you know I did open a PR and hope it can get in the
+    queue to be checked out!</p></blockquote><p>Six minutes later the code was running
+    on the test environment and promptly merged. After the next weekly deploy it will
+    be in production. The docs are already updated!</p><h2 id="heading-timeline">Timeline</h2><ul><li><strong>9:50
+    PM</strong> Drini let me know I could add this feature</li><li><strong>10:14 PM</strong>
+    I sent my PR to Drini</li><li><strong>10:20 PM</strong> My PR was tested and merged</li></ul><p>Thank
+    you so much to <a target="_blank" href="https://github.com/cdrini">Drini</a>,
+    <a target="_blank" href="https://mek.fyi/">Mek</a>, <a target="_blank" href="https://github.com/cclauss">Christian</a>
+    and the rest of the team at Open Library (and the <a target="_blank" href="https://archive.org//">Internet
+    Archive</a>) for always providing a kind and supportive community. It is no small
+    feat to foster such collaboration with a lean team.</p><p>PS: You should not expect
+    this level of responsiveness from most open source projects. This is a big project
+    with a small team working full time that has made it a high priority to engage
+    with the community. Again, kudos to them for pulling it off.</p>'
+  published_at: 2023-01-20 01:12:45.000000000 +00:00
+- id: https://blog.rayberger.org/automating-ixelles-appointment-checking
+  title: Automating Ixelles Appointment Checking
+  url: https://blog.rayberger.org/automating-ixelles-appointment-checking
+  fellow: *2
+  description: '<p>I made a small website to show the next available appointments
+    at the <a target="_blank" href="https://en.wikipedia.org/wiki/Ixelles">Ixelles</a>
+    municipal office in Brussels, Belgium.</p><h1 id="heading-why">Why</h1><p>To get
+    my residence permit I need two appointments. Unfortunately, the appointments are
+    fully booked for months in advance. Fortunately, the government officials told
+    me new slots open often, just keep an eye on the site. Unfortunately, it takes
+    several slow clicks to see the times for the types of appointment I''m interested
+    in.</p><h1 id="heading-solution">Solution</h1><p>Make a small site to scrape the
+    appointments and show them without any clicks.</p><h2 id="heading-notifications">Notifications</h2><p>Use
+    <a target="_blank" href="https://distill.io/">Distill</a>, a free extension, to
+    get desktop notifications when dates change. A bit easier than setting up notifications
+    via the <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/notification">Notifications
+    Web API</a>.</p><p>I also shared this with friends going through the same process
+    so setting up some other notification system (like email) would be a bit more
+    work than I wanted.</p><h1 id="heading-links">Links</h1><ul><li>Website: <a target="_blank"
+    href="https://ixelles-apt.glitch.me">ixelles-apt.glitch.me</a></li><li>Source
+    Code: <a target="_blank" href="https://github.com/RayBB/ixelles-apt">github.com/RayBB/ixelles-apt</a></li><li>Host:
+    <a target="_blank" href="https://glitch.com">glitch.com</a>, a free hosting provider
+    and I used <a target="_blank" href="https://glitch.com/~hello-sqlite">their project
+    template</a></li></ul><h1 id="heading-screenshots">Screenshots</h1><h2 id="heading-my-webpage">My
+    Webpage</h2><p><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670899323733/XZLjPd8_f.png"
+    alt="image.png" /></p><h2 id="heading-process-to-check-time-slots-on-municipal-website">Process
+    to check time slots on municipal website</h2><p><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670976384501/wLBz2awyc.webp"
+    alt="ixelles_timeslots.webp" /></p>'
+  published_at: 2022-12-13 19:00:45.000000000 +00:00
+- id: https://blog.rayberger.org/startupbus-florida-2022
+  title: StartupBus Florida 2022
+  url: https://blog.rayberger.org/startupbus-florida-2022
+  fellow: *2
+  description: <p><a target="_blank" href="https://startupbus.com/">StartupBus</a>
+    is a three-day <a target="_blank" href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a>
+    to build a business with a team while riding a bus to Austin, Texas. On Wednesday,
+    July 27, 2022 at 7AM I departed Tampa, Florida with seven other competitors and
+    several great mentors and organizers.</p><h1 id="heading-why-did-i-do-this">Why
+    did I do this?</h1><p>I enjoy hackathons, I like riding the bus, my partner Marley
+    was hyped about going, Ive never been to Austin, and it just seemed like a fun,
+    crazy thing to do. I didnt officially sign up until the day before, so it was
+    a pretty last-minute decision.</p><p>The general order of events is:</p><ol><li>Come
+    with a startup idea and pitch it</li><li>Form teams around the ideas that people
+    are most interested in</li><li>Come up with a business plan</li><li>Start building
+    a product</li><li>Pitch and refine based on feedback<ul><li>My team pitched at
+    least 10 times in total</li></ul></li><li>Have fun with your teammates</li></ol><p><a
+    target="_blank" href="https://startupbus.com/2022#buses-title">The buses</a> depart
+    from different parts of the continent and each have their own journey. Aside from
+    food and rest stops, the Florida bus stopped at <a target="_blank" href="https://innovate.research.ufl.edu/">UF
+    Innovate</a>, <a target="_blank" href="https://www.domistation.org/">Domi Station</a>,
+    and <a target="_blank" href="https://www.ideavillage.org/">The Idea Village</a>
+    to hear from different entrepreneurs and pitch our ideas. These stops were inspiring
+    and re-energizing. Shoutout to Evan Thacker for planning all these stops.</p><p>The
+    energy in the room was palpable when we arrived in Austin for the pitch day and
+    met the buspreneurs from the other buses. It helped that organizers were doing
+    a great job running the music and getting everyone fired up with inspirational
+    words.</p><h1 id="heading-how-did-the-pitches-go">How did the pitches go?</h1><p>I
+    was extremely impressed by the quality of the pitches, despite the fact that we
+    didnt know the exact format of pitches until moments before pitching began. We
+    had a loose idea of the format for the first pitch (one minute to pitch) but were
+    surprised to find out we had to pick one person on our team that would pitch,
+    then there would be Q&amp;A, and then the judges would pick someone else on our
+    team to give another one minute pitch. I did not like how they picked someone
+    on each team to pitch and sometimes the person they picked wasnt comfortable pitching
+    in English. I hope that language level was not a significant factor in the ultimate
+    scoring.</p><p>After the qualifying round (one minute pitches), 10 of the 15 teams
+    moved to the semi-finals. These were structured three minute pitches followed
+    by two minutes of demos and then an off-stage technical assessment.</p><p>My team,
+    Next Responder, placed fourth in the semi-finals. However, we chose not to move
+    forward to the finals because we would have had to give up 1% of our company.
+    Under the pressure of a five minute decision window, we didnt feel like there
+    was clear enough value in the offer (mentorship, resources, and exposure) for
+    our business, which is very B2B. However, Stayges, the other Florida bus team,
+    accepted the offer and placed second overall!</p><h1 id="heading-conclusion">Conclusion</h1><p>Like
+    any good challenge, there were some rough spots, but at the end of the day StartupBus
+    was an awesome experience. The friendships, the travel, the challenge, and the
+    creativity all blended together in a great way. I started with a bus full of strangers
+    and ended with several buses full of friends.</p><p>Shout out to the people who
+    made this an experience to remember:</p><ul><li>FL bus organizers and mentors
+    (Joey, Mandy, Evan, Carey, and Josh)</li><li>FL bus participants (Chevy, Julie,
+    Marley, Charlotte, Sasha, Justin, and VJ)</li><li>The people who broke bread,
+    swapped stories, and went out of their way to spread good vibes (Gustrazo Reyes,
+    Claudia Clo, Abril GaRa, Guillermo Vizcano, FanNy O'malley, Jackie Benitez, Yoali,
+    Elena Itchel, Claudia Davila, and many more)</li></ul>
+  published_at: 2022-09-02 04:48:00.000000000 +00:00
+- id: https://blog.rayberger.org/book-notes-release-it
+  title: 'Book Notes: Release It'
+  url: https://blog.rayberger.org/book-notes-release-it
+  fellow: *2
+  description: '<p>These are my notes for <strong><em> <a target="_blank" href="https://openlibrary.org/books/OL26833660M/">Release
+    It: Design and Deploy Production-Ready Software 2nd Edition</a> </em></strong>
+    by Michael T. Nygard.</p><p>Im not sure how I found this book but it is likely
+    from a search for SRE books.The fact that Ive been reading this book on and off
+    for about 8 months says two things:</p><ol><li>I enjoyed the book enough to keep
+    reading it - otherwise I would have stopped</li><li>It started to feel a little
+    less relevant to my job as my SRE responsibilities ramped up</li></ol><p>Overall,
+    the book was enjoyable to read and a good balance between information density
+    and understandability. The case studies were quite enjoyable!</p><p>The main things
+    I learned about were <strong>system design patterns, circuit breakers, bulkheads,
+    backpressure, deceleration zones, leaky bucket, governors, multihoming, load balancing,
+    and canary deploys.</strong></p><p>I made a list of all the books in the bibliography
+    here: https://openlibrary.org/people/raybb/lists/OL200793L/</p><p>Some things
+    from the book:</p><ul><li>The major dangers to your systems longevity are memory
+    leaks and data growth. Both kinds of sludge will kill your system in production.
+    Both are rarely caught during testing.</li><li>Just as auto engineers create crumple
+    zonesareas designed to protect passengers by failing firstyou can create safe
+    failure modes that contain the damage and protect the rest of the system.</li><li>Once
+    established, a TCP connection can exist for days without a single packet being
+    sent by either side.</li><li>Every integration point will eventually fail in some
+    way, and you need to be prepared for that failure.</li><li>Partitioning servers
+    with Bulkheads,, can prevent chain reactions from taking out the entire servicethough
+    they wont help the callers of whichever partition does go down. Use Circuit Breaker
+    on the calling side for that.</li><li>It would be wonderful if there was a way
+    to keep things in the session (therefore in memory) when memory is plentiful but
+    automatically be more frugal when memory is tight. Good news! Most language runtimes
+    let you do exactly that with weak references.</li><li>some servers are handling
+    more than a million concurrent connections</li><li>If youre dealing with vendor
+    code, it may also be worth some time beating them up for a better client library.</li><li>Any
+    special offer meant for a group of 10,000 users is guaranteed to attract millions.
+    The community of networked bargain hunters can detect and share a reusable coupon
+    code in milliseconds.</li><li>For service providers, use Handshaking and Backpressure
+    to inform callers to throttle back on the requests. Also consider Bulkheads to
+    reserve capacity for high-priority callers of critical services.</li><li>Build
+    in deceleration zones to account for momentum. Suppose your control plane senses
+    excess load every second, but it takes five minutes to start a virtual machine
+    to handle the load. It must make sure not to start 300 virtual machines because
+    the high load persists.</li><li>I like the Leaky Bucket pattern from Pattern Languages
+    of Program Design 2 [VCK96]. Its a simple counter that you can increment every
+    time you observe a fault. In the background, a thread or timer decrements the
+    counter periodically (down to zero, of course.) If the count exceeds a threshold,
+    then you know that faults are arriving quickly.Sisyphean - something that can
+    never be completed</li><li>Log file rotation requires just a few minutes of configuration.</li><li>Every
+    performance problem starts with a queue backing up somewhere.</li><li>A governor
+    limits the speed of an engine. Slow things down to allow intervention</li><li>In
+    development, the server can always call its language-specific version of getLocalHost,
+    but on a multihomed machine, this simply returns the IP address associated with
+    the servers internal hostname</li><li>Reject work as close to the edge as possible.
+    The further it penetrates into your system, the more resources it ties up</li><li>the
+    best way to tell if users are receiving a good experience is to measure it directly.
+    This is known as real-user monitoring (or RUM, if you like).</li><li>the purpose
+    of the canary deployment is to reject a bad build before it reaches the users.</li><li>The
+    only safe way to handle file uploads is to treat the clients filename as an arbitrary
+    string to store in a database field. Dont build a path from the filename in the
+    request. Generate a unique, random key for the real filename and link it to the
+    user-specified name in the database. That way, the names in the filesystem stay
+    under your services control and dont include external input as any part.</li><li><strong>trickle,
+    then batch</strong> - this is basically the pattern of putting an if in your code
+    to manually change over something about data as it is accessed. Then you see it
+    working slowly. Once youre confidence you can run a batch job to do the less frequently
+    accessed data.</li><li>A good health check page reports the application version,
+    the runtimes version, the hosts IP address, and the status of connection pools,
+    caches, and circuit breakers.</li><li>Instead of creating a single system of record
+    for any given concept, we should think in terms of federated zones of authority.</li><li>Highly
+    efficient systems handle disruption badly. They tend to break all at once.</li><li>Also,
+    as Charity Majors, CEO of Honeycomb.io says, If you have a wall full of green
+    dashboards, that means your monitoring tools arent good enough. Theres always
+    something weird going on.</li><li>You can make this more fun by calling it a zombie
+    apocalypse simulation. Randomly select 50 percent of your people and tell them
+    they are counted as zombies for the day. They are not required to eat any brains,
+    but they are required to stay away from work and not respond to communication
+    attempts.</li></ul><p>Why DNS round robin can be bad:</p><ul><li>Too much control
+    in clients hands</li><li>DNS has no info about health of instances</li><li>Some
+    clients control more info than others</li><li>global server load balancing (GSLB)
+    server keeps track of the health and responsiveness of the pools.</li><li>GSLB
+    can also apply weighted distribution and a host of load-balancing algorithms.
+    These can be used as part of a disaster recovery strategy or even part of a rolling
+    deployment process.</li><li>Use a different DNS provider still for your public
+    status page.</li></ul><p>Photo by <a href="https://unsplash.com/@rparmly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ross
+    Parmly</a> on <a href="https://unsplash.com/s/photos/plane?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
+  published_at: 2021-09-12 17:44:33.000000000 +00:00
+- id: https://blog.rayberger.org/book-notes-save-the-cat
+  title: 'Book Notes: Save The Cat'
+  url: https://blog.rayberger.org/book-notes-save-the-cat
+  fellow: *2
+  description: <p>I took an acting class my freshman year of college.  <a target="_blank"
+    href="https://openlibrary.org/works/OL5709101W/"><em>Save The Cat</em></a>  by
+    Blake Snyder is one of the books the professor talked highly of a few times. So
+    it has been sitting on my reading list for years. I finally picked it up from
+    the library and decided to give it a read.</p><p>I don't know much about screenwriting,
+    or Hollywood in general, so I can't compare it to much but the book was entertaining
+    on it's own and had some good nuggets.</p><p>Here are my notes:</p><ul><li>You
+    gotta have a good hook (aka logline) and title</li><li>High Concept - When it's
+    easy to see what a movie is about from hook/title</li><li>You can, and sometimes
+    must, near cliche but you always need a twist</li><li>Make the hero likeable</li><li>A
+    good structure stops people from rewriting your script too much to take credits</li><li>Save
+    the cat - Make the hero relatable</li><li>Double Mumbo Jumbo - Stick to one kind
+    of magic per movie</li><li>Laying the pipe - telling the character backstory</li><li>Keep
+    the press out - preserves the magic for the audience</li><li>If your hear is too
+    neutral make the bad guy badder</li><li>Touch many emotions during you movie</li><li>Give
+    minor characters a limp and eye patch to make them memorable</li></ul><p>Photo
+    by <a href="https://unsplash.com/@nymanphotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Daniel
+    Nyman</a> on <a href="https://unsplash.com/s/photos/cat-climb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+  published_at: 2021-07-10 21:48:28.000000000 +00:00
+- id: https://blog.rayberger.org/book-notes-move-fast-how-facebook-builds-software
+  title: 'Book Notes: Move Fast: How Facebook Builds Software'
+  url: https://blog.rayberger.org/book-notes-move-fast-how-facebook-builds-software
+  fellow: *2
+  description: '<p>I''ve been a fan of the  <a target="_blank" href="https://softwareengineeringdaily.com/">Software
+    Engineering Daily</a>  podcast for several years. When I learned that the creator,
+    Jeff Meyerson, was releasing a book and it was just $0.99 on Kindle I couldn''t
+    pass it up. That book was <a target="_blank" href="https://openlibrary.org/works/OL24671877W/"><em>Move
+    Fast: How Facebook Builds Software</em></a>.</p><p>In general, I liked the book.
+    Short, to the point, and pretty well written. The book could do with one less
+    mention of how HTML5 wasn''t enough for Facebook. Here are a few ideas from the
+    book that I liked:</p><ul><li>"From its early days, Google has had more of an
+    air of computer science, an academic bent that emphasizes proofs, correctness,
+    and seriousness. Facebook engineers are self-deprecating hackers who just want
+    to build cool stuff. Facebook engineers are comfortable with the fact that sometimes
+    things break, and sometimes mistakes are made"</li><li>"Tom [a notable engineering
+    manager at FB] believes that engineers should be spending 75 percent of their
+    time at work on things that they are passionate about, because engineers do their
+    best work when they are creatively satisfied."</li><li>Bootcamp is FB''s on boarding
+    process. Fix real bugs on day one, find your team after several weeks.</li><li>"At
+    Facebook, nobody forces an engineer to join a team. The managers who cant sell
+    their projects end up with bad teams and have trouble succeeding. This causes
+    bad managers to get weeded out quickly."</li><li>"A clique will form around an
+    influencer engineer. Influencers can win over the hearts and minds of other engineers,
+    single-handedly changing the technical direction of a company for better or worse."</li><li><strong>Push
+    Karma</strong> - "a four-star rating system that tracked how responsible individual
+    developers were in their management of software releases"</li><li>"Every engineering
+    organization needs to decide how much time theyre going to spend cutting down
+    the trees and how much time theyre going to spend sharpening their saws. Facebook
+    had spent many years cutting down trees, and now it was time to sharpen their
+    saws."</li><li>"When you work at Facebook, your work identity is kept seamlessly
+    consistent across every tool, from video conferencing to code review. The uniformly
+    integrated toolset makes the experience of being a Facebook employee totally unique.
+    "</li><li>"Facebook invests so heavily in its infrastructure that most product
+    engineers feel like they have effectively infinite resources. As they push the
+    bounds of those resources, the infrastructure engineers respond by improving low-level
+    abstractions such as compilers, databases, and networking protocols."</li></ul><p>Photo
+    by <a href="https://unsplash.com/@timothyhalesbennett?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Timothy
+    Hales Bennett</a> on <a href="https://unsplash.com/s/photos/facebook?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
+  published_at: 2021-07-09 03:25:38.000000000 +00:00
+- id: https://blog.rayberger.org/book-notes-an-army-of-problem-solvers
+  title: 'Book Notes: An Army of Problem Solvers'
+  url: https://blog.rayberger.org/book-notes-an-army-of-problem-solvers
+  fellow: *2
+  description: '<p>My quick and sloppy notes from reading <em> <a target="_blank"
+    href="https://openlibrary.org/books/OL32511088M/An_Army_of_Problem_Solvers">An
+    Army of Problem Solvers</a> </em> by Shawn Loney. A fantastic book about social
+    enterprises in Canada.</p><h1 id="ch-1">Ch 1</h1><p>He sees people spend welfare
+    checks on expensive junk food. But in that he also sees competition. He calls
+    it the "upside of down" that because people are spending all their money on one
+    thing there is room to disrupt.</p><p>Author cofounded the social enterprise Aki
+    Energy</p><p>The Social Enterprise Centre houses many good organizations</p><h1
+    id="ch-2">Ch 2</h1><p>Solutions economy is about solving social/environmental
+    problems with market forces</p><p>Social enterprise - non profit that''s self
+    funded</p><p>Social entrepreneur - profit seeking but also focused on social issues
+    (idk about this one)</p><p>Gov has a place but it''s not to fix everything</p><h1
+    id="ch-3">Ch 3</h1><p>"Residential" schools in Canada are awful for First Nations
+    people</p><p>First Nations students are sent there and not treated well</p><p>Author
+    describes history and challenges First Nations people have faced</p><h1 id="ch-4">Ch
+    4</h1><p>No food to buy in one of the First Nations areas he visited. Even with
+    a pocket full of cash.</p><p>Lets of diabetes plague First Nations people</p><p>Author
+    started a social enterprise farm</p><p>Author says employed people tend to be
+    happy and healthy</p><p>Gov should be helping the problem solvers</p><h1 id="ch-5">Ch
+    5</h1><p>The gov won''t help fund geothermal energy for new houses even though
+    it would help the poor.</p><p>Gov should be working with problem solvers not blocking
+    them.</p><h1 id="ch-6">Ch 6</h1><p>For profit food by giant corporations has perverse
+    incentives (aka they try to make money not just feed everyone)</p><p>As much as
+    90% of the cost of food is from energy</p><p>What if we required schools and hospitals
+    to buy local food? It would have some higher upfront costs but would greatly help
+    the community.</p><p>Summary: If goal was people over profit then food production
+    would look very different.</p><h1 id="ch-7">Ch 7</h1><p>BUILD is a Winnipeg social
+    enterprise that provides on the job training.</p><p>Described how The legal system
+    spends millions on repeat offenders without helping them much.</p><p>Government
+    could get first dibs on procurement contracts to social enterprises</p><p>Low
+    income families rent and have high utility bills. They can''t take advantage of
+    subsidy to install energy efficient toilet b/c they don''t own the toilet and
+    the landlord has no incentive to let them.</p><h1 id="ch-8">Ch 8</h1><p>Some examples
+    of social entrepreneurs and talk about Ashoka foundation</p><h1 id="ch-9">Ch 9</h1><p>Think
+    long term to solve problems, GDP is short term</p><p>GPI - Genuine Progress Indicator
+    is an alternative</p><h1 id="ch-10">Ch 10</h1><p>M-KOPA installs cheap solar in
+    Kenya</p><p>Kiva - empowers people to give loans to those in need</p><p>Complementary
+    currencies (aka local currency) ensue money stays in economy </p><p>Brazilian
+    city Curitiba offered free bus tokens for picking up trash</p><p>"Garden Hills
+    Bucks" could be possible and author describes how it could be used for First Nations</p><h1
+    id="ch-11">Ch 11</h1><p>The gov throws money at problems rather than problem solvers.
+    Basically saying they often address symptoms rather than causes.</p><p>Author
+    is a big fan of the pay-as-you-save model of funding things like new toilets or
+    heating systems</p><p>"The future of philanthropy is social enterprise"</p><p>More
+    government doesn''t really mean more problems solved but more social enterprises
+    does</p><h1 id="ch-13">Ch 13</h1><p>In favor of $15 min wage</p><p>80% of minimum
+    wage earners in Manitoba are over 20 years old</p><p>Minimum wage earners generally
+    not in manufacturing so jobs don''t just "go to China"</p><h1 id="ch-14">Ch 14</h1><p>Left
+    and Right can agree on social enterprises being good</p><h1 id="conclusion">Conclusion</h1><p>Lets
+    create solutions</p><h1 id="my-thoughts">My thoughts</h1><p>I liked the book a
+    lot. It wasn''t perfectly written or organized but it really got me thinking about
+    the role of markets. It''s interesting that the author advocates for them so heavily
+    despite that they clearly don''t solve things on their own. We live in a world
+    where the profit is seen as so important and it''s not clear how to change that.
+    The author thinks problems can be fixed by social enterprises which are basically
+    nonprofits that self fund. But it''s not super clear to me how we encourage people
+    to start and run them. I guess that''s why he wrote this book. It''s also a bit
+    of a hard pill to swallow to accept that maybe to have a big impact you shouldn''t
+    be at a big org but rather solving things on a local level.</p><p>Photo by <a
+    href="https://unsplash.com/@metelevan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrey
+    Metelev</a> on <a href="https://unsplash.com/s/photos/shovel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
+  published_at: 2021-05-29 00:11:38.000000000 +00:00
+- id: https://blog.rayberger.org/the-secret-life-of-groceries
+  title: 'Book Notes: The Secret Life of Groceries'
+  url: https://blog.rayberger.org/the-secret-life-of-groceries
+  fellow: *2
+  description: '<p>I recently finished reading <em>The Secret Life of Groceries: The
+    Dark Miracle of the American Supermarket</em> by Benjamin Lorr (<a target="_blank"
+    href="https://www.penguinrandomhouse.com/books/253715/the-secret-life-of-groceries-by-benjamin-lorr/">link</a>).
+    I learned about the book from <a target="_blank" href="https://www.nytimes.com/2020/09/08/books/review/the-secret-life-of-groceries-benjamin-lorr.html">a
+    review</a> by Nick Summers published in The New York Times.</p><p>The book was
+    a rollercoaster of stress, intrigue, and sadness. It is organized in six parts
+    with stories following specific characters in different parts of the American
+    supermarket supply chain.</p><p>What follows are notes and quotes organized by
+    chapter.</p><h2 id="intro">Intro</h2><ul><li>"This book is about the grocery store.
+    About the people who work there and the routes of supply that define it."</li><li>"appalling
+    and perfectly hygienic and safeit is a fitting metaphor for the grocery business
+    as whole."</li><li>"ten thousand minnows piled up in silver ribbons, left for
+    days, as they waited to be transformed into the protein base of the aquaculture
+    pyramid."</li><li>"We spend only 10 percent of our budget on food, compared to
+    40 percent by our great-grandparents in 1900, and 30 percent by our grandparents
+    in the 1950s."</li><li>"we now grapple with a series of problems entirely unprecedented
+    in the history of humanity: of too much food, of using food to distribute ethical
+    responsibility, of food as a proxy for control in our own increasingly detached
+    lives."</li><li>"an item within the grocery matrix loses its identity as food
+    and becomes product."</li></ul><h2 id="part-1-salad-days-at-trader-joes">Part
+    1: Salad Days at Trader Joe''s</h2><p>In the old days of the general store, the
+    wealthy would often be charged more, as items weren''t priced, but also given
+    fresher meat and produce. In some stores a tab would be kept and families may
+    only pay a few times a year after harvesting their crops.</p><p>Saunders, the
+    founder of Piggly Wiggly, was inspired by the cafeteria. Cafeterias, which were
+    new in the late 1800s, gave each customer a tray and had them walk down the line
+    collecting food. This was the precursor to the supermarket. </p><ul><li>"One day,
+    watching beady-eyed piglets charge a trough, Saunders decides the piggies are
+    laughably similar to customers charging an overwhelmed clerk. In honor of all
+    his piggy little customers, he names his new store the Piggly Wiggly."</li></ul><p>On
+    the grocery industry: </p><ul><li>In 1937 the shopping cart was introduced by
+    Sylvan Goldman.</li><li>"when Khrushchev toured Washington, D.C., in 1959, the
+    supermarket brought a temporary dtente to the Cold War."</li><li>"legacy affairs:
+    family businesses that follow the prototypically American progression from heartwarming,
+    bootstrapping, backstabbing founder to eager scientific expansion in the immediate
+    offspring to a sluggish, almost hostile complacency in the third and fourth generations."</li><li>"The
+    word retail comes to us from the Middle French word retailler, meaning to cut
+    into pieces, more etymologically related to the English word tailor than anything
+    having to do with sales."</li><li>"it was suggested that if all owners agreed
+    to longer hours la Greenthe chain could be called 7-Eleven."</li></ul><h3 id="the-story-of-joe-coulombe-and-trader-joes">The
+    Story of Joe Coulombe and Trader Joe''s</h3><p>Joe is a very friendly guy and
+    it is hard to know if he''s more of a calculating businessman or wholesome self-taught
+    founder. He is a master of using the wink to create confidence.</p><p>Joe was
+    hired by Rexall to figure out why Owl (a drugstore) was failing. He figured out
+    7-Eleven was the cause and Rexall asked him to copy the chain and beat them. Joe
+    decided he would beat them by paying as well as local unions and getting the best
+    talent. The chain isn''t doing well and Joe buys Pronto using all his family savings
+    and a loan from the bank. Pronto eventually becomes Trader Joe''s. The store had
+    almost no turnover when Joe was running it. </p><ul><li>"Trader Joes, just like
+    trader Joe, has perfected the ability to project integrity while simultaneously
+    offering a very similar class of mass-produced goods that its competitors offer."</li><li>"you
+    are the precise demographic Joe targeted way back thenthe overeducated, underpaid,
+    and inquisitive; the customer who understands and cares for the world foremost
+    by understanding and caring for themselves"<ul><li>"For Joe, private label needed
+    to be an extension of the stores identity. It would allow him to create a parallel
+    stock of items that appeared to exist outside the national homogeny, simultaneously,
+    continuously produced, but more precisely targeting his demographic."</li></ul></li><li>"Trader
+    Joes has the single highest sales per square foot of any retail grocery chain,
+    basically doubling its nearest competitor, Whole Foods."</li><li>"He [Joe] picked
+    up the grocery flag from merely large sizes and low prices and marched it forward,
+    planting it back down firmly in our hearts."</li><li>Isn''t the most healthy<ul><li>Many
+    of their best deals are on frozen or heavily processed foods</li><li>"Two different
+    food safety experts I spoke with told me the unofficial FDA nickname for the chain
+    is Recall Joes."</li></ul></li></ul><p>Some things that made Trader Joe''s Successful:
+    </p><ul><li>Joe focuses on finding products with a high value to size ratio.</li><li>It
+    was profitable to sell items in limited supply (like extra-large eggs). Other
+    stores wouldn''t touch these because they were afraid to run out and disappoint
+    customers.</li><li>Joe found a loophole in the regulations of wine pricing that
+    nobody else noticed (pricing controls didn''t apply to imported wine) and was
+    able to have the best deal on wine.</li></ul><p>Trader Joe''s couldn''t compete
+    with others on peanut butter, so they decided to make almond butter and basically
+    invented it as a consumer product.</p><p>Theo Albrecht of Albrecht Discount (aka
+    ALDI) decided to buy Trader Joe''s. Joe sold it on the condition that he would
+    stay as CEO and the store wouldn''t be changed too much. Tension built and before
+    long Joe resigned. Joe now talks about the sale with a nervous sadness.</p><h2
+    id="part-2-distribution-of-responsibility">Part 2: Distribution of Responsibility</h2><h3
+    id="lynne-a-truck-driver">Lynne, a truck driver</h3><ul><li>"''I recommend you
+    get yourself a Gatorade bottle.'' She looks me up and down. ''Wide mouth for you.''
+    I dont believe that I react to this. ''Stop looking pale. Im just fucking with
+    you. Nothing in those pants looks like youre a wide mouth anything.''"</li><li>"If
+    I [Lynne] ever lost my CDL for anything, theyd have to put me in the ground. This
+    job is misery, but its the only thing in the world for me."</li><li>"At first
+    this seems like an interviewers dream. A subject overflowing with commentary,
+    dripping with color."</li><li>"She [Lynne] simply doesnt recognize or care about
+    the social cues I am sending outor actually combative, using words as a weapon."</li><li>"I
+    [the author] know things have taken a dark turn when I consider getting earplugs
+    for hanging around a woman I am ostensibly here to interview."</li><li>"Lynne
+    estimates she grossed $200,000 last yearthat is a rough calculation based on miles
+    drivenbut that she took home less than $17,000."</li><li>"I [Lynne] know there
+    is a light at the end of the tunnel. Because I am locked into this contract and
+    I cant afford to believe anything else."</li><li>"Lynne also tells me that at
+    a truck stop she never makes eye contact with a man."</li><li>"[when Lynne reported
+    sexual harassment] the company was like ''Maybe you misconstrued it,''"</li><li>Lynne
+    has so many fees come out of her paycheck that she often only gets the minimum
+    paycheck of $100, just enough to keep her surviving off the cheapest food available.</li><li>She
+    hasn''t been home to see her family in many months because they won''t let her
+    take routes that go that way. The author theorizes that this is to help keep the
+    truckers from quitting when they get a taste of home.</li></ul><h3 id="the-industry">The
+    Industry</h3><ul><li>People see ads to work as a well-paid trucker. They''ll get
+    a one way ticket to the training and hotel paid for.<ul><li>Once they get there
+    they are promised a great job if they just sign a contract for training that you
+    can pay for later, $3,000 - $8,000.</li><li>After they finish the training there
+    are often no "jobs" available but they are offered to be independent contractors
+    and get their own trucks via lease-to-own programs.</li><li>"Lease-to-own programs
+    in OTR trucking seem like both [very difficult and designed to fail] to me."</li><li>These
+    desperate people sign up and now have huge loans they have to pay and are at the
+    mercy of the company to assign them jobs. These jobs are often extremely poorly
+    paid and have nearly impossible deadlines.</li><li>After all the fees their paychecks
+    often come out to almost nothing but they have a guaranteed minimum pay of ~$100,
+    just enough to feed themselves and keep driving.</li></ul></li><li>"Jimmy Hoffa
+    was a teamster first and foremost, and the strong, if corrupt, union he led was
+    able to wrest a middle-class salary with benefits from that cohort."</li><li>"From
+    the golden 70s, the trucker suddenly found himself in the red and green 80s, the
+    colors of the now essential methamphetamines drivers gobbled by the handful"</li><li>"Your
+    possessions are on top of each other [a trucker and their co-driver], your needs
+    are on top of each other, your sexual desires and rage and annoying quirks are
+    on top of each other."</li><li>"That fresh apple you bite into has typically been
+    sitting in dormancy for close to a year."<ul><li>"The core of this control [of
+    produce] comes from regulating ethylene, a gaseous plant hormone that causes ripening
+    and color development. Within the right conditions, suppressing ethylene keeps
+    fruit in a suspended state of development."</li></ul></li><li>"Seeing almost any
+    product in bulk is debasing."</li></ul><h3 id="part-3-self-realization-through-snacks">Part
+    3: Self-Realization Through Snacks</h3><ul><li>"the twin attributes of successful
+    specialty: mystery and superiority."</li><li>"[people] stand up in sudden inspiration
+    to snap a photo of a PowerPoint slide"<ul><li>I relate to the author''s confusion
+    of people taking photos of seemingly useless slides.</li></ul></li><li>"<a target="_blank"
+    href="https://www.slawsa.com/">Slawsa</a> is as intuitive as it is baffling."</li><li>"Perhaps
+    she is good-natured without being good-humored. Perhaps she is good-humored without
+    having a good sense of humor. ... It is a laughter at her own foibles, where you
+    are kind of worried for her"</li><li>"[many grocery stores have] a slotting fee,
+    which is a pure cash-for-placement exchange.""</li></ul><h2 id="part-4-the-retail-experience">Part
+    4: The Retail Experience</h2><p>Lorr (the author) got a job at Whole Foods to
+    get the inside scoop.</p><ul><li>New employees must complete a twelve-hour orientation
+    about the mission and philosophy of Whole Foods.<ul><li>"concussive effect of
+    repetitive dull content"</li><li>"Passing the probation vote [to be hired at Whole
+    foods] requires a two-thirds majority in which each team member fills out a skills
+    sheet anonymously ranking our abilities."</li><li>"We [Whole Foods employees]
+    are told to apologize for any and every mistake, especially if it isnt our fault,
+    unless, of course, the customer is complaining about injury or food-borne illness"</li><li>"Andy
+    gives us a secret phrase to use whenever we are stumped: Sounds important. It
+    can be deployed almost universally to respond to questions we dont fully understand,
+    hectoring we dont necessarily deserve, demands for advice we dont particularly
+    have"</li><li>"Mr. Green is the Orwellian name for the Whole Foods internal security
+    team"</li></ul></li><li>"Human Capital Management, or just-in-time scheduling"<ul><li>"somewhere
+    in the last ten years, just-in-time manufacturing morphed into just-in-time scheduling."</li><li>"He
+    [Walter] only opens once or twice a week so he never completely adjusts to any
+    schedule."</li><li>"Another [study] found that 60 percent of retail workers said
+    that they needed to be available to fulfill every work schedule that might be
+    assigned in a given week"</li><li>"There are professions where we expect people
+    to be on calldoctors, first respondersbut they are compensated for that both financially
+    and in civic respect"</li></ul></li><li>"organic does not mean healthier, but
+    rather is an option to pay extra to limit the externalities of production"</li><li>"we
+    pluck melons just on the verge of rot and take them into the back room, where
+    a woman who speaks no English stands all day carving them up into chunks and packing
+    endless grab-n-go containers."</li></ul><h2 id="part-5-theater-of-retail">Part
+    5: Theater of Retail</h2><ul><li>"I kept thinking of the medieval practice of
+    simony, where the wealthy could pay money to be released from their sins."</li><li>"Government
+    regulation of our food is as spotty as a fourteen-year-old boys first beard"</li><li>"These
+    audits rarely occur unannounced, instead unfolding with all the spontaneity of
+    a doctors appointment. ... [because] People dont hire you to blow up their deals."</li><li>"It
+    [the pig farm] was not filthy, nor a hellscape. It was instead an intensely alien,
+    highly functional place for animals to live a sad, short life before they were
+    set to die."</li><li>"Anthropologist Daniel Miller studied purchasing decisions
+    of Britons and Trinidadians and came to the conclusion that most people didnt
+    even know whether they liked something until after they shared it with others."</li></ul><h2
+    id="part-6-bottom-of-the-commodity-chain">Part 6: Bottom of the Commodity Chain</h2><h3
+    id="the-horrors-of-shrimp">The horrors of shrimp</h3><p>Tun-Lin is a man from
+    Myanmar who makes his way to Thailand only to be sold into slave labor on a shrimp
+    boat. He left Myanmar not even knowing what a factory was, only that if you work
+    hard you can make good money. He watched his best friend die on a shrimp boat
+    and then get kicked over the side. After five years of slave labor on the boat
+    he simply asks the captain if he can leave and is set free. This chapter goes
+    into much more gruesome detail about what life was like aboard the slave ship.</p><p>Also:</p><ul><li>"NGOs
+    estimate 17 to 60 percent of Thai shrimp includes slave labor like Tun-Lin in
+    its supply chain"</li><li>"This is called transshipment at sea. It saves fuel
+    for the larger refrigerated fishing vessels, and it allows some boats to stay
+    out almost indefinitely. Resupplied by others, they turn into floating prisons
+    for trafficked workers."</li><li>"Rule number one when hiring people is you do
+    not hire locals. They will want to go home. They will have families. You want
+    someone who will live here twenty-four"</li><li>"Peeling shrimp is delicate labor,
+    and despite all advances in technology, nothing can yet do the work better than
+    small, nimble fingers."</li><li>"The [commodity] word comes to us etymologically
+    from the French commodit, meaning convenience"</li><li>"thirty years ago, fresh
+    shrimp epitomized class. They cost more than steak"</li><li>"since 1980 prices
+    [of shrimp] have fallen while production has increased some 3,000 percent."</li><li>"It
+    turns out for as of yet biologically unexplained reasons, a female shrimp who
+    loses a single eyeball gets fast-tracked through puberty"</li><li>"A cycle of
+    spectacular growth, overnight riches, and then sudden collapse came to define
+    the Asian shrimp industry."</li><li>"[dropping an unpopular supplier or food is]
+    catering to the aesthetic sense of consumers who dont like to be associated with
+    ugly things"</li></ul><h2 id="afterword">Afterword</h2><ul><li>The Whole Foods
+    philosophy is far more Texas libertarian than it ever was East Coast liberal.
+    This comes from the early organic movement which saw the gov as failing to regulate
+    agriculture and corrupt.</li><li>"Whole Foods was the leader in progressive activism
+    in the food industry. Then somewhere by mid-2016, everyone I knew doing that type
+    of work got sacked.""</li><li>"Humanity cant just play defense. We need a good
+    offense too."</li><li>"[a Trader Joe''s purchaser told a story about] visiting
+    a factory selling extremely profitable handmade pies that he watched get unloaded
+    from a truck, unboxed, and reboxed into different, more handmade packaging. When
+    he rushed back to tell Joe, the only response was one of those chuckles and, Oh,
+    maybe dont go visiting any more suppliers without calling ahead first."</li><li>"What
+    did you do once you became a better version of yourself? Where did all this self-improvement
+    lead? The answer was always back to more yoga"</li><li>"its not that we are what
+    we eat, its that we eat the way we are"</li><li>"Thai producers who have poured
+    themselves into costly reforms only to watch buyers balk at their new prices and
+    seek cheaper product elsewhere"</li><li>"He [Tun-Lin] says he will open a store.
+    A big store with lots of food the people in his village havent seen."</li></ul><h2
+    id="new-words">New Words</h2><ul><li>Foible - a minor weakness in someone''s character.</li><li>Apostasy
+    - the abandonment of religious or political belief.</li><li>Simony - buying or
+    selling religious privileges.</li></ul><p>Photo Credits: <a target="_blank" href="https://unsplash.com/photos/D6Tu_L3chLE">nrd</a></p>'
+  published_at: 2020-12-06 20:45:47.000000000 +00:00
