@@ -113,3 +113,23 @@ header {
 footer {
     font-size: .75em;
 }
+
+.actions {
+    margin-top: -1em;
+    display: flex;
+    justify-content: flex-end;
+}
+
+button {
+    border: 0px;
+    background: transparent;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background: var(--color-hackny);
+    color: var(--color-white);
+}
