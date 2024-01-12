@@ -67,6 +67,14 @@ header {
     color: var(--color-white);
 }
 
+.site:hover .site--description {
+    color: var(--color-white);
+}
+
+.site:hover .site--year {
+    color: var(--color-white);
+}
+
 .site--meta {
     display: flex;
     flex-direction: column;
