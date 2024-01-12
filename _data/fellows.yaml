@@ -1,9 +1,11 @@
-- title: Steve Gattuso
+- name: Steve Gattuso
   year: 2013
   url: https://www.stevegattuso.me
+  rss_url: https://www.stevegattuso.me/feed.xml
   emoji: 💌
   description: My blog and personal wiki. Step right up for thoughts on programming, vegan cooking, urbanism, and whatever else pops into my mind.
-- title: Ray Berger
+- name: Ray Berger
+  rss_url: https://blog.rayberger.org/rss.xml
   year: 2018
   url: https://www.rayberger.org/
   emoji: 🍔  # sorry ray. pls feel free to change this lol.

@@ -35,7 +35,7 @@
       <a href="{{fellow.url}}" class="site">
         <div class="site--emoji">{% if fellow.emoji %}{{fellow.emoji}}{% else %}😀{% endif %}</div>
         <div class="site--meta">
-          <div class="site--title">{{fellow.title}} <span class="site--year">('{{fellow.year | slice: -2, 2}})</span></div>
+          <div class="site--title">{{fellow.name}} <span class="site--year">('{{fellow.year | slice: -2, 2}})</span></div>
           {% if fellow.description %}
             <div class="site--description">{{fellow.description}}</div>
           {% endif %}
