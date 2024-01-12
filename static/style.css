@@ -163,6 +163,7 @@ button:hover {
 }
 
 .post {
+    display: flex;
     margin-bottom: 5px;
 }
 
@@ -170,6 +171,22 @@ button:hover {
     font-size: .75em;
 }
 
-.post--title, .post--emoji {
+.post--text {
+    max-width: 100%;
+}
+
+.post--title {
+    display: block;
     font-size: 1.2em;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+}
+
+.post--emoji {
+    display: flex;
+    margin-right: 15px;
+    align-items: center;
+    font-size: 1.5em;
 }

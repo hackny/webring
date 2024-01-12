@@ -12,13 +12,13 @@ layout: base
   {% assign planet = site.data.planet | sort: "published_at" | reverse | limit: 25 %}
   {% for post in planet %}
     <li class="post">
-      <div>
-        <span class="post--emoji">{{post.fellow.emoji}}</span>
+      <span class="post--emoji">{{post.fellow.emoji}}</span>
+      <div class="post--text">
         <a class="post--title" href="{{post.url}}" target="_blank">{{post.title}}</a>
+        <div class="post--meta">
+          by {{ post.fellow.name }} on {{ post.published_at | date: "%b %-d, %Y" }}
+        </div>
       </div>
-      <div class="post--meta">
-        by {{ post.fellow.name }} on {{ post.published_at | date: "%b %-d, %Y" }}
-      </span>
     </li>
   {% endfor %}
 </ul>
