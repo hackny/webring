@@ -1,7 +1,7 @@
 ---
-- id: https://www.stevegattuso.me/2024/01/03/faircamp.html
-  title: Added Faircamp to bookmarks
-  url: https://www.stevegattuso.me/2024/01/03/faircamp.html
+- id: https://www.stevegattuso.me/2024/01/14/sway-icons.html
+  title: Workspace icons on swaywm
+  url: https://www.stevegattuso.me/2024/01/14/sway-icons.html
   fellow: &1
     name: Steve Gattuso
     year: 2013
@@ -10,12 +10,24 @@
     emoji: "\U0001F48C"
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
+  description: "\n              \n                <img src=\"https://www.stevegattuso.me/static/blog-images/sway-icons-with.png\"
+    />\n              \n              <p>Since switching over to Fedora as my day-to-day
+    operating system I’ve been using and loving <a href=\"https://swaywm.org/\">swaywm</a>
+    as my desktop manager. As a longtime vim user, controlling my desktop environment
+    with a plethora of keyboard shortcuts just feels right.</p>\n\n              <b><a
+    href=\"https://www.stevegattuso.me/2024/01/14/sway-icons.html\">[Read more]</a></b>\n
+    \         "
+  published_at: 2024-01-14 08:02:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2024/01/03/faircamp.html
+  title: Added Faircamp to bookmarks
+  url: https://www.stevegattuso.me/2024/01/03/faircamp.html
+  fellow: *1
   description: "\n              <p>Adding a link to <a href=\"https://simonrepp.com/faircamp/\">Faircamp</a>
     to the projects bookmarks page because holy crap this is cool!</p>\n\n<blockquote>\n
     \ <p>A statically generated music portfolio website builder, aimed at providing
     artists with an alternative to an increasingly hostile Bandcamp. I’m really, really
     impressed with the aesthetic of the output and how crazily feature complete it
-    is for a static website.</p>\n\n  <p>Be sure to check out the <a href=\"https://webring.key13.uk/\">webring</a>
+    is for a static website.</p>\n\n  <p>Be sure to check out the <a href=\"https://faircamp.webr.ing/\">webring</a>
     which links to live Faircamp websites.</p>\n</blockquote>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/202312091215%20Bookmarks%20-%20Projects%20&amp;%20companies.html\"
     class=\"wiki-link\">Projects &amp; companies</a></p>\n\n          "
   published_at: 2024-01-03 00:00:00.000000000 +01:00
@@ -131,20 +143,6 @@
     \   </li>\n  </ol>\n</div>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/08/08/planned-economies.html\">[Read
     more]</a></b>\n          "
   published_at: 2023-08-08 00:00:00.000000000 +02:00
-- id: https://www.stevegattuso.me/2023/04/26/new-york-munich.html
-  title: New York, Munich
-  url: https://www.stevegattuso.me/2023/04/26/new-york-munich.html
-  fellow: *1
-  description: "\n              \n                <img src=\"https://www.stevegattuso.me/static/blog-images/munich-new-york.jpg\"
-    />\n              \n              <p>My partner and I moved to Munich in late
-    January, leaving Brooklyn after seven years of city life and decades more of living
-    in the New York (the state). Life over the last few months has largely consisted
-    of going through the steps of rebuilding life. Finding and moving into a new home,
-    searching for and settling into new jobs, etc. The things anyone goes through
-    when they move to a new place, but with a sprinkle of visa hassles and language
-    woes.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/04/26/new-york-munich.html\">[Read
-    more]</a></b>\n          "
-  published_at: 2023-04-26 00:00:00.000000000 +02:00
 - id: https://blog.rayberger.org/2023-in-review
   title: 2023 in Review
   url: https://blog.rayberger.org/2023-in-review
