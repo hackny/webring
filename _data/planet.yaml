@@ -596,585 +596,602 @@
     OR venmo.com</code></pre><p>Now I can just click the "Financial" label every few
     days to see if there's anything to deal with.</p>
   published_at: 2023-02-08 02:58:22.000000000 +00:00
-- id: https://blog.rayberger.org/idea-to-merged-in-less-than-30-minutes
-  title: 'Idea To Merged In Less Than 30 Minutes: An Experience Contributing To Open
-    Library'
-  url: https://blog.rayberger.org/idea-to-merged-in-less-than-30-minutes
-  fellow: *2
-  description: '<p>Today, I had such a wonderful experience contributing code to <a
-    target="_blank" href="https://openlibrary.org/">Open Library</a> that I felt compelled
-    to write a short blog post about it.</p><p><strong>Summary:</strong> I found out
-    why the search API wasnt working as I expected and had <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/7435">my
-    fix merged</a> less than 30 minutes later.</p><h2 id="heading-background">Background</h2><ul><li><p>Ive
-    contributed to Open Librarys codebase before but havent been active recently.
-    Though, I also help as a Librarian and <a target="_blank" href="https://blog.openlibrary.org/2021/09/25/extending-a-warm-welcome-to-new-patrons/">occasional
-    mentor</a>. They''re always looking for <a target="_blank" href="https://openlibrary.org/volunteer">more
-    designers, translators, and general volunteers</a>.</p></li><li><p>Open Library
-    is an amazing project that''s part of the Internet Archive. It enables anyone
-    to legally read books for free and has a full-text search of the millions of available
-    books.</p></li></ul><h1 id="heading-problem">Problem</h1><p>I wanted to use <a
-    target="_blank" href="http://followthatpage.com">followthatpage.com</a> to get
-    notified when new books are added and the search results for a query change. Follow
-    That Page only does a simple text diff and the original API call I was making
-    <code>https://openlibrary.org/search.json?q=craigslist</code> contained the full
-    JSON of all the books. Unfortunately, when anything about any of the books changed
-    I would recieve a large diff.</p><p>I realized I could use the <code>fields</code>
-    query param to only get the <code>title</code> and <code>key</code> (book id)
-    of the works like this: <code>https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key</code>.
-    I also noticed that the books were sorted by relevance. Im not sure how relevance
-    works but Ive seen search result order change when Ive added more information
-    to books. So I decided to try sorting the books by their title following the search
-    API docs. Unfortunately, the docs were a bit confusing and I didnt know why I
-    couldnt sort by the key.</p><h1 id="heading-reaching-out">Reaching Out</h1><p>I
-    popped into Open Librarys Slack and posed the question:</p><p><img src="https://lh3.googleusercontent.com/phlJV2xUMf7wEHxpRVlmdMBpisQjTuyEPJ1eyMkZKY7O6oaS9vOfzd-ptsciyDF8qwOf53YYGSGHDi43lX4G_vcJjvO41dJa0cX5okP_rPLVvh0h6EyTk9SGG017zKDaJXYm9AJ65Fil3Faj407v2AD-IAyAqLiInIL37cVm0lSyElzaFkz3RkHTLKzHbQ"
-    alt="I''m struggling to understand the docs here.  How can I make this api call
-    sort? I just need an example because this isn''t working.  https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key"
-    /></p><p><a target="_blank" href="https://openlibrary.org/dev/docs/api/search">Docs
-    in Question</a>,</p><p>API call: <a target="_blank" href="https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key"><code>https://openlibrary.org/search.json?q=craigslist&amp;fields=title,key&amp;sort=key</code></a></p><p>Drini,
-    an Open Library maintainer, responded in a few minutes letting me know that we
-    can only sort by a few allowed facets and asked why I wanted to sort by key.</p><p>I
-    explained my idea to be notified of new works added for a certain search and he
-    kindly pointed me to <a target="_blank" href="https://github.com/internetarchive/openlibrary/blob/abd73aa37ea27b4e7d70f521bfd1e30b7dc1dc6e/openlibrary/plugins/worksearch/schemes/works.py#L113-L132">the
-    file</a> I would need to modify to do what I wanted. He confirmed I could follow
-    the convention <code>random</code> was already used, which enables sorting in
-    ascending or descending order.</p><p>Since Open Library''s dev wasn''t on my computer,
-    I used the <a target="_blank" href="https://www.gitpod.io/">GitPod</a> button
-    (which <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/5465">I
-    set up</a> for Open Library a year ago) in the README and had a dev environment
-    ready to go in minutes. I tweaked the file needed to sort by key and tested the
-    API in GitPod. Everything looked good.</p><p>Im not that familiar with GitPods
-    workflow for creating pull requests (PRs) so I just went to the file in GitHub
-    and edited it via the web IDE.</p><p><img src="https://lh4.googleusercontent.com/MnvPZyOQgh_QIxFlJsTnuPBLtbtaKfR9oVF-6xzhFVmRS0K5zpLa2bmTrhkd5Hgsi0FXUSJV7vZFWxkQqlxzcTnsQIoStNFa1tRBUggMcm1PwFCACpo8Xt762ehg-elOVRscbb05ioXKWqMC1Wel2sVTJaqJEqL8hTDxGKSVoN--0IHmfCVCtiDDquk1Wg"
-    alt="screenshot of GitHub''s file browser with an arrow pointing to the edit button."
-    /></p><p>I recorded a demo video of my change working in GitPod for the PR. Then
-    I filled out the rest of the details for <a target="_blank" href="https://github.com/internetarchive/openlibrary/pull/7435">the
-    PR</a> and posted it on Slack:</p><blockquote><p>Hey @Drini, not asking you to
-    review now. But just letting you know I did open a PR and hope it can get in the
-    queue to be checked out!</p></blockquote><p>Six minutes later the code was running
-    on the test environment and promptly merged. After the next weekly deploy it will
-    be in production. The docs are already updated!</p><h2 id="heading-timeline">Timeline</h2><ul><li><strong>9:50
-    PM</strong> Drini let me know I could add this feature</li><li><strong>10:14 PM</strong>
-    I sent my PR to Drini</li><li><strong>10:20 PM</strong> My PR was tested and merged</li></ul><p>Thank
-    you so much to <a target="_blank" href="https://github.com/cdrini">Drini</a>,
-    <a target="_blank" href="https://mek.fyi/">Mek</a>, <a target="_blank" href="https://github.com/cclauss">Christian</a>
-    and the rest of the team at Open Library (and the <a target="_blank" href="https://archive.org//">Internet
-    Archive</a>) for always providing a kind and supportive community. It is no small
-    feat to foster such collaboration with a lean team.</p><p>PS: You should not expect
-    this level of responsiveness from most open source projects. This is a big project
-    with a small team working full time that has made it a high priority to engage
-    with the community. Again, kudos to them for pulling it off.</p>'
-  published_at: 2023-01-20 01:12:45.000000000 +00:00
-- id: https://blog.rayberger.org/automating-ixelles-appointment-checking
-  title: Automating Ixelles Appointment Checking
-  url: https://blog.rayberger.org/automating-ixelles-appointment-checking
-  fellow: *2
-  description: '<p>I made a small website to show the next available appointments
-    at the <a target="_blank" href="https://en.wikipedia.org/wiki/Ixelles">Ixelles</a>
-    municipal office in Brussels, Belgium.</p><h1 id="heading-why">Why</h1><p>To get
-    my residence permit I need two appointments. Unfortunately, the appointments are
-    fully booked for months in advance. Fortunately, the government officials told
-    me new slots open often, just keep an eye on the site. Unfortunately, it takes
-    several slow clicks to see the times for the types of appointment I''m interested
-    in.</p><h1 id="heading-solution">Solution</h1><p>Make a small site to scrape the
-    appointments and show them without any clicks.</p><h2 id="heading-notifications">Notifications</h2><p>Use
-    <a target="_blank" href="https://distill.io/">Distill</a>, a free extension, to
-    get desktop notifications when dates change. A bit easier than setting up notifications
-    via the <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/API/notification">Notifications
-    Web API</a>.</p><p>I also shared this with friends going through the same process
-    so setting up some other notification system (like email) would be a bit more
-    work than I wanted.</p><h1 id="heading-links">Links</h1><ul><li>Website: <a target="_blank"
-    href="https://ixelles-apt.glitch.me">ixelles-apt.glitch.me</a></li><li>Source
-    Code: <a target="_blank" href="https://github.com/RayBB/ixelles-apt">github.com/RayBB/ixelles-apt</a></li><li>Host:
-    <a target="_blank" href="https://glitch.com">glitch.com</a>, a free hosting provider
-    and I used <a target="_blank" href="https://glitch.com/~hello-sqlite">their project
-    template</a></li></ul><h1 id="heading-screenshots">Screenshots</h1><h2 id="heading-my-webpage">My
-    Webpage</h2><p><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670899323733/XZLjPd8_f.png"
-    alt="image.png" /></p><h2 id="heading-process-to-check-time-slots-on-municipal-website">Process
-    to check time slots on municipal website</h2><p><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670976384501/wLBz2awyc.webp"
-    alt="ixelles_timeslots.webp" /></p>'
-  published_at: 2022-12-13 19:00:45.000000000 +00:00
-- id: https://blog.rayberger.org/startupbus-florida-2022
-  title: StartupBus Florida 2022
-  url: https://blog.rayberger.org/startupbus-florida-2022
-  fellow: *2
-  description: <p><a target="_blank" href="https://startupbus.com/">StartupBus</a>
-    is a three-day <a target="_blank" href="https://en.wikipedia.org/wiki/Hackathon">hackathon</a>
-    to build a business with a team while riding a bus to Austin, Texas. On Wednesday,
-    July 27, 2022 at 7AM I departed Tampa, Florida with seven other competitors and
-    several great mentors and organizers.</p><h1 id="heading-why-did-i-do-this">Why
-    did I do this?</h1><p>I enjoy hackathons, I like riding the bus, my partner Marley
-    was hyped about going, Ive never been to Austin, and it just seemed like a fun,
-    crazy thing to do. I didnt officially sign up until the day before, so it was
-    a pretty last-minute decision.</p><p>The general order of events is:</p><ol><li>Come
-    with a startup idea and pitch it</li><li>Form teams around the ideas that people
-    are most interested in</li><li>Come up with a business plan</li><li>Start building
-    a product</li><li>Pitch and refine based on feedback<ul><li>My team pitched at
-    least 10 times in total</li></ul></li><li>Have fun with your teammates</li></ol><p><a
-    target="_blank" href="https://startupbus.com/2022#buses-title">The buses</a> depart
-    from different parts of the continent and each have their own journey. Aside from
-    food and rest stops, the Florida bus stopped at <a target="_blank" href="https://innovate.research.ufl.edu/">UF
-    Innovate</a>, <a target="_blank" href="https://www.domistation.org/">Domi Station</a>,
-    and <a target="_blank" href="https://www.ideavillage.org/">The Idea Village</a>
-    to hear from different entrepreneurs and pitch our ideas. These stops were inspiring
-    and re-energizing. Shoutout to Evan Thacker for planning all these stops.</p><p>The
-    energy in the room was palpable when we arrived in Austin for the pitch day and
-    met the buspreneurs from the other buses. It helped that organizers were doing
-    a great job running the music and getting everyone fired up with inspirational
-    words.</p><h1 id="heading-how-did-the-pitches-go">How did the pitches go?</h1><p>I
-    was extremely impressed by the quality of the pitches, despite the fact that we
-    didnt know the exact format of pitches until moments before pitching began. We
-    had a loose idea of the format for the first pitch (one minute to pitch) but were
-    surprised to find out we had to pick one person on our team that would pitch,
-    then there would be Q&amp;A, and then the judges would pick someone else on our
-    team to give another one minute pitch. I did not like how they picked someone
-    on each team to pitch and sometimes the person they picked wasnt comfortable pitching
-    in English. I hope that language level was not a significant factor in the ultimate
-    scoring.</p><p>After the qualifying round (one minute pitches), 10 of the 15 teams
-    moved to the semi-finals. These were structured three minute pitches followed
-    by two minutes of demos and then an off-stage technical assessment.</p><p>My team,
-    Next Responder, placed fourth in the semi-finals. However, we chose not to move
-    forward to the finals because we would have had to give up 1% of our company.
-    Under the pressure of a five minute decision window, we didnt feel like there
-    was clear enough value in the offer (mentorship, resources, and exposure) for
-    our business, which is very B2B. However, Stayges, the other Florida bus team,
-    accepted the offer and placed second overall!</p><h1 id="heading-conclusion">Conclusion</h1><p>Like
-    any good challenge, there were some rough spots, but at the end of the day StartupBus
-    was an awesome experience. The friendships, the travel, the challenge, and the
-    creativity all blended together in a great way. I started with a bus full of strangers
-    and ended with several buses full of friends.</p><p>Shout out to the people who
-    made this an experience to remember:</p><ul><li>FL bus organizers and mentors
-    (Joey, Mandy, Evan, Carey, and Josh)</li><li>FL bus participants (Chevy, Julie,
-    Marley, Charlotte, Sasha, Justin, and VJ)</li><li>The people who broke bread,
-    swapped stories, and went out of their way to spread good vibes (Gustrazo Reyes,
-    Claudia Clo, Abril GaRa, Guillermo Vizcano, FanNy O'malley, Jackie Benitez, Yoali,
-    Elena Itchel, Claudia Davila, and many more)</li></ul>
-  published_at: 2022-09-02 04:48:00.000000000 +00:00
-- id: https://blog.rayberger.org/book-notes-release-it
-  title: 'Book Notes: Release It'
-  url: https://blog.rayberger.org/book-notes-release-it
-  fellow: *2
-  description: '<p>These are my notes for <strong><em> <a target="_blank" href="https://openlibrary.org/books/OL26833660M/">Release
-    It: Design and Deploy Production-Ready Software 2nd Edition</a> </em></strong>
-    by Michael T. Nygard.</p><p>Im not sure how I found this book but it is likely
-    from a search for SRE books.The fact that Ive been reading this book on and off
-    for about 8 months says two things:</p><ol><li>I enjoyed the book enough to keep
-    reading it - otherwise I would have stopped</li><li>It started to feel a little
-    less relevant to my job as my SRE responsibilities ramped up</li></ol><p>Overall,
-    the book was enjoyable to read and a good balance between information density
-    and understandability. The case studies were quite enjoyable!</p><p>The main things
-    I learned about were <strong>system design patterns, circuit breakers, bulkheads,
-    backpressure, deceleration zones, leaky bucket, governors, multihoming, load balancing,
-    and canary deploys.</strong></p><p>I made a list of all the books in the bibliography
-    here: https://openlibrary.org/people/raybb/lists/OL200793L/</p><p>Some things
-    from the book:</p><ul><li>The major dangers to your systems longevity are memory
-    leaks and data growth. Both kinds of sludge will kill your system in production.
-    Both are rarely caught during testing.</li><li>Just as auto engineers create crumple
-    zonesareas designed to protect passengers by failing firstyou can create safe
-    failure modes that contain the damage and protect the rest of the system.</li><li>Once
-    established, a TCP connection can exist for days without a single packet being
-    sent by either side.</li><li>Every integration point will eventually fail in some
-    way, and you need to be prepared for that failure.</li><li>Partitioning servers
-    with Bulkheads,, can prevent chain reactions from taking out the entire servicethough
-    they wont help the callers of whichever partition does go down. Use Circuit Breaker
-    on the calling side for that.</li><li>It would be wonderful if there was a way
-    to keep things in the session (therefore in memory) when memory is plentiful but
-    automatically be more frugal when memory is tight. Good news! Most language runtimes
-    let you do exactly that with weak references.</li><li>some servers are handling
-    more than a million concurrent connections</li><li>If youre dealing with vendor
-    code, it may also be worth some time beating them up for a better client library.</li><li>Any
-    special offer meant for a group of 10,000 users is guaranteed to attract millions.
-    The community of networked bargain hunters can detect and share a reusable coupon
-    code in milliseconds.</li><li>For service providers, use Handshaking and Backpressure
-    to inform callers to throttle back on the requests. Also consider Bulkheads to
-    reserve capacity for high-priority callers of critical services.</li><li>Build
-    in deceleration zones to account for momentum. Suppose your control plane senses
-    excess load every second, but it takes five minutes to start a virtual machine
-    to handle the load. It must make sure not to start 300 virtual machines because
-    the high load persists.</li><li>I like the Leaky Bucket pattern from Pattern Languages
-    of Program Design 2 [VCK96]. Its a simple counter that you can increment every
-    time you observe a fault. In the background, a thread or timer decrements the
-    counter periodically (down to zero, of course.) If the count exceeds a threshold,
-    then you know that faults are arriving quickly.Sisyphean - something that can
-    never be completed</li><li>Log file rotation requires just a few minutes of configuration.</li><li>Every
-    performance problem starts with a queue backing up somewhere.</li><li>A governor
-    limits the speed of an engine. Slow things down to allow intervention</li><li>In
-    development, the server can always call its language-specific version of getLocalHost,
-    but on a multihomed machine, this simply returns the IP address associated with
-    the servers internal hostname</li><li>Reject work as close to the edge as possible.
-    The further it penetrates into your system, the more resources it ties up</li><li>the
-    best way to tell if users are receiving a good experience is to measure it directly.
-    This is known as real-user monitoring (or RUM, if you like).</li><li>the purpose
-    of the canary deployment is to reject a bad build before it reaches the users.</li><li>The
-    only safe way to handle file uploads is to treat the clients filename as an arbitrary
-    string to store in a database field. Dont build a path from the filename in the
-    request. Generate a unique, random key for the real filename and link it to the
-    user-specified name in the database. That way, the names in the filesystem stay
-    under your services control and dont include external input as any part.</li><li><strong>trickle,
-    then batch</strong> - this is basically the pattern of putting an if in your code
-    to manually change over something about data as it is accessed. Then you see it
-    working slowly. Once youre confidence you can run a batch job to do the less frequently
-    accessed data.</li><li>A good health check page reports the application version,
-    the runtimes version, the hosts IP address, and the status of connection pools,
-    caches, and circuit breakers.</li><li>Instead of creating a single system of record
-    for any given concept, we should think in terms of federated zones of authority.</li><li>Highly
-    efficient systems handle disruption badly. They tend to break all at once.</li><li>Also,
-    as Charity Majors, CEO of Honeycomb.io says, If you have a wall full of green
-    dashboards, that means your monitoring tools arent good enough. Theres always
-    something weird going on.</li><li>You can make this more fun by calling it a zombie
-    apocalypse simulation. Randomly select 50 percent of your people and tell them
-    they are counted as zombies for the day. They are not required to eat any brains,
-    but they are required to stay away from work and not respond to communication
-    attempts.</li></ul><p>Why DNS round robin can be bad:</p><ul><li>Too much control
-    in clients hands</li><li>DNS has no info about health of instances</li><li>Some
-    clients control more info than others</li><li>global server load balancing (GSLB)
-    server keeps track of the health and responsiveness of the pools.</li><li>GSLB
-    can also apply weighted distribution and a host of load-balancing algorithms.
-    These can be used as part of a disaster recovery strategy or even part of a rolling
-    deployment process.</li><li>Use a different DNS provider still for your public
-    status page.</li></ul><p>Photo by <a href="https://unsplash.com/@rparmly?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ross
-    Parmly</a> on <a href="https://unsplash.com/s/photos/plane?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
-  published_at: 2021-09-12 17:44:33.000000000 +00:00
-- id: https://blog.rayberger.org/book-notes-save-the-cat
-  title: 'Book Notes: Save The Cat'
-  url: https://blog.rayberger.org/book-notes-save-the-cat
-  fellow: *2
-  description: <p>I took an acting class my freshman year of college.  <a target="_blank"
-    href="https://openlibrary.org/works/OL5709101W/"><em>Save The Cat</em></a>  by
-    Blake Snyder is one of the books the professor talked highly of a few times. So
-    it has been sitting on my reading list for years. I finally picked it up from
-    the library and decided to give it a read.</p><p>I don't know much about screenwriting,
-    or Hollywood in general, so I can't compare it to much but the book was entertaining
-    on it's own and had some good nuggets.</p><p>Here are my notes:</p><ul><li>You
-    gotta have a good hook (aka logline) and title</li><li>High Concept - When it's
-    easy to see what a movie is about from hook/title</li><li>You can, and sometimes
-    must, near cliche but you always need a twist</li><li>Make the hero likeable</li><li>A
-    good structure stops people from rewriting your script too much to take credits</li><li>Save
-    the cat - Make the hero relatable</li><li>Double Mumbo Jumbo - Stick to one kind
-    of magic per movie</li><li>Laying the pipe - telling the character backstory</li><li>Keep
-    the press out - preserves the magic for the audience</li><li>If your hear is too
-    neutral make the bad guy badder</li><li>Touch many emotions during you movie</li><li>Give
-    minor characters a limp and eye patch to make them memorable</li></ul><p>Photo
-    by <a href="https://unsplash.com/@nymanphotography?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Daniel
-    Nyman</a> on <a href="https://unsplash.com/s/photos/cat-climb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
-  published_at: 2021-07-10 21:48:28.000000000 +00:00
-- id: https://blog.rayberger.org/book-notes-move-fast-how-facebook-builds-software
-  title: 'Book Notes: Move Fast: How Facebook Builds Software'
-  url: https://blog.rayberger.org/book-notes-move-fast-how-facebook-builds-software
-  fellow: *2
-  description: '<p>I''ve been a fan of the  <a target="_blank" href="https://softwareengineeringdaily.com/">Software
-    Engineering Daily</a>  podcast for several years. When I learned that the creator,
-    Jeff Meyerson, was releasing a book and it was just $0.99 on Kindle I couldn''t
-    pass it up. That book was <a target="_blank" href="https://openlibrary.org/works/OL24671877W/"><em>Move
-    Fast: How Facebook Builds Software</em></a>.</p><p>In general, I liked the book.
-    Short, to the point, and pretty well written. The book could do with one less
-    mention of how HTML5 wasn''t enough for Facebook. Here are a few ideas from the
-    book that I liked:</p><ul><li>"From its early days, Google has had more of an
-    air of computer science, an academic bent that emphasizes proofs, correctness,
-    and seriousness. Facebook engineers are self-deprecating hackers who just want
-    to build cool stuff. Facebook engineers are comfortable with the fact that sometimes
-    things break, and sometimes mistakes are made"</li><li>"Tom [a notable engineering
-    manager at FB] believes that engineers should be spending 75 percent of their
-    time at work on things that they are passionate about, because engineers do their
-    best work when they are creatively satisfied."</li><li>Bootcamp is FB''s on boarding
-    process. Fix real bugs on day one, find your team after several weeks.</li><li>"At
-    Facebook, nobody forces an engineer to join a team. The managers who cant sell
-    their projects end up with bad teams and have trouble succeeding. This causes
-    bad managers to get weeded out quickly."</li><li>"A clique will form around an
-    influencer engineer. Influencers can win over the hearts and minds of other engineers,
-    single-handedly changing the technical direction of a company for better or worse."</li><li><strong>Push
-    Karma</strong> - "a four-star rating system that tracked how responsible individual
-    developers were in their management of software releases"</li><li>"Every engineering
-    organization needs to decide how much time theyre going to spend cutting down
-    the trees and how much time theyre going to spend sharpening their saws. Facebook
-    had spent many years cutting down trees, and now it was time to sharpen their
-    saws."</li><li>"When you work at Facebook, your work identity is kept seamlessly
-    consistent across every tool, from video conferencing to code review. The uniformly
-    integrated toolset makes the experience of being a Facebook employee totally unique.
-    "</li><li>"Facebook invests so heavily in its infrastructure that most product
-    engineers feel like they have effectively infinite resources. As they push the
-    bounds of those resources, the infrastructure engineers respond by improving low-level
-    abstractions such as compilers, databases, and networking protocols."</li></ul><p>Photo
-    by <a href="https://unsplash.com/@timothyhalesbennett?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Timothy
-    Hales Bennett</a> on <a href="https://unsplash.com/s/photos/facebook?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
-  published_at: 2021-07-09 03:25:38.000000000 +00:00
-- id: https://blog.rayberger.org/book-notes-an-army-of-problem-solvers
-  title: 'Book Notes: An Army of Problem Solvers'
-  url: https://blog.rayberger.org/book-notes-an-army-of-problem-solvers
-  fellow: *2
-  description: '<p>My quick and sloppy notes from reading <em> <a target="_blank"
-    href="https://openlibrary.org/books/OL32511088M/An_Army_of_Problem_Solvers">An
-    Army of Problem Solvers</a> </em> by Shawn Loney. A fantastic book about social
-    enterprises in Canada.</p><h1 id="ch-1">Ch 1</h1><p>He sees people spend welfare
-    checks on expensive junk food. But in that he also sees competition. He calls
-    it the "upside of down" that because people are spending all their money on one
-    thing there is room to disrupt.</p><p>Author cofounded the social enterprise Aki
-    Energy</p><p>The Social Enterprise Centre houses many good organizations</p><h1
-    id="ch-2">Ch 2</h1><p>Solutions economy is about solving social/environmental
-    problems with market forces</p><p>Social enterprise - non profit that''s self
-    funded</p><p>Social entrepreneur - profit seeking but also focused on social issues
-    (idk about this one)</p><p>Gov has a place but it''s not to fix everything</p><h1
-    id="ch-3">Ch 3</h1><p>"Residential" schools in Canada are awful for First Nations
-    people</p><p>First Nations students are sent there and not treated well</p><p>Author
-    describes history and challenges First Nations people have faced</p><h1 id="ch-4">Ch
-    4</h1><p>No food to buy in one of the First Nations areas he visited. Even with
-    a pocket full of cash.</p><p>Lets of diabetes plague First Nations people</p><p>Author
-    started a social enterprise farm</p><p>Author says employed people tend to be
-    happy and healthy</p><p>Gov should be helping the problem solvers</p><h1 id="ch-5">Ch
-    5</h1><p>The gov won''t help fund geothermal energy for new houses even though
-    it would help the poor.</p><p>Gov should be working with problem solvers not blocking
-    them.</p><h1 id="ch-6">Ch 6</h1><p>For profit food by giant corporations has perverse
-    incentives (aka they try to make money not just feed everyone)</p><p>As much as
-    90% of the cost of food is from energy</p><p>What if we required schools and hospitals
-    to buy local food? It would have some higher upfront costs but would greatly help
-    the community.</p><p>Summary: If goal was people over profit then food production
-    would look very different.</p><h1 id="ch-7">Ch 7</h1><p>BUILD is a Winnipeg social
-    enterprise that provides on the job training.</p><p>Described how The legal system
-    spends millions on repeat offenders without helping them much.</p><p>Government
-    could get first dibs on procurement contracts to social enterprises</p><p>Low
-    income families rent and have high utility bills. They can''t take advantage of
-    subsidy to install energy efficient toilet b/c they don''t own the toilet and
-    the landlord has no incentive to let them.</p><h1 id="ch-8">Ch 8</h1><p>Some examples
-    of social entrepreneurs and talk about Ashoka foundation</p><h1 id="ch-9">Ch 9</h1><p>Think
-    long term to solve problems, GDP is short term</p><p>GPI - Genuine Progress Indicator
-    is an alternative</p><h1 id="ch-10">Ch 10</h1><p>M-KOPA installs cheap solar in
-    Kenya</p><p>Kiva - empowers people to give loans to those in need</p><p>Complementary
-    currencies (aka local currency) ensue money stays in economy </p><p>Brazilian
-    city Curitiba offered free bus tokens for picking up trash</p><p>"Garden Hills
-    Bucks" could be possible and author describes how it could be used for First Nations</p><h1
-    id="ch-11">Ch 11</h1><p>The gov throws money at problems rather than problem solvers.
-    Basically saying they often address symptoms rather than causes.</p><p>Author
-    is a big fan of the pay-as-you-save model of funding things like new toilets or
-    heating systems</p><p>"The future of philanthropy is social enterprise"</p><p>More
-    government doesn''t really mean more problems solved but more social enterprises
-    does</p><h1 id="ch-13">Ch 13</h1><p>In favor of $15 min wage</p><p>80% of minimum
-    wage earners in Manitoba are over 20 years old</p><p>Minimum wage earners generally
-    not in manufacturing so jobs don''t just "go to China"</p><h1 id="ch-14">Ch 14</h1><p>Left
-    and Right can agree on social enterprises being good</p><h1 id="conclusion">Conclusion</h1><p>Lets
-    create solutions</p><h1 id="my-thoughts">My thoughts</h1><p>I liked the book a
-    lot. It wasn''t perfectly written or organized but it really got me thinking about
-    the role of markets. It''s interesting that the author advocates for them so heavily
-    despite that they clearly don''t solve things on their own. We live in a world
-    where the profit is seen as so important and it''s not clear how to change that.
-    The author thinks problems can be fixed by social enterprises which are basically
-    nonprofits that self fund. But it''s not super clear to me how we encourage people
-    to start and run them. I guess that''s why he wrote this book. It''s also a bit
-    of a hard pill to swallow to accept that maybe to have a big impact you shouldn''t
-    be at a big org but rather solving things on a local level.</p><p>Photo by <a
-    href="https://unsplash.com/@metelevan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Andrey
-    Metelev</a> on <a href="https://unsplash.com/s/photos/shovel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>'
-  published_at: 2021-05-29 00:11:38.000000000 +00:00
-- id: https://blog.rayberger.org/the-secret-life-of-groceries
-  title: 'Book Notes: The Secret Life of Groceries'
-  url: https://blog.rayberger.org/the-secret-life-of-groceries
-  fellow: *2
-  description: '<p>I recently finished reading <em>The Secret Life of Groceries: The
-    Dark Miracle of the American Supermarket</em> by Benjamin Lorr (<a target="_blank"
-    href="https://www.penguinrandomhouse.com/books/253715/the-secret-life-of-groceries-by-benjamin-lorr/">link</a>).
-    I learned about the book from <a target="_blank" href="https://www.nytimes.com/2020/09/08/books/review/the-secret-life-of-groceries-benjamin-lorr.html">a
-    review</a> by Nick Summers published in The New York Times.</p><p>The book was
-    a rollercoaster of stress, intrigue, and sadness. It is organized in six parts
-    with stories following specific characters in different parts of the American
-    supermarket supply chain.</p><p>What follows are notes and quotes organized by
-    chapter.</p><h2 id="intro">Intro</h2><ul><li>"This book is about the grocery store.
-    About the people who work there and the routes of supply that define it."</li><li>"appalling
-    and perfectly hygienic and safeit is a fitting metaphor for the grocery business
-    as whole."</li><li>"ten thousand minnows piled up in silver ribbons, left for
-    days, as they waited to be transformed into the protein base of the aquaculture
-    pyramid."</li><li>"We spend only 10 percent of our budget on food, compared to
-    40 percent by our great-grandparents in 1900, and 30 percent by our grandparents
-    in the 1950s."</li><li>"we now grapple with a series of problems entirely unprecedented
-    in the history of humanity: of too much food, of using food to distribute ethical
-    responsibility, of food as a proxy for control in our own increasingly detached
-    lives."</li><li>"an item within the grocery matrix loses its identity as food
-    and becomes product."</li></ul><h2 id="part-1-salad-days-at-trader-joes">Part
-    1: Salad Days at Trader Joe''s</h2><p>In the old days of the general store, the
-    wealthy would often be charged more, as items weren''t priced, but also given
-    fresher meat and produce. In some stores a tab would be kept and families may
-    only pay a few times a year after harvesting their crops.</p><p>Saunders, the
-    founder of Piggly Wiggly, was inspired by the cafeteria. Cafeterias, which were
-    new in the late 1800s, gave each customer a tray and had them walk down the line
-    collecting food. This was the precursor to the supermarket. </p><ul><li>"One day,
-    watching beady-eyed piglets charge a trough, Saunders decides the piggies are
-    laughably similar to customers charging an overwhelmed clerk. In honor of all
-    his piggy little customers, he names his new store the Piggly Wiggly."</li></ul><p>On
-    the grocery industry: </p><ul><li>In 1937 the shopping cart was introduced by
-    Sylvan Goldman.</li><li>"when Khrushchev toured Washington, D.C., in 1959, the
-    supermarket brought a temporary dtente to the Cold War."</li><li>"legacy affairs:
-    family businesses that follow the prototypically American progression from heartwarming,
-    bootstrapping, backstabbing founder to eager scientific expansion in the immediate
-    offspring to a sluggish, almost hostile complacency in the third and fourth generations."</li><li>"The
-    word retail comes to us from the Middle French word retailler, meaning to cut
-    into pieces, more etymologically related to the English word tailor than anything
-    having to do with sales."</li><li>"it was suggested that if all owners agreed
-    to longer hours la Greenthe chain could be called 7-Eleven."</li></ul><h3 id="the-story-of-joe-coulombe-and-trader-joes">The
-    Story of Joe Coulombe and Trader Joe''s</h3><p>Joe is a very friendly guy and
-    it is hard to know if he''s more of a calculating businessman or wholesome self-taught
-    founder. He is a master of using the wink to create confidence.</p><p>Joe was
-    hired by Rexall to figure out why Owl (a drugstore) was failing. He figured out
-    7-Eleven was the cause and Rexall asked him to copy the chain and beat them. Joe
-    decided he would beat them by paying as well as local unions and getting the best
-    talent. The chain isn''t doing well and Joe buys Pronto using all his family savings
-    and a loan from the bank. Pronto eventually becomes Trader Joe''s. The store had
-    almost no turnover when Joe was running it. </p><ul><li>"Trader Joes, just like
-    trader Joe, has perfected the ability to project integrity while simultaneously
-    offering a very similar class of mass-produced goods that its competitors offer."</li><li>"you
-    are the precise demographic Joe targeted way back thenthe overeducated, underpaid,
-    and inquisitive; the customer who understands and cares for the world foremost
-    by understanding and caring for themselves"<ul><li>"For Joe, private label needed
-    to be an extension of the stores identity. It would allow him to create a parallel
-    stock of items that appeared to exist outside the national homogeny, simultaneously,
-    continuously produced, but more precisely targeting his demographic."</li></ul></li><li>"Trader
-    Joes has the single highest sales per square foot of any retail grocery chain,
-    basically doubling its nearest competitor, Whole Foods."</li><li>"He [Joe] picked
-    up the grocery flag from merely large sizes and low prices and marched it forward,
-    planting it back down firmly in our hearts."</li><li>Isn''t the most healthy<ul><li>Many
-    of their best deals are on frozen or heavily processed foods</li><li>"Two different
-    food safety experts I spoke with told me the unofficial FDA nickname for the chain
-    is Recall Joes."</li></ul></li></ul><p>Some things that made Trader Joe''s Successful:
-    </p><ul><li>Joe focuses on finding products with a high value to size ratio.</li><li>It
-    was profitable to sell items in limited supply (like extra-large eggs). Other
-    stores wouldn''t touch these because they were afraid to run out and disappoint
-    customers.</li><li>Joe found a loophole in the regulations of wine pricing that
-    nobody else noticed (pricing controls didn''t apply to imported wine) and was
-    able to have the best deal on wine.</li></ul><p>Trader Joe''s couldn''t compete
-    with others on peanut butter, so they decided to make almond butter and basically
-    invented it as a consumer product.</p><p>Theo Albrecht of Albrecht Discount (aka
-    ALDI) decided to buy Trader Joe''s. Joe sold it on the condition that he would
-    stay as CEO and the store wouldn''t be changed too much. Tension built and before
-    long Joe resigned. Joe now talks about the sale with a nervous sadness.</p><h2
-    id="part-2-distribution-of-responsibility">Part 2: Distribution of Responsibility</h2><h3
-    id="lynne-a-truck-driver">Lynne, a truck driver</h3><ul><li>"''I recommend you
-    get yourself a Gatorade bottle.'' She looks me up and down. ''Wide mouth for you.''
-    I dont believe that I react to this. ''Stop looking pale. Im just fucking with
-    you. Nothing in those pants looks like youre a wide mouth anything.''"</li><li>"If
-    I [Lynne] ever lost my CDL for anything, theyd have to put me in the ground. This
-    job is misery, but its the only thing in the world for me."</li><li>"At first
-    this seems like an interviewers dream. A subject overflowing with commentary,
-    dripping with color."</li><li>"She [Lynne] simply doesnt recognize or care about
-    the social cues I am sending outor actually combative, using words as a weapon."</li><li>"I
-    [the author] know things have taken a dark turn when I consider getting earplugs
-    for hanging around a woman I am ostensibly here to interview."</li><li>"Lynne
-    estimates she grossed $200,000 last yearthat is a rough calculation based on miles
-    drivenbut that she took home less than $17,000."</li><li>"I [Lynne] know there
-    is a light at the end of the tunnel. Because I am locked into this contract and
-    I cant afford to believe anything else."</li><li>"Lynne also tells me that at
-    a truck stop she never makes eye contact with a man."</li><li>"[when Lynne reported
-    sexual harassment] the company was like ''Maybe you misconstrued it,''"</li><li>Lynne
-    has so many fees come out of her paycheck that she often only gets the minimum
-    paycheck of $100, just enough to keep her surviving off the cheapest food available.</li><li>She
-    hasn''t been home to see her family in many months because they won''t let her
-    take routes that go that way. The author theorizes that this is to help keep the
-    truckers from quitting when they get a taste of home.</li></ul><h3 id="the-industry">The
-    Industry</h3><ul><li>People see ads to work as a well-paid trucker. They''ll get
-    a one way ticket to the training and hotel paid for.<ul><li>Once they get there
-    they are promised a great job if they just sign a contract for training that you
-    can pay for later, $3,000 - $8,000.</li><li>After they finish the training there
-    are often no "jobs" available but they are offered to be independent contractors
-    and get their own trucks via lease-to-own programs.</li><li>"Lease-to-own programs
-    in OTR trucking seem like both [very difficult and designed to fail] to me."</li><li>These
-    desperate people sign up and now have huge loans they have to pay and are at the
-    mercy of the company to assign them jobs. These jobs are often extremely poorly
-    paid and have nearly impossible deadlines.</li><li>After all the fees their paychecks
-    often come out to almost nothing but they have a guaranteed minimum pay of ~$100,
-    just enough to feed themselves and keep driving.</li></ul></li><li>"Jimmy Hoffa
-    was a teamster first and foremost, and the strong, if corrupt, union he led was
-    able to wrest a middle-class salary with benefits from that cohort."</li><li>"From
-    the golden 70s, the trucker suddenly found himself in the red and green 80s, the
-    colors of the now essential methamphetamines drivers gobbled by the handful"</li><li>"Your
-    possessions are on top of each other [a trucker and their co-driver], your needs
-    are on top of each other, your sexual desires and rage and annoying quirks are
-    on top of each other."</li><li>"That fresh apple you bite into has typically been
-    sitting in dormancy for close to a year."<ul><li>"The core of this control [of
-    produce] comes from regulating ethylene, a gaseous plant hormone that causes ripening
-    and color development. Within the right conditions, suppressing ethylene keeps
-    fruit in a suspended state of development."</li></ul></li><li>"Seeing almost any
-    product in bulk is debasing."</li></ul><h3 id="part-3-self-realization-through-snacks">Part
-    3: Self-Realization Through Snacks</h3><ul><li>"the twin attributes of successful
-    specialty: mystery and superiority."</li><li>"[people] stand up in sudden inspiration
-    to snap a photo of a PowerPoint slide"<ul><li>I relate to the author''s confusion
-    of people taking photos of seemingly useless slides.</li></ul></li><li>"<a target="_blank"
-    href="https://www.slawsa.com/">Slawsa</a> is as intuitive as it is baffling."</li><li>"Perhaps
-    she is good-natured without being good-humored. Perhaps she is good-humored without
-    having a good sense of humor. ... It is a laughter at her own foibles, where you
-    are kind of worried for her"</li><li>"[many grocery stores have] a slotting fee,
-    which is a pure cash-for-placement exchange.""</li></ul><h2 id="part-4-the-retail-experience">Part
-    4: The Retail Experience</h2><p>Lorr (the author) got a job at Whole Foods to
-    get the inside scoop.</p><ul><li>New employees must complete a twelve-hour orientation
-    about the mission and philosophy of Whole Foods.<ul><li>"concussive effect of
-    repetitive dull content"</li><li>"Passing the probation vote [to be hired at Whole
-    foods] requires a two-thirds majority in which each team member fills out a skills
-    sheet anonymously ranking our abilities."</li><li>"We [Whole Foods employees]
-    are told to apologize for any and every mistake, especially if it isnt our fault,
-    unless, of course, the customer is complaining about injury or food-borne illness"</li><li>"Andy
-    gives us a secret phrase to use whenever we are stumped: Sounds important. It
-    can be deployed almost universally to respond to questions we dont fully understand,
-    hectoring we dont necessarily deserve, demands for advice we dont particularly
-    have"</li><li>"Mr. Green is the Orwellian name for the Whole Foods internal security
-    team"</li></ul></li><li>"Human Capital Management, or just-in-time scheduling"<ul><li>"somewhere
-    in the last ten years, just-in-time manufacturing morphed into just-in-time scheduling."</li><li>"He
-    [Walter] only opens once or twice a week so he never completely adjusts to any
-    schedule."</li><li>"Another [study] found that 60 percent of retail workers said
-    that they needed to be available to fulfill every work schedule that might be
-    assigned in a given week"</li><li>"There are professions where we expect people
-    to be on calldoctors, first respondersbut they are compensated for that both financially
-    and in civic respect"</li></ul></li><li>"organic does not mean healthier, but
-    rather is an option to pay extra to limit the externalities of production"</li><li>"we
-    pluck melons just on the verge of rot and take them into the back room, where
-    a woman who speaks no English stands all day carving them up into chunks and packing
-    endless grab-n-go containers."</li></ul><h2 id="part-5-theater-of-retail">Part
-    5: Theater of Retail</h2><ul><li>"I kept thinking of the medieval practice of
-    simony, where the wealthy could pay money to be released from their sins."</li><li>"Government
-    regulation of our food is as spotty as a fourteen-year-old boys first beard"</li><li>"These
-    audits rarely occur unannounced, instead unfolding with all the spontaneity of
-    a doctors appointment. ... [because] People dont hire you to blow up their deals."</li><li>"It
-    [the pig farm] was not filthy, nor a hellscape. It was instead an intensely alien,
-    highly functional place for animals to live a sad, short life before they were
-    set to die."</li><li>"Anthropologist Daniel Miller studied purchasing decisions
-    of Britons and Trinidadians and came to the conclusion that most people didnt
-    even know whether they liked something until after they shared it with others."</li></ul><h2
-    id="part-6-bottom-of-the-commodity-chain">Part 6: Bottom of the Commodity Chain</h2><h3
-    id="the-horrors-of-shrimp">The horrors of shrimp</h3><p>Tun-Lin is a man from
-    Myanmar who makes his way to Thailand only to be sold into slave labor on a shrimp
-    boat. He left Myanmar not even knowing what a factory was, only that if you work
-    hard you can make good money. He watched his best friend die on a shrimp boat
-    and then get kicked over the side. After five years of slave labor on the boat
-    he simply asks the captain if he can leave and is set free. This chapter goes
-    into much more gruesome detail about what life was like aboard the slave ship.</p><p>Also:</p><ul><li>"NGOs
-    estimate 17 to 60 percent of Thai shrimp includes slave labor like Tun-Lin in
-    its supply chain"</li><li>"This is called transshipment at sea. It saves fuel
-    for the larger refrigerated fishing vessels, and it allows some boats to stay
-    out almost indefinitely. Resupplied by others, they turn into floating prisons
-    for trafficked workers."</li><li>"Rule number one when hiring people is you do
-    not hire locals. They will want to go home. They will have families. You want
-    someone who will live here twenty-four"</li><li>"Peeling shrimp is delicate labor,
-    and despite all advances in technology, nothing can yet do the work better than
-    small, nimble fingers."</li><li>"The [commodity] word comes to us etymologically
-    from the French commodit, meaning convenience"</li><li>"thirty years ago, fresh
-    shrimp epitomized class. They cost more than steak"</li><li>"since 1980 prices
-    [of shrimp] have fallen while production has increased some 3,000 percent."</li><li>"It
-    turns out for as of yet biologically unexplained reasons, a female shrimp who
-    loses a single eyeball gets fast-tracked through puberty"</li><li>"A cycle of
-    spectacular growth, overnight riches, and then sudden collapse came to define
-    the Asian shrimp industry."</li><li>"[dropping an unpopular supplier or food is]
-    catering to the aesthetic sense of consumers who dont like to be associated with
-    ugly things"</li></ul><h2 id="afterword">Afterword</h2><ul><li>The Whole Foods
-    philosophy is far more Texas libertarian than it ever was East Coast liberal.
-    This comes from the early organic movement which saw the gov as failing to regulate
-    agriculture and corrupt.</li><li>"Whole Foods was the leader in progressive activism
-    in the food industry. Then somewhere by mid-2016, everyone I knew doing that type
-    of work got sacked.""</li><li>"Humanity cant just play defense. We need a good
-    offense too."</li><li>"[a Trader Joe''s purchaser told a story about] visiting
-    a factory selling extremely profitable handmade pies that he watched get unloaded
-    from a truck, unboxed, and reboxed into different, more handmade packaging. When
-    he rushed back to tell Joe, the only response was one of those chuckles and, Oh,
-    maybe dont go visiting any more suppliers without calling ahead first."</li><li>"What
-    did you do once you became a better version of yourself? Where did all this self-improvement
-    lead? The answer was always back to more yoga"</li><li>"its not that we are what
-    we eat, its that we eat the way we are"</li><li>"Thai producers who have poured
-    themselves into costly reforms only to watch buyers balk at their new prices and
-    seek cheaper product elsewhere"</li><li>"He [Tun-Lin] says he will open a store.
-    A big store with lots of food the people in his village havent seen."</li></ul><h2
-    id="new-words">New Words</h2><ul><li>Foible - a minor weakness in someone''s character.</li><li>Apostasy
-    - the abandonment of religious or political belief.</li><li>Simony - buying or
-    selling religious privileges.</li></ul><p>Photo Credits: <a target="_blank" href="https://unsplash.com/photos/D6Tu_L3chLE">nrd</a></p>'
-  published_at: 2020-12-06 20:45:47.000000000 +00:00
+- id: http://liaokev.in/2023/05/21/baptism-statement
+  title: Baptism Statement
+  url: http://liaokev.in/2023/05/21/baptism-statement.html
+  fellow: &3
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  description: |-
+    <content base="http://liaokev.in/2023/05/21/baptism-statement.html"
+      type="html">&lt;p&gt;&lt;em&gt;On May 21st in 2023, with friends and family joining in-person and online at Alameda State Beach in California, I was baptized. I was asked to share a testimony beforehand, so here’s what I shared. My sincerest gratitude to everyone who took time out of their busy lives to join in, whether it was online or in-person. This is a day I’ll cherish forever.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2023/5/21/banner.jpg&quot; alt=&quot;Cover&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;I left the church on a spring day in the 10th grade when my youth pastor told us that non-Christians can’t love. A little voice told me that didn’t make sense. So I listened to that little voice. I walked out of that church and I didn’t look back.&lt;/p&gt;
+
+    &lt;p&gt;I have trepidation about baptism, as if this act today washes away the sin of many organizations that continue to explicitly preach, or implicitly condone blatant misogyny, homophobia and transphobia in the name of Christ. It does not. A better church can only come from breaking the wall of silence that we were all brought up to uphold. Our faith is too wide and our God too mighty to be interpreted in such a narrow and harmful way.&lt;/p&gt;
+
+    &lt;p&gt;Years before I even knew that I could use the word bisexual to describe myself, my faith had a predestined identity chosen for me. When I left the church, I thought I would never return. However, at the same time, it was through this church, OakLife, that I first found queer community and belonging. God speaks and moves in contradictions in ways I’m still wrestling with.&lt;/p&gt;
+
+    &lt;p&gt;Baptism and by-proxy the Christian faith is centered around death and resurrection. We do seem to like to talk about death as a faith tradition an awful lot, so it seems somewhat morbidly befitting to ponder about death. Today, I want to talk about the life and death of the most Christlike man that I know, my grandpa, or Ah Gong- who was not a follower of Christ.&lt;/p&gt;
+
+    &lt;p&gt;My earliest memories of my Ah Gong were as a toddler growing up in Australia. He had come down from Taiwan and I didn’t know why. My ah gong and ah ma were like extra parents, helping my mother around the house as she adjusted to life in a strange country. The spirit of our house was lifted as ah gong would sneak us M&amp;amp;Ms and cook us fried rice. We’d sit on his lap and he’d teach us nursery rhymes.&lt;/p&gt;
+
+    &lt;p&gt;As an adult I learned that Ah Gong and Ah Ma were a mere months away from a generous lifetime pension that they forfeited to come down to care for my mother, who had just given birth to my sister. As they handed in their letters of resignation, their supervisor was astounded. The pension they were forfeiting was the salary of six employees. But a voice that I would call the holy spirit, the voice that compels acts of sacrificial love, commanded them to go, so they left.&lt;/p&gt;
+
+    &lt;p&gt;When Ah Gong died, a question I’d been confronting since I was a child took on a new and sudden urgency. What happens when someone you love dies without believing? I didn’t have an answer and was filled with the same rage and resentment that I had felt as a kid when my faith seemingly had no answers for those who didn’t believe.&lt;/p&gt;
+
+    &lt;p&gt;I looked for answers everywhere. Leaving the church gave me freedom to start taking part in Taiwanese traditions that form the basis for how we conceptualize death. I’d like to share a couple of unorganized thoughts about these traditions today, in hopes that with enough corn starch they will congeal together to form something vaguely resembling a statement of faith.&lt;/p&gt;
+
+    &lt;p&gt;I started burning paper money. During “Ghost Month” in Taiwan, the streets are filled with literal dumpster fires, as people throw fake paper money into burning trash heaps to ensure that those who have passed onto the afterlife have enough money to spend.&lt;/p&gt;
+
+    &lt;p&gt;Surprisingly, burning paper money for ah gong grew my connection to biblical perspectives on wealth. As a kid, these traditions were silly to me. As an adult, they took on new meaning. We take time out of our busy lives to burn money for ahgong because we love him, as he loved us. Indeed, in Taiwanese tradition, it would seem that what you reap in the afterlife is directly proportional to how you love when you are on earth. Maybe this is what Christ meant when he said in Matthew: “And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much”.&lt;/p&gt;
+
+    &lt;p&gt;Grandpa comes over for dinner every now and then. We prepare his favourite dishes and lay them out for him. We then light incense and bow to welcome ahgong into his old damp apartment. My uncle then throws two coins. If they land the same side up, ahgong isn’t happy with our spread. If they land opposite sides up, ahgong is eating. Oftentimes, they’ll land on the same side and we’ll argue over what’s missing from our spread until someone tells me to run across the street and get ahgong a generous pour of beer. Only after we pour out the beer do the coins land on opposite sides, and grandpa starts eating. We give him a gentle head start, then we gather around the table enjoying our meal with him.&lt;/p&gt;
+
+    &lt;p&gt;As a kid, these traditions were pagan and unworthy of respect and admiration. As an adult, I can’t help but notice how we gather to break bread and remember the love of those who came before us in a way no different from communion. In our remembrance, we pledge to love others the same way we were loved. Ahgong was one of the most Christlike people I know and I believe that every time we gather to eat and in every act of kindness I attempt, his spirit lives in me.&lt;/p&gt;
+
+    &lt;p&gt;I don’t know if I really believe that there’s something in store for this soul in this body with its ACL torn and cholesterol high after I kick the bucket, but here’s what I do believe: In modeling a life of selfless love, Christ taught us how we attain eternal life. When we live Christ-like lives, our acts of kindness reverberate eternally across those whose lives we touch and beyond.&lt;/p&gt;
+
+    &lt;p&gt;I believe that many people have received this message of grace both through the Christian faith and otherwise. These people have lived lives filled with warmth, sacrificial love, and a selfless devotion to others. I believe every day, with the little choices we make to channel the warmth they showed us, we keep their sacred spirits alive inside of us. May that love, the love exemplified by the Lord Jesus Christ, live inside all of us forever.&lt;/p&gt;</content>
+  published_at: '2023-05-21T12:00:00+00:00'
+- id: http://liaokev.in/2020/08/23/goodbye-mac
+  title: Taking a Stance with a Computer Purchase
+  url: http://liaokev.in/2020/08/23/goodbye-mac.html
+  fellow: *3
+  description: "<content base=\"http://liaokev.in/2020/08/23/goodbye-mac.html\"\n
+    \ type=\"html\">&lt;p&gt;After a decade using macOS by-choice, I’ve decided it’s
+    time to try something\nelse.&lt;/p&gt;\n\n&lt;p&gt;I’m writing this on an early-2013
+    MacBook Pro running Catalina. There’s some\ndust caught in the left fan, which
+    means that as I’m using it, there’s an\ninsufferable rattling noise as the fan
+    rotates, whacking against the dust inside\nthe machine. Fixing this is incredibly
+    easy. One simply needs to open up the\nbottom, dig some dust out of the fan, and
+    your computer is humming quietly\nagain.&lt;/p&gt;\n\n&lt;p&gt;The catch: I don’t
+    have a pentalobe screwdriver to open the bottom case of my\nMac.&lt;/p&gt;\n\n&lt;p&gt;In
+    2008, way before I had my first laptop and when I still viewed Macs as\nmysterious,
+    other-worldly machines, I remember seeing my friend’s 2008 Unibody\nMacbook Pro
+    for the first time. The coolest part was when he showed me how to\nreplace the
+    hard disk. There were these latches that you pulled to remove the\naccess door
+    of your shiny aluminium laptop. It felt so elegant. This was a\nmachine designed
+    for you to disassemble and upgrade as you see fit.&lt;/p&gt;\n\n&lt;p&gt;In 2013,
+    as I was setting off to university for the first time, I remember\nbuying my ‘college
+    laptop’. This felt like such a rite-of-passage for me. I knew\nI wanted it to
+    be a Mac. I remember the thrill as I heard the Mac OS X chime for\nthe first time
+    on my very own Mac. Computers are very personal devices, and I’d\nfelt so powerful
+    knowing that this unibody laptop was mine to customize and\ntinker with.&lt;/p&gt;\n\n&lt;p&gt;To
+    use the cliche’d boiling frog analogy, nothing earth-shattering happened in\nthe
+    last decade, but gradually, I’ve just felt that this computer doesn’t belong\nto
+    me anymore.&lt;/p&gt;\n\n&lt;p&gt;When I upgraded to Catalina, I noticed that
+    I was able to read Hacker News\nagain. This confused me because I edit my /etc/hosts
+    file to block off the\nwebsite. It turns out that macOS Catalina locked down system
+    files and you can\n&lt;a href=&quot;https://discussions.apple.com/thread/250805304&quot;&gt;no
+    longer edit your own /etc/hosts\nfile&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Then the
+    other day, I was trying to install the &lt;a href=&quot;https://nixos.org/&quot;&gt;nix
+    package\nmanager&lt;/a&gt; to give reproducible package management a go.\nNix
+    requires you to create a /nix directory in your root folder, where all of\nyour
+    Nix packages will live. It does not touch your system in any way otherwise. \nThat’s
+    when I hit yet another roadblock: Your root directory has been locked\ndown on
+    Catalina and so &lt;a href=&quot;https://github.com/NixOS/nix/issues/2925&quot;&gt;you
+    can’t make a folder in\nRoot&lt;/a&gt;. There’s a workaround that\ninvolves, for
+    “legacy” Macs like mine, mounting an unencrypted partition that\ncontains your
+    Nix folder to /nix in your root directory.&lt;/p&gt;\n\n&lt;p&gt;In what world
+    do I, the owner of my laptop, not get the right to modify my own\nroot directory?
+    I get that many users are not informed enough about the\ninner-workings of a Unix
+    or Unix-like operating system and could irreparably\ndamage their OS install with
+    root access, but that means Apple should put in the\nappropriate safeguards, not
+    disable write in the Root directory altogether.&lt;/p&gt;\n\n&lt;p&gt;Yes, some
+    very clever people in the Nix ecosystem worked out a way to get Nix to\nplay nicely
+    with this Catalina limitation, but this was a purely arbitrary and\nartificial
+    constraint put in place by Apple. It sent a message to me: This is\nnot your machine.
+    Tread carefully when you use it. Apple, in its quest to\nprotect its users from
+    ourselves, has become hostile to tinkering. This is no\ndifferent from using nonstandard
+    pentalobe screws to hold the bottom-case\nin-place. Handle with care, it whispers.
+    This is a scary machine. Modify at your\nown risk.&lt;/p&gt;\n\n&lt;p&gt;The laptop
+    has been showing its age for quite a while and so I decided my next\nlaptop won’t
+    be a Mac. I can’t accept that I don’t own my machine.&lt;/p&gt;\n\n&lt;p&gt;I’ve
+    ordered a System76 Lemur Pro from their website. Linux has come leaps and\nbounds
+    since I first booted up Ubuntu 9.04 Jaunty Jackalope on my computer back\nin 2009.
+    System76 promises full compatibility with Linux in a laptop that’s just\naround
+    a kilogram. The memory and storage are fully upgradeable and the company\npublishes
+    in-depth how-to instructions for your model. The company makes an\neffort to disable
+    Intel Management Engine (a security risk), and the laptop\nfirmware is open source.&lt;/p&gt;\n\n&lt;p&gt;The
+    idea of voting with your wallet doesn’t work. I realize that the number of\nMac
+    users who care deeply about having write-access to the Root directory is\nprobably
+    not enough to affect Apple’s bottom-line in any meaningful way. That\nbeing said,
+    the direction that macOS is heading in isn’t one I feel I can accept\nanymore.&lt;/p&gt;\n\n&lt;p&gt;I
+    became a programmer in-part because open source demystified the computer for\nme.
+    Seeing how passionate people were about various components of an operating\nsystem
+    (window managers, compositors, init systems etc.) made me grapple with\nthe fundamentals
+    of the magic that made my computer work. In elementary school,\nI installed a
+    virus on a friend’s parent’s computer. We immediately shut it\ndown, and I, the
+    resident computer ‘expert’, recommended we ‘let it rest’ as the\ncomputer ‘immune
+    system’ fought the virus. There are many people out there like\nme, with very
+    simplistic mental models for how computers work. That’s okay.\nThat’s why abstractions
+    exist. We abstract away the complexities so people who\ndon’t care don’t have
+    to think about the inner-workings of complicated systems.\nThat’s a beautiful
+    thing.&lt;/p&gt;\n\n&lt;p&gt;Beautiful abstractions are one thing, but intentionally
+    locking down a system is\nanother. I don’t dread a world in which usable computers
+    mean people don’t have\nto think about how they work. I dread a world in which
+    computers actively fight\npeople who have the curiosity to dig a little deeper.&lt;/p&gt;\n\n&lt;p&gt;My
+    Lemur Pro is on the way, and I’m excited to give Linux a shot again.&lt;/p&gt;</content>"
+  published_at: '2020-08-23T12:00:00+00:00'
+- id: http://liaokev.in/2018/10/31/voting-guide
+  title: How Do I Vote?
+  url: http://liaokev.in/2018/10/31/voting-guide.html
+  fellow: *3
+  description: "<content base=\"http://liaokev.in/2018/10/31/voting-guide.html\"\n
+    \ type=\"html\">&lt;p&gt;&lt;strong&gt;If you support Marriage Equality, the TL;DR
+    is to vote NO to 10-12 and YES on 14-15. See you on Nov. 24th!&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/31/pride.png&quot; alt=&quot;Pride&quot;
+    /&gt; \n&lt;em&gt;Taiwan is home to Asia’s largest LGBTQ Pride, which took place
+    last week.&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;This guide is designed for overseas
+    Taiwanese who might find themselves in Taiwan on election day. Election day is
+    Saturday Nov. 24.&lt;/p&gt;\n\n&lt;h2 id=&quot;can-i-vote&quot;&gt;Can I vote?&lt;/h2&gt;\n&lt;p&gt;In
+    order to vote, you must be:&lt;/p&gt;\n&lt;ul&gt;\n  &lt;li&gt;&lt;strong&gt;Located
+    in Taiwan on the day of the election.&lt;/strong&gt;&lt;br /&gt;\nTaiwan does
+    &lt;strong&gt;not&lt;/strong&gt; allow absentee voting.&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;You
+    must be a national of the Republic of China (the government of Taiwan).&lt;/strong&gt;&lt;br
+    /&gt;\n&lt;img src=&quot;http://liaokev.in/assets/2018/10/31/passport.jpg&quot;
+    alt=&quot;Passport&quot; /&gt;&lt;br /&gt;\n&lt;em&gt;Taiwanese Passport&lt;/em&gt;&lt;br
+    /&gt;\nA good way of determining this (if you are coming to Taiwan from overseas)
+    is if you have (and entered Taiwan) with a green passport that says “Republic
+    of China– Taiwan” on it.&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;You must have household
+    registration in Taiwan.&lt;/strong&gt;&lt;br /&gt;\n&lt;img src=&quot;http://liaokev.in/assets/2018/10/31/national_id.jpg&quot;
+    alt=&quot;National ID&quot; /&gt;&lt;br /&gt;\n&lt;em&gt;sample National ID&lt;/em&gt;&lt;br
+    /&gt;\nThe simple way of putting this is: Do you have a ROC (Taiwan) government-issued
+    ID that has a residency-address on it? If so, you have household registration
+    here.&lt;/li&gt;\n  &lt;li&gt;If you intend to vote in referenda, you must be
+    18 years of age.&lt;/li&gt;\n  &lt;li&gt;If you intend to vote for elected officials,
+    you must be 20 years of age.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;With that tackled,
+    let’s tackle voting.&lt;/p&gt;\n\n&lt;h2 id=&quot;who-do-i-vote-for&quot;&gt;Who
+    do I Vote For?&lt;/h2&gt;\n&lt;p&gt;I can’t provide a guide to voting on your
+    representatives. This is constituency-dependent. Civic hackers have compiled an
+    online voting guide &lt;a href=&quot;https://councils.g0v.tw/&quot;&gt;here&lt;/a&gt;.
+    You can find your constituency by clicking on its general area and then the exact
+    constituency (for example, I am in Xinyi District, Taipei City. I click on Taipei
+    City (臺北市), and then Hsinyi District (信義區), and I’m now presented with &lt;a href=&quot;https://councils.g0v.tw/candidates/councilors/%E8%87%BA%E5%8C%97%E5%B8%82/3/#%E5%85%AD%E9%83%BD&quot;&gt;this
+    page&lt;/a&gt;. It gives me a list of my candidates, their financial assets, and
+    their experience. For each candidate, you can click 了解更多, which means “Understand
+    more”. You will have to make generous use of Google Translate, or your parents
+    if you want to understand more about your candidates.&lt;/p&gt;\n\n&lt;h2 id=&quot;what-do-i-vote-on&quot;&gt;What
+    Do I Vote On?&lt;/h2&gt;\n&lt;p&gt;Wow you are really spoilt for choice this year!
+    The current Tsai-DPP Administration has softened the restrictions on bringing
+    a referendum to the public. This means, the public is voting on &lt;strong&gt;TEN&lt;/strong&gt;
+    proposals this year. A whopping &lt;strong&gt;FIVE&lt;/strong&gt; of these are
+    related to the LGBTQ community and marriage equality. In addition, we are voting
+    on everything from green energy to the team name we compete under in the Olympics.&lt;/p&gt;\n\n&lt;p&gt;I’ve
+    provided a list of the referenda below and attempted to give a literal translation
+    as well as an explanation of them below. I’ve tried to be as objective as possible,
+    but I have my biases.&lt;/p&gt;\n\n&lt;p&gt;The count starts from 7 because there
+    have been 6 referenda in the past in Taiwan.&lt;/p&gt;\n\n&lt;h2 id=&quot;coal-fired-powerplant-referenda&quot;&gt;Coal-Fired
+    Powerplant Referenda&lt;/h2&gt;\n&lt;p&gt;For context, as recently as 2014, Taiwan
+    &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3433730&quot;&gt;generated
+    less than 2% of its energy from renewable sources&lt;/a&gt;. The Taichung Coal-Fired
+    Powerplant emits more CO2 than the entirety of Switzerland. That being said, Taiwan
+    is in the middle of an energy crisis because we have closed the bulk of our nuclear
+    plants in the wake of the Fukushima Disaster in Japan and are struggling to switch
+    to renewable resources.&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-7-air-pollution-and-energy-production&quot;&gt;Referendum
+    7: Air Pollution and Energy Production&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第7案：你是否同意以「平均每年至少降低1%」之方式逐年降低火力發電廠發電量？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 7: Do you agree with the method
+    of “cutting by at least 1% every year” to reduce the amount of fuel-fired power
+    stations?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-8-stopping-construction-on-all-coal-fired-power-stations&quot;&gt;Referendum
+    8: Stopping Construction on All Coal-Fired Power Stations&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第8案：您是否同意確立「停止新建、擴建任何燃煤發電廠或發電機組（包括深澳電廠擴建）」之能源政策？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 8: Do you agree with “stopping
+    all new construction and expanding any coal-fired power stations” as an energy
+    policy?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-9-food-from-nuclear-disaster-affected-areas-in-japan&quot;&gt;Referendum
+    9: Food from Nuclear-Disaster Affected Areas in Japan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第9案：你是否同意政府維持禁止開放日本福島311核災相關地區，包括福島與周遭4縣市（茨城、櫪木、群馬、千葉）等地區農產品及食品進口？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 9: Do you
+    agree that the government should preserve its existing ban of food imports from
+    areas affected by the March 11th Fukushima Prefecture Nuclear Disaster in Japan
+    (incl. 4 prefectures around Fukushima: Ibaraki, Tochigi, Gunma, Chiba).&lt;/p&gt;\n\n&lt;h2
+    id=&quot;marriage-equality-referenda-part-1&quot;&gt;Marriage Equality Referenda
+    (part 1)&lt;/h2&gt;\n&lt;p&gt;If you support marriage equality, vote &lt;strong&gt;no&lt;/strong&gt;
+    on 10-12. Referenda 10-12 oppose LGBTQ awareness education, sexual education,
+    and propose that marriage remain between a man and a woman. It proposes that a
+    separate process/union (not necessarily called ‘marriage’) for same-gender couples
+    be created instead of just redefining marriage. The folks proposing 10-12 are
+    arguing that same-gender couples should not be allowed to adopt children, or enjoy
+    many of the freedoms that married couples enjoy, which is why they are proposing
+    a separate law.&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-10-opposing-marriage-equality&quot;&gt;Referendum
+    10: Opposing Marriage Equality&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese text:&lt;/strong&gt;
+    第10案：你是否同意民法婚姻規定應限定在一男一女的結合?&lt;br /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt;
+    Referendum 10: Do you agree that basic law marriage should be restricted to a
+    union between a man and a woman?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-11-opposing-sexual-education-and-lgbtq-education-in-schools&quot;&gt;Referendum
+    11: Opposing Sexual Education and LGBTQ Education in Schools&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第11案：你是否同意在國民教育階段內（國中及國小），教育部及各級學校不應對學生實施性別平等教育法施行細則所定之同志教育？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 11: Do
+    you agree that in the compulsory section of the national education curriculum
+    (Junior High School and Elementary School), the Ministry of Education and schools
+    should not implement sex/gender equality education and LGBTQ education?&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-12-alternatives-to-marriage-for-lgbtq-couples&quot;&gt;Referendum
+    12: Alternatives to Marriage for LGBTQ couples&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第12案：你是否同意以民法婚姻規定以外之其他形式來保障同性別二人經營永久共同生活的權益？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 12: Do you agree that methods outside
+    of basic-law marriage should be used to protect the right of two same-sex people
+    to enjoy their right to live together forever?&lt;/p&gt;\n\n&lt;h2 id=&quot;olympic-name&quot;&gt;Olympic
+    Name&lt;/h2&gt;\n&lt;p&gt;Those of you who follow Taiwan in the Olympic Games
+    know that we are not allowed to participate as ‘Taiwan’ but only as ‘Chinese Taipei’.
+    This referendum is not endorsed by the IOC or any international body and will
+    not necessarily lead to a change in how we are represented on an international
+    level. It will change the name we apply to these events under.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-13-participating-in-the-olympics-under-the-name-taiwan&quot;&gt;Referendum
+    13: Participating in the Olympics Under the Name ‘Taiwan’.&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第13案：你是否同意，以「台灣」(Taiwan)為全名申請參加所有國際運動賽事及2020年東京奧運？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 13: Do
+    you agree that the name 「台灣」(Taiwan) should be used when applying to all international
+    competitions, including the 2020 Tokyo Summer Olympics?&lt;/p&gt;\n\n&lt;h2 id=&quot;marriage-equality-referenda-part-2&quot;&gt;Marriage
+    Equality Referenda (part 2)&lt;/h2&gt;\n&lt;p&gt;If you support marriage equality,
+    vote &lt;strong&gt;yes&lt;/strong&gt; on referenda 14-15. These are pushed by
+    the LGBTQ community in Taiwan and push for the Ministry of Education to adopt
+    sexual education as well as education for marriage equality. In addition, they
+    ask that marriage simply be redefined as a union between two people instead of
+    between a man and a woman. LGBTQ couples under this legislation will enjoy &lt;strong&gt;ALL&lt;/strong&gt;
+    privileges currently afforded to heteronormative married couples.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-14-legislating-marriage-equality-through-an-amendment-to-basic-law&quot;&gt;Referendum
+    14: Legislating Marriage Equality Through An Amendment to Basic Law&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第14案：您是否同意，以民法婚姻章保障同性別二人建立婚姻關係？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 14: Do you agree that an amendment
+    to the basic law should be used to protect a marriage between two people of the
+    same gender?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-15-implementing-sexual-education-and-lgbtq-education-in-taiwan&quot;&gt;Referendum
+    15: Implementing Sexual Education and LGBTQ Education in Taiwan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt;  第15案：您是否同意，以「性別平等教育法」明定在國民教育各階段內實施性別平等教育，且內容應涵蓋情感教育、性教育、同志教育等課程？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 15: Do
+    you agree that the “Stipulation on Gender Equality Education Laws” should be used
+    to implement gender equality education at the Elementary and Junior-High School
+    levels, which includes classes on emotional education, sexual education and LGBTQ
+    education?&lt;/p&gt;\n\n&lt;h2 id=&quot;nuclear-energy-referendum&quot;&gt;Nuclear
+    Energy Referendum&lt;/h2&gt;\n\n&lt;h3 id=&quot;referendum-16-stopping-the-cancellation-of-nuclear-power-in-taiwan&quot;&gt;Referendum
+    16: Stopping the Cancellation of Nuclear Power in Taiwan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第16案：您是否同意：廢除電業法第95條第1項，即廢除「核能發電設備應於中華民國一百十四年以前，全部停止運轉」之條文？&lt;br
+    /&gt;\n&lt;strong&gt;English Text:&lt;/strong&gt; Do you agree to remove Article
+    95 Section 1 from the Electricity Business Law, and in doing so, remove the “Stipulation
+    to stop all nuclear power plants before the 114th Year of the Republic (2025)?”&lt;/p&gt;</content>"
+  published_at: '2018-10-31T05:00:00+00:00'
+- id: http://liaokev.in/2018/10/25/g0v
+  title: What is g0v?
+  url: http://liaokev.in/2018/10/25/g0v.html
+  fellow: *3
+  description: |-
+    <content base="http://liaokev.in/2018/10/25/g0v.html"
+      type="html">&lt;p&gt;Lead-in: Puyuma Express derailment&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Story: driver was struggling with broken ATC
+        &lt;ul&gt;
+          &lt;li&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Within 5 hours, disaster information centre was online, including:
+        &lt;ul&gt;
+          &lt;li&gt;Blood donation centers and their status&lt;/li&gt;
+          &lt;li&gt;Search engine for hospitalized survivors&lt;/li&gt;
+          &lt;li&gt;Places to stay near hospitals so families could be with their loved ones recovering&lt;/li&gt;
+          &lt;li&gt;Translations of Mandarin-language material into English and Japanese&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;What parts of g0v culture need explaining?&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Leaderless decentralized culture&lt;/li&gt;
+      &lt;li&gt;Concept of the Nobody&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;What is g0v?&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Sunflower Movement&lt;/li&gt;
+      &lt;li&gt;NGO participation&lt;/li&gt;
+      &lt;li&gt;Ridesharing legislation&lt;/li&gt;
+      &lt;li&gt;Amis-Moedict&lt;/li&gt;
+      &lt;li&gt;iTaigi&lt;/li&gt;
+      &lt;li&gt;National Treasures Project&lt;/li&gt;
+      &lt;li&gt;Marriage Equality&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;1021 Puyuma Incident&lt;/p&gt;
+
+        &lt;h3 id=&quot;campaign-finance-data&quot;&gt;Campaign Finance Data&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;How do I help?&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Engineers: Plenty of code to fork&lt;/li&gt;
+      &lt;li&gt;Bilingual folks: Lots of translation required!&lt;/li&gt;
+      &lt;li&gt;Lawyers: Lots of folks need help understanding US law around Taiwan like the Taiwan Relations Act, Taiwan Travel Act, etc.&lt;/li&gt;
+      &lt;li&gt;Citizens: Get involved with public conversations&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Questions for g0v Interview&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;How do you think&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;It’s the tail-end of the first day of the g0v (pronounced gov-zero) summit in Taipei. The summit is this chaotic beauty of civic tech hackers and government workers from Taiwan, Japan to Singapore to the United States bonding over tea in-between speaker series by that are translated from Chinese to English by a team of huddled in a corner of each room.&lt;/p&gt;
+
+    &lt;p&gt;At the centre of this? A team of volunteers scurrying around the conference floor, leading around speakers, translating in booths and all clad in the same shirt with a g0v logo and emblazoned with a single, confusing word:&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Nobody&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;I approach the summit information counter and ask one of the white-shirted ‘Nobodies’ in a shaky voice: “Excuse me: How exactly does one join g0v?”&lt;/p&gt;
+
+    &lt;p&gt;She cocks her head to one-side and replies: “…How do you mean? You’re already in it. This is g0v.”&lt;/p&gt;
+
+    &lt;p&gt;As I’d discover over the next couple of days, g0v&lt;/p&gt;</content>
+  published_at: '2018-10-25T04:00:00+00:00'
+- id: http://liaokev.in/2018/10/22/how-g0v-works
+  title: How Does g0v Mobilize?
+  url: http://liaokev.in/2018/10/22/how-g0v-works.html
+  fellow: *3
+  description: |-
+    <content base="http://liaokev.in/2018/10/22/how-g0v-works.html"
+      type="html">&lt;p&gt;Yesterday, tragedy struck Taiwan. A passenger train traveling down the East Coast &lt;a href=&quot;https://www.bbc.com/news/world-asia-45932991&quot;&gt;derailed&lt;/a&gt;. 18 passengers lost their lives and over 100 were hospitalized.&lt;/p&gt;
+
+    &lt;p&gt;In times of chaos, it’s incredibly important that the public has access to accurate information. Families need to know about the status of their loved ones. Members of the public need to know how to contribute.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/volunteers.png&quot; alt=&quot;Volunteers&quot; /&gt;
+    &lt;em&gt;Volunteers start rallying on the g0v slack.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;At around 6:45pm (two hours after the derailment), a thread popped up on the g0v Slack. &lt;a href=&quot;https://g0v.tw&quot;&gt;g0v&lt;/a&gt; (pronounced gov-zero) is a network of civic hackers and activists in Taiwan. People started floating different ways to help. Someone created a hackpad for us to centralize resources on.&lt;/p&gt;
+
+    &lt;p&gt;People started pitching in. Some offered to debunk fake news stories that were being circulated. Multilingual folks were translating news into English and Japanese. Others with coding expertise, like myself, volunteered to connect the public to data sources that were being publicized. The Ministry of Health was publishing a manifest of the injured and where they were being hospitalized. It was published on a Google Drive link that was periodically updated but was difficult to parse.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/search_engine.png&quot; alt=&quot;Search&quot; /&gt;
+    &lt;em&gt;The search engine that g0v volunteers came up with for reuniting families.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Working with another volunteer named @yutin, we re-deployed a previously written static site for searching through lists of injured people to GitHub Pages. The only thing left to do was populate it with data. We needed to turn the xlsx sheet that the government was updating into something that the public could understand. @yutin and I &lt;a href=&quot;https://github.com/g0v/1021puyuma&quot;&gt;each built different parsers for the data&lt;/a&gt;, one written in Golang and the other in JS. We’re now periodically checking the government’s official passenger manifest and re-parsing the data to make sure our &lt;a href=&quot;https://g0v.github.io/1021puyuma/&quot;&gt;search engine&lt;/a&gt; has up-to-date information.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/disaster_information_center.png&quot; alt=&quot;Search&quot; /&gt;
+    &lt;em&gt;The final product: A publicly created disaster information center entirely built by volunteer action over 6 hours.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;The end result? The public now has access to a &lt;a href=&quot;https://hackmd.io/c/PuyumaCrash-tw/&quot;&gt;disaster information hub&lt;/a&gt; that was entirely volunteer-compiled. Everything from local folk offering accommodation options to families of survivors to search engines so that families can be reunited. All this came together within 5 hours of the disaster striking.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/blood_donation.png&quot; alt=&quot;Blood&quot; /&gt;
+    &lt;em&gt;Information on where to donate blood.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;While I’m absolutely devastated by this tragedy, the way that g0v responded gave me so much hope. A group of ordinary citizens banded together to create tools to help other ordinary people pull through a tragedy. There’s a lot in the news that makes me upset, but this was a reminder that there’s always more you can do to help.&lt;/p&gt;</content>
+  published_at: '2018-10-22T05:00:00+00:00'
+- id: http://liaokev.in/2018/10/20/maracuya-responsive
+  title: Maracuya is Now Responsive
+  url: http://liaokev.in/2018/10/20/maracuya-responsive.html
+  fellow: *3
+  description: |-
+    <content base="http://liaokev.in/2018/10/20/maracuya-responsive.html"
+      type="html">&lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/20/hamburger.png&quot; alt=&quot;Hamburger Menu Sliding In&quot; /&gt;
+    &lt;em&gt;Hamburger menu sliding in&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;I spent most of yesterday working on a responsive menu for Maracuya. I wanted something that plays nicely with my BEMIT CSS setup. I ended up creating two menus. The first one is the desktop-sized menu, &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu&lt;/code&gt;, which contains a list of &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__items&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu&lt;/code&gt; also contains &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__hamburger-button&lt;/code&gt;, which is hidden by default.&lt;/p&gt;
+
+    &lt;p&gt;If the screen width is small enough, all &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__items&lt;/code&gt; are hidden and the hamburger button is shown. In addition, there is an off-screen &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt; that is &lt;code class=&quot;highlighter-rouge&quot;&gt;100vw&lt;/code&gt;. I added an event listener to the hamburger button that does a CSS transition to move the hamburger menu overlay in a &lt;code class=&quot;highlighter-rouge&quot;&gt;position: fixed&lt;/code&gt; above our content.&lt;/p&gt;
+
+    &lt;p&gt;This is all super basic frontend design, but I’m learning quite a lot from implementing very basic things from scratch!&lt;/p&gt;</content>
+  published_at: '2018-10-20T11:00:00+00:00'
+- id: http://liaokev.in/2018/10/18/redesign
+  title: Introducing Maracuya
+  url: http://liaokev.in/2018/10/18/redesign.html
+  fellow: *3
+  description: "<content base=\"http://liaokev.in/2018/10/18/redesign.html\"\n  type=\"html\">&lt;p&gt;Lately,
+    a lot of things have been stressing me out. I’ve taken to working on improvements
+    to this site that I gradually want to roll out.&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/18/kagami.png&quot; alt=&quot;Kagami&quot;
+    /&gt;\n&lt;em&gt;The site under the Kagami theme&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;I
+    previously used the &lt;a href=&quot;http://jekyllthemes.org/themes/kagami/&quot;&gt;Kagami
+    Theme&lt;/a&gt; for my website. It was a nice, minimal theme that did its job.
+    I got a little frustrated with my lack of ability in frontend and design so I
+    decided to take matters into my own hands. I ripped all the CSS and classnames
+    out of the website, changed up the HTML markup and decided to completely re-theme
+    the website. I did this work in a separate branch while I continued to edit the
+    content as usual. With today’s merge, the content is finally live.&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/18/maracuya.png&quot; alt=&quot;Maracuya&quot;
+    /&gt;\n&lt;em&gt;The site under the Maracuya theme&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;I’m
+    still working on Maracuya, but in the meantime, I’ve learned a lot of cliches
+    about frontend design I want to share. These are all super basic for anyone who
+    has done any real front-end work before.&lt;/p&gt;\n\n&lt;h3 id=&quot;why-maracuya&quot;&gt;Why
+    Maracuya?&lt;/h3&gt;\n\n&lt;p&gt;Maracuya is the Peruvian Spanish word for the
+    passionfruit. I ate an unhealthy of amount of Maracuya and Maracuya flavoured
+    items while I was traveling in Peru. I love the purple colour of the Maracuya
+    exterior and I wanted to write a theme that was a tribute to this great fruit.
+    Unsure if I have any pictures of the Maracuya. Again, I’m feeling really lazy.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;how-to-css-properly&quot;&gt;How to CSS Properly&lt;/h3&gt;\n\n&lt;h4
+    id=&quot;scss-wow&quot;&gt;SCSS: …Wow.&lt;/h4&gt;\n&lt;p&gt;My friend &lt;a href=&quot;http://yang.money&quot;&gt;Michael
+    Yang&lt;/a&gt; recommended that I check out SCSS. SCSS is a stylesheet language
+    that serves as syntactic sugar for CSS. I was able to nest selectors, making organization
+    of my CSS intuitive. Something else really cool about SCSS is the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;amp;&lt;/code&gt;
+    operator, which allows you to nest CSS selectors that concatenate.&lt;/p&gt;\n\n&lt;p&gt;For
+    example, the stylesheet:&lt;/p&gt;\n\n&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div
+    class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.c-post
+    {  \n  &amp;amp;__metadata {  \n    margin-top: 20px;  \n    color: $light-black;
+    \ \n    font-size: 0.8rem;  \n  }  \n  &amp;amp;__description {  \n    font-weight:
+    $light;  \n    margin-top: 0;  \n  }  \n}  \n&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;\n\n&lt;p&gt;Will
+    compile to the following selectors:&lt;/p&gt;\n&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div
+    class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.c-post__metadata
+    {  \n  margin-top: 20px;  \n  color: $light-black;  \n  font-size: 0.8rem;  \n}
+    \ \n.c-post__description {  \n  font-weight: $light;  \n  margin-top: 0;\n}  \n&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;\n\n&lt;h4
+    id=&quot;bemit-css-is-really-cool&quot;&gt;BEMIT CSS is really cool.&lt;/h4&gt;\n&lt;p&gt;BEMIT
+    is the combination of BEM and IT approaches to managing your CSS and it fits really
+    well with using SASS. BEM requires you to split your CSS selectors by “Block,
+    element and modifier”, while ITCSS refers to an “Inverted Triangle” that allows
+    you to structure your CSS in a way that prioritizes some styles above others,
+    starting with global style variables and finishing with individual style overrides.&lt;/p&gt;\n\n&lt;p&gt;Honestly,
+    I’m too tired (or incompetent) to properly and thoroughly explain these concepts.
+    But they’re really cool.&lt;/p&gt;\n\n&lt;h3 id=&quot;ongoing-work&quot;&gt;Ongoing
+    Work:&lt;/h3&gt;\n&lt;p&gt;Maracuya still needs a lot of work before I’m satisfied
+    with the result, and here are some pieces of ongoing work.&lt;/p&gt;\n&lt;ul&gt;\n
+    \ &lt;li&gt;&lt;strong&gt;Responsive Design:&lt;/strong&gt; I don’t know how to
+    handle mobile navigation. The easy way is to stuff everything into a hamburger
+    menu, but angry reddit seems to tell me this is really poor usability. It looks
+    good though so I’m really unsure what to do here. Advice appreciated.&lt;/li&gt;\n
+    \ &lt;li&gt;&lt;strong&gt;Photo Gallery:&lt;/strong&gt; I really like taking photos
+    and having a centralized location where I can share all my photos would be really
+    great!&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;Project Portfolio:&lt;/strong&gt;
+    Where I can share things that I’ve worked on!&lt;/li&gt;\n&lt;/ul&gt;</content>"
+  published_at: '2018-10-18T12:00:00+00:00'
+- id: http://liaokev.in/2018/10/03/curtis
+  title: 'In Their Own Words: Curtis Kuo'
+  url: http://liaokev.in/2018/10/03/curtis.html
+  fellow: *3
+  description: "<content base=\"http://liaokev.in/2018/10/03/curtis.html\"\n  type=\"html\">&lt;blockquote&gt;\n
+    \ &lt;p&gt;It was scary to make dials at first, but in connecting to fellow voters,
+    it reminded me of how the government should be working for all of us, not just
+    themselves and a few others.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/3/curtis.jpeg&quot; alt=&quot;Curtis&quot;
+    /&gt;\n&lt;em&gt;Curtis making dials from his home in Ann Arbor, Michigan.&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;In
+    Their Own Words is a feature series that I’m running on my volunteers, who are
+    making dials to help the Nevada State Democrats elect some incredible candidates
+    this November. Curtis is one of my long-standing volunteers and has made more
+    than 200 dials since he has started. You can dial too! Make a difference today
+    and reach out to me through &lt;a href=&quot;mailto:public@liaokev.in&quot;&gt;e-mail&lt;/a&gt;
+    or on &lt;a href=&quot;https://www.signal.org&quot;&gt;Signal&lt;/a&gt; at +1(484)702-2952.&lt;/em&gt;&lt;/p&gt;\n\n&lt;ol&gt;\n
+    \ &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;Tell us a little bit about yourself!
+    What do you do for a living and what are your hobbies?&lt;/strong&gt; &lt;br /&gt;\nI
+    just graduated from &lt;a href=&quot;https://www.upenn.edu/&quot;&gt;Penn&lt;/a&gt;
+    and am taking a year off, working in a biomedical engineering lab at the &lt;a
+    href=&quot;https://umich.edu&quot;&gt;University of Michigan&lt;/a&gt; while I
+    apply to grad school! In my spare time, I’m enjoying living within an hour’s drive
+    of my family for the first time in four years, and am living out a dream of mine
+    by substituting in the cello sections of professional orchestras in the area.&lt;/p&gt;\n
+    \ &lt;/li&gt;\n  &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;Why did you decide to
+    phonebank?&lt;/strong&gt;&lt;br /&gt;\nI’ve been so frustrated at the failures
+    of the American Healthcare system, and at how boneheaded some members of Congress
+    (and um the White House) are about the realities of climate change. In the future,
+    I’d like to have enough of a platform to advocate for better &lt;em&gt;everything,&lt;/em&gt;
+    but since I can’t get there before the midterms, I thought participating in grassroots
+    politics was a good way to help.&lt;br /&gt;\nIn 2016, I donated some money, but
+    this time around I wanted to do more. I’m confident that the effort I’ve been
+    putting in on the phone has been making some difference, which is a confidence
+    I didn’t have two years ago. \nThe catalyst for me getting involved was was when
+    you &lt;a href=&quot;http://liaokev.in/2018/07/18/brb.html&quot;&gt;posted about&lt;/a&gt;
+    the bureaucratic inefficiencies that kept you from going to your job, forcing
+    you to leave the country.&lt;br /&gt;\nI commented on your post then, feeling
+    a little ashamed that my government would do you dirty like that. I felt ashamed
+    that I didn’t know enough about my government to help you, and then your call
+    to action in your conclusion convinced me that I should go beyond liking posts
+    on Facebook and really start fighting for what I believe to be right.&lt;/p&gt;\n
+    \ &lt;/li&gt;\n  &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;How has it been so far
+    and what have you learned from doing it?&lt;/strong&gt;&lt;br /&gt;\nHonestly,
+    some phonebanking sessions were really slow and people weren’t picking up and
+    I was feeling pessimistic about my impact. But every so often, someone would be
+    really receptive to what NVDems was trying to do, and that would give me a boost.
+    Now, as we gain steam in the last month before the election, it’s getting even
+    easier. Lots of people are joining us to volunteer, and we can always use more!
+    Anyone who isn’t already volunteering, the best time to start is right now!&lt;br
+    /&gt;\nI’ve learned so much. Voters are just ordinary people who want the best
+    from their politicians. It was scary to make dials at first, but in connecting
+    to fellow voters, it reminded me of how the government should be working for all
+    of us, not just themselves and a few others. I’ve been becoming a lot more comfortable
+    talking to and connecting with strangers, and have realized that a lot of people
+    will give you a chance, if you’re friendly enough.&lt;/p&gt;\n  &lt;/li&gt;\n
+    \ &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;If you could be any character from any
+    book, who from which book?&lt;/strong&gt;&lt;br /&gt;\nMaybe Captain Nemo, from
+    Twenty Thousand Leagues Under the Sea!&lt;/p&gt;\n  &lt;/li&gt;\n&lt;/ol&gt;</content>"
+  published_at: '2018-10-03T05:00:00+00:00'
+- id: http://liaokev.in/2018/09/30/why-apply-for-hackny
+  title: What the hackNY Fellowship is
+  url: http://liaokev.in/2018/09/30/why-apply-for-hackny.html
+  fellow: *3
+  description: |-
+    <content base="http://liaokev.in/2018/09/30/why-apply-for-hackny.html"
+      type="html">&lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/9/30/hackny.jpg&quot; alt=&quot;hackNY &#39;18&quot; /&gt;
+    &lt;em&gt;With my Fellows, but I’m in the computer!&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;I was a hackNY Fellow last summer and I had a blast. Applications for the hackNY
+    Fellows Class of 2019 application have just opened! I wanted to take the time to
+    introduce the Fellowship to you and open myself up as a point-of-contact if you
+    have questions about it!&lt;/p&gt;
+
+    &lt;h2 id=&quot;what-is-the-fellowship&quot;&gt;What is the Fellowship?&lt;/h2&gt;
+
+    &lt;p&gt;As a hackNY Fellow, you are matched with an NYC-based startup for the duration
+    of your summer. Last year, we had Fellows working at BuzzFeed, Babble, Tumblr,
+    First Look Media (The Intercept), TwoBulls, etc. Outside of your regular day
+    job, you live with other Fellows in a dormitory in NYU. On two days of the week,
+    you attend speaker series where folks share insights from various parts of
+    industry. Talks we had last summer include:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Q&amp;amp;A with Jonah Peretti, CEO and Founder of BuzzFeed&lt;/li&gt;
+      &lt;li&gt;Shaving My Head Made Me a Better Programmer by Alex Qin from the Code
+    Cooperative, which teaches formerly incarcerated and justice-involved people
+    digital literacy and coding as a means of liberation.&lt;/li&gt;
+      &lt;li&gt;Talk and Q&amp;amp;A with Amanda Cox, editor of the New York Times’ Upshot section on
+    how the publication has successfully utilized data visualization and
+    analytical journalism to create a compelling online presence&lt;/li&gt;
+      &lt;li&gt;…and many many more.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;In addition, Fellows take part in our Summer of Good Initiative, where they
+    grapple with the ethics of our work in industry and give back by working in the
+    public interest sector pro-bono. While the initiative is new and changing in
+    form every year, some projects from my year include:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Working with the Manhattan District Attorney’s Office to help them fight human
+    trafficking cases&lt;/li&gt;
+      &lt;li&gt;Helping a non-profit music summer camp optimize admissions data to better
+    serve low-income students&lt;/li&gt;
+      &lt;li&gt;Working on an app that explores how race affects our perception of police
+    brutality and incarceration&lt;/li&gt;
+      &lt;li&gt;…and many more again.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Finally, finishing the Fellowship means you become alumNY and an entire network
+    of interesting people who have done the fellowship in the past become accessible
+    to you. Some people say that the best part of hackNY is the network after you
+    graduate and I can see why they believe that!&lt;/p&gt;
+
+    &lt;p&gt;In my hackNY summer, I made some incredible friends (who I’m still very close
+    with) and between the speaker series, exploring NYC and my Summer of Good
+    Project, I found so much to do. Despite the issues I faced, this was by far the
+    best summer that I ever had (including a summer spent working for big tech) and
+    I want you to have the same.&lt;/p&gt;
+
+    &lt;h2 id=&quot;how-do-i-apply&quot;&gt;How Do I Apply?&lt;/h2&gt;
+
+    &lt;p&gt;Apply on our application website. hackNY applications are in three rounds and
+    with each successive round, the admit rate drops as we fill up the class. As our
+    Speaker Series and Summer of Good Initiatives will imply, we are looking for
+    Fellows with not  just technical aptitude, but a passion for turning a group of
+    people into an eclectic community and a desire to engage in questions
+    surrounding the ethics of our work in industry. That’s why I wanted to send a
+    special shoutout to any current Haverford students engaged in work with affinity
+    groups, community organizing, or Customs. There are some opportunities in
+    industry where your extracurricular work in ways unrelated directly to your
+    technical aptitude help you shine and this is definitely one of them.&lt;/p&gt;
+
+    &lt;p&gt;I’ve put my application questions on a blog post in case you’re interested in
+    reading them. Some other Fellows have done the same and you can find the links
+    on our website.&lt;/p&gt;
+
+    &lt;p&gt;alumNY read applications and interview fellows according to a process described
+    in-detail on our website, which means talking to an alumNY can really give you a
+    better sense of what we’re looking for in Fellows. This brings me to my final
+    thing:&lt;/p&gt;
+
+    &lt;h2 id=&quot;open-invitation-message-me&quot;&gt;Open Invitation: Message me!&lt;/h2&gt;
+
+    &lt;p&gt;I’m happy to talk to anyone with questions about the fellowship! You can contact
+    me at &lt;a href=&quot;mailto:contact@liaokev.in&quot;&gt;contact@liaokev.in&lt;/a&gt;.&lt;/p&gt;</content>
+  published_at: '2018-09-30T06:12:00+00:00'
+- id: http://liaokev.in/2018/08/09/army
+  title: Quito Day 2- An Army Parade
+  url: http://liaokev.in/2018/08/09/army.html
+  fellow: *3
+  description: |-
+    <content base="http://liaokev.in/2018/08/09/army.html"
+      type="html">&lt;p&gt;Here are some photos from a parade by the Ecuadorian Army in Centro Histórico.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army2.jpg&quot; alt=&quot;Photo 2&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army3.jpg&quot; alt=&quot;Photo 3&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army4.jpg&quot; alt=&quot;Photo 4&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army5.jpg&quot; alt=&quot;Photo 5&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army6.jpg&quot; alt=&quot;Photo 6&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army1.jpg&quot; alt=&quot;Photo 1&quot; /&gt;&lt;/p&gt;</content>
+  published_at: '2018-08-09T02:00:00+00:00'

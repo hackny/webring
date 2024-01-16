@@ -1,23 +1,40 @@
 #!/usr/bin/env ruby
 require "rss"
 require "yaml"
+require "byebug"
 
 def fetch_posts(fellow)
   posts = []
   URI.open(fellow["rss_url"]) do |rss|
     feed = RSS::Parser.parse(rss)
     posts = feed.items.map do |item|
-      {"id" => item.guid.content,
-       "title" => item.title,
-       "url" => item.link,
+      if item.class == RSS::Atom::Feed::Entry
+        id = item.id.content.to_s
+        title = item.title.content.to_s
+        content = item.content.to_s
+        published_at = item.published.content.to_s
+        link = item.link.href.to_s
+      else
+        id = item.guid.content
+        title = item.title
+        content = item.description
+        published_at = item.pubDate
+        link = item.link
+      end
+
+      {"id" => id,
+       "title" => title,
+       "url" => link,
        "fellow" => fellow,
-       "description" => item.description,
-       "published_at" => item.pubDate}
+       "description" => content,
+       "published_at" => published_at}
     end
   end
 
   puts("[RSS]: Fetched #{posts.size} items for #{fellow["name"]}")
-  return posts
+
+  # Only get the first 10 posts, we don't need to store everything
+  return posts[0..10]
 end
 
 fellows = YAML.load(File.read("_data/fellows.yaml"))
