@@ -25,7 +25,7 @@ def fetch_posts(fellow)
       {"id" => id,
        "title" => title,
        "url" => link,
-       "fellow" => fellow,
+       "fellow" => fellow.clone,
        "published_at" => published_at}
     end
   end
