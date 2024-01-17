@@ -26,7 +26,7 @@ def fetch_posts(fellow)
        "title" => title,
        "url" => link,
        "fellow" => fellow,
-       "description" => content,
+       "description" => "Read the full post <a href=\"${content}\">here</a>.",
        "published_at" => published_at}
     end
   end
