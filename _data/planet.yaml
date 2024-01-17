@@ -1,3 +1,4 @@
+---
 - id: https://www.stevegattuso.me/2024/01/14/sway-icons.html
   title: Workspace icons on swaywm
   url: https://www.stevegattuso.me/2024/01/14/sway-icons.html
@@ -30,3 +31,714 @@
     which links to live Faircamp websites.</p>\n</blockquote>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/202312091215%20Bookmarks%20-%20Projects%20&amp;%20companies.html\"
     class=\"wiki-link\">Projects &amp; companies</a></p>\n\n          "
   published_at: 2024-01-03 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
+  title: 2023, in review
+  url: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
+  fellow: *1
+  description: "\n              \n                <img src=\"https://www.stevegattuso.me/static/blog-images/2023-review-header.jpg\"
+    />\n              \n              <p>It’s 4:30a as I’m writing this, jetlagged
+    after getting home from a trip to Mexico and New York for the holidays. Thankfully
+    there’s a silver lining to my inability to sleep: a brief window of quiet to reflect
+    and write about my past year.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2024/01/02/2023-in-review.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2024-01-02 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
+  title: Why build this website?
+  url: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
+  fellow: *1
+  description: "\n              \n              <p>I’ve been putting a lot of time
+    into this website lately. With all of this work, I’ve been wondering: why do all
+    of this? I don’t really have much of an audience on this blog- nor do I have much
+    of a desire to “build a brand.” What’s the point of it all? I’ve meditated on
+    this question and think I’ve come up with a few sources of motivation for doing
+    all of this.</p>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/12/11/why-build-this-website.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-12-11 09:12:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
+  title: Re-organized the bookmarks section
+  url: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
+  fellow: *1
+  description: "\n              <p>I’ve been adding a bunch of links and things to
+    this section lately and decided to refactor it a bit. It’s still not exactly where
+    I want it to be, but there are now a larger number of smaller pages which should
+    <em>hopefully</em> be easier/more fun to browse through.</p>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/202310091958%20Bookmarks.html\"
+    class=\"wiki-link\">Bookmarks</a></p>\n\n          "
+  published_at: 2023-12-09 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
+  title: Re-published my NYC travel guide
+  url: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
+  fellow: *1
+  description: "\n              <p>A friend of mine asked for some recommendations
+    about where to go while visiting the city and I remembered that I wrote up a guide
+    years ago (pre-pandemic). I finally had some time to sit down, verify that everything
+    still exists post-pandemic, and update/add some recs to the list.</p>\n\n<p>It
+    seemed silly to keep this private after putting so much work into it, so it’s
+    now available for all to see!</p>\n\n<p><a href=\"https://www.stevegattuso.me/wiki/201905010000%20Steve's%20NYC%20Travel%20Guide.html\"
+    class=\"wiki-link\">Steve’s NYC Travel Guide</a></p>\n\n          "
+  published_at: 2023-12-03 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/11/29/update-books.html
+  title: Updated the books page
+  url: https://www.stevegattuso.me/wiki/202312091218%20Bookmarks%20-%20Non-fiction.html
+  fellow: *1
+  description: "\n              <p>The books page was pretty barren since migrating
+    from my old Clojure-based website generator to my shiny new Jekyll/Tiddlywiki-based
+    generator. I’ve finally gone through and transferred over the full list of favorite
+    books and updated a few of the attached summaries.</p>\n\n          "
+  published_at: 2023-11-29 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/11/26/update-rss.html
+  title: Added changelog entries to the RSS feed
+  url: https://www.stevegattuso.me/2023/11/26/update-rss.html
+  fellow: *1
+  description: "\n              <p>Over the last couple of months I’ve been slowly
+    but steadily increasing the number of wiki pages on my website. I’ve quietly logged
+    these changes on a rather inconspicuous “changelog” section of my site’s index
+    page, but have been waffling about whether or not to include these changes in
+    my RSS feed.</p>\n\n<p>As of today I think I’ve finally settled on a way to include
+    these updates in my RSS feed while also keeping them separate from the full-on
+    blog posts on my website. If you’re seeing this, it worked!</p>\n\n<p>Don’t worry,
+    these page updates are all manually written and I promise to only mention things
+    that are noteworthy. That is, I’m not going to blast your RSS feed away with noise
+    as I make gramatical tweaks to pages.</p>\n\n<p>I will, on the other hand, keep
+    you posted as I update and create new pages like some of the more recent projects
+    and things I’ve been working on:</p>\n\n<ul>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202311060918%20Citibike%20system%20data%20reference.html\"
+    class=\"wiki-link\">Citibike system data reference</a></li>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202310091958%20Bookmarks.html\"
+    class=\"wiki-link\">Bookmarks</a></li>\n  <li><a href=\"https://www.stevegattuso.me/wiki/202010200000%20Red%20Lentil%20Curry.html\"
+    class=\"wiki-link\">Red Lentil Curry</a></li>\n</ul>\n\n<p>See ya soon!<br />\n-
+    Steve</p>\n\n          "
+  published_at: 2023-11-26 00:00:00.000000000 +01:00
+- id: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
+  title: 'FeeDon: a Mastodon to RSS bridge'
+  url: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
+  fellow: *1
+  description: "\n              \n              <p>A few months ago I started work<sup
+    id=\"fnref:0\" role=\"doc-noteref\"><a href=\"#fn:0\" class=\"footnote\" rel=\"footnote\">1</a></sup>
+    on a small project to convert Mastodon timelines into RSS feeds. While Mastodon
+    has pretty good RSS support out-of-the-box, it only really creates feeds for individual
+    users. I had a few additional features that I was looking for:</p>\n\n<div class=\"footnotes\"
+    role=\"doc-endnotes\">\n  <ol>\n    <li id=\"fn:0\" role=\"doc-endnote\">\n      <p>If
+    you’re curious, the original toot where I solicited feedback on the idea is <a
+    href=\"https://merveilles.town/@vesto/110457145588521079\">here</a>. <a href=\"#fnref:0\"
+    class=\"reversefootnote\" role=\"doc-backlink\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n\n
+    \             <b><a href=\"https://www.stevegattuso.me/2023/08/14/introducing-feedon.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-08-14 00:00:00.000000000 +02:00
+- id: https://www.stevegattuso.me/2023/08/08/planned-economies.html
+  title: What I've been learning about planned economies
+  url: https://www.stevegattuso.me/2023/08/08/planned-economies.html
+  fellow: *1
+  description: "\n              \n              <p>Over the last couple of months
+    I’ve been following a mental thread that has me exploring the idea of <em>planned
+    economies</em>. If you’ve never heard of it before, strap on your economics hat
+    and get ready for a wild ride. The high-level idea behind them is to allocate
+    scarce resources according to a set of society or community level goals. These
+    goals can be anything from pointing everything at building machinery for protecting
+    oneself during a war<sup id=\"fnref:0\" role=\"doc-noteref\"><a href=\"#fn:0\"
+    class=\"footnote\" rel=\"footnote\">1</a></sup> to transitioning to a sustainable
+    economy.</p>\n\n<div class=\"footnotes\" role=\"doc-endnotes\">\n  <ol>\n    <li
+    id=\"fn:0\" role=\"doc-endnote\">\n      <p>Something I found out recently: the
+    American economy was briefly <a href=\"https://en.wikipedia.org/wiki/War_Production_Board\">converted
+    to a planned economy</a> during WWII when it became apparent that private companies
+    couldn’t be trusted to manufacture the materials necessary for sustaining the
+    war effort. <a href=\"#fnref:0\" class=\"reversefootnote\" role=\"doc-backlink\">&#8617;</a></p>\n
+    \   </li>\n  </ol>\n</div>\n\n              <b><a href=\"https://www.stevegattuso.me/2023/08/08/planned-economies.html\">[Read
+    more]</a></b>\n          "
+  published_at: 2023-08-08 00:00:00.000000000 +02:00
+- id: http://liaokev.in/2023/05/21/baptism-statement
+  title: Baptism Statement
+  url: http://liaokev.in/2023/05/21/baptism-statement.html
+  fellow: &2
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  description: |-
+    <content base="http://liaokev.in/2023/05/21/baptism-statement.html"
+      type="html">&lt;p&gt;&lt;em&gt;On May 21st in 2023, with friends and family joining in-person and online at Alameda State Beach in California, I was baptized. I was asked to share a testimony beforehand, so here’s what I shared. My sincerest gratitude to everyone who took time out of their busy lives to join in, whether it was online or in-person. This is a day I’ll cherish forever.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2023/5/21/banner.jpg&quot; alt=&quot;Cover&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;I left the church on a spring day in the 10th grade when my youth pastor told us that non-Christians can’t love. A little voice told me that didn’t make sense. So I listened to that little voice. I walked out of that church and I didn’t look back.&lt;/p&gt;
+
+    &lt;p&gt;I have trepidation about baptism, as if this act today washes away the sin of many organizations that continue to explicitly preach, or implicitly condone blatant misogyny, homophobia and transphobia in the name of Christ. It does not. A better church can only come from breaking the wall of silence that we were all brought up to uphold. Our faith is too wide and our God too mighty to be interpreted in such a narrow and harmful way.&lt;/p&gt;
+
+    &lt;p&gt;Years before I even knew that I could use the word bisexual to describe myself, my faith had a predestined identity chosen for me. When I left the church, I thought I would never return. However, at the same time, it was through this church, OakLife, that I first found queer community and belonging. God speaks and moves in contradictions in ways I’m still wrestling with.&lt;/p&gt;
+
+    &lt;p&gt;Baptism and by-proxy the Christian faith is centered around death and resurrection. We do seem to like to talk about death as a faith tradition an awful lot, so it seems somewhat morbidly befitting to ponder about death. Today, I want to talk about the life and death of the most Christlike man that I know, my grandpa, or Ah Gong- who was not a follower of Christ.&lt;/p&gt;
+
+    &lt;p&gt;My earliest memories of my Ah Gong were as a toddler growing up in Australia. He had come down from Taiwan and I didn’t know why. My ah gong and ah ma were like extra parents, helping my mother around the house as she adjusted to life in a strange country. The spirit of our house was lifted as ah gong would sneak us M&amp;amp;Ms and cook us fried rice. We’d sit on his lap and he’d teach us nursery rhymes.&lt;/p&gt;
+
+    &lt;p&gt;As an adult I learned that Ah Gong and Ah Ma were a mere months away from a generous lifetime pension that they forfeited to come down to care for my mother, who had just given birth to my sister. As they handed in their letters of resignation, their supervisor was astounded. The pension they were forfeiting was the salary of six employees. But a voice that I would call the holy spirit, the voice that compels acts of sacrificial love, commanded them to go, so they left.&lt;/p&gt;
+
+    &lt;p&gt;When Ah Gong died, a question I’d been confronting since I was a child took on a new and sudden urgency. What happens when someone you love dies without believing? I didn’t have an answer and was filled with the same rage and resentment that I had felt as a kid when my faith seemingly had no answers for those who didn’t believe.&lt;/p&gt;
+
+    &lt;p&gt;I looked for answers everywhere. Leaving the church gave me freedom to start taking part in Taiwanese traditions that form the basis for how we conceptualize death. I’d like to share a couple of unorganized thoughts about these traditions today, in hopes that with enough corn starch they will congeal together to form something vaguely resembling a statement of faith.&lt;/p&gt;
+
+    &lt;p&gt;I started burning paper money. During “Ghost Month” in Taiwan, the streets are filled with literal dumpster fires, as people throw fake paper money into burning trash heaps to ensure that those who have passed onto the afterlife have enough money to spend.&lt;/p&gt;
+
+    &lt;p&gt;Surprisingly, burning paper money for ah gong grew my connection to biblical perspectives on wealth. As a kid, these traditions were silly to me. As an adult, they took on new meaning. We take time out of our busy lives to burn money for ahgong because we love him, as he loved us. Indeed, in Taiwanese tradition, it would seem that what you reap in the afterlife is directly proportional to how you love when you are on earth. Maybe this is what Christ meant when he said in Matthew: “And everyone who has left houses or brothers or sisters or father or mother or wife or children or fields for my sake will receive a hundred times as much”.&lt;/p&gt;
+
+    &lt;p&gt;Grandpa comes over for dinner every now and then. We prepare his favourite dishes and lay them out for him. We then light incense and bow to welcome ahgong into his old damp apartment. My uncle then throws two coins. If they land the same side up, ahgong isn’t happy with our spread. If they land opposite sides up, ahgong is eating. Oftentimes, they’ll land on the same side and we’ll argue over what’s missing from our spread until someone tells me to run across the street and get ahgong a generous pour of beer. Only after we pour out the beer do the coins land on opposite sides, and grandpa starts eating. We give him a gentle head start, then we gather around the table enjoying our meal with him.&lt;/p&gt;
+
+    &lt;p&gt;As a kid, these traditions were pagan and unworthy of respect and admiration. As an adult, I can’t help but notice how we gather to break bread and remember the love of those who came before us in a way no different from communion. In our remembrance, we pledge to love others the same way we were loved. Ahgong was one of the most Christlike people I know and I believe that every time we gather to eat and in every act of kindness I attempt, his spirit lives in me.&lt;/p&gt;
+
+    &lt;p&gt;I don’t know if I really believe that there’s something in store for this soul in this body with its ACL torn and cholesterol high after I kick the bucket, but here’s what I do believe: In modeling a life of selfless love, Christ taught us how we attain eternal life. When we live Christ-like lives, our acts of kindness reverberate eternally across those whose lives we touch and beyond.&lt;/p&gt;
+
+    &lt;p&gt;I believe that many people have received this message of grace both through the Christian faith and otherwise. These people have lived lives filled with warmth, sacrificial love, and a selfless devotion to others. I believe every day, with the little choices we make to channel the warmth they showed us, we keep their sacred spirits alive inside of us. May that love, the love exemplified by the Lord Jesus Christ, live inside all of us forever.&lt;/p&gt;</content>
+  published_at: '2023-05-21T12:00:00+00:00'
+- id: http://liaokev.in/2020/08/23/goodbye-mac
+  title: Taking a Stance with a Computer Purchase
+  url: http://liaokev.in/2020/08/23/goodbye-mac.html
+  fellow: *2
+  description: "<content base=\"http://liaokev.in/2020/08/23/goodbye-mac.html\"\n
+    \ type=\"html\">&lt;p&gt;After a decade using macOS by-choice, I’ve decided it’s
+    time to try something\nelse.&lt;/p&gt;\n\n&lt;p&gt;I’m writing this on an early-2013
+    MacBook Pro running Catalina. There’s some\ndust caught in the left fan, which
+    means that as I’m using it, there’s an\ninsufferable rattling noise as the fan
+    rotates, whacking against the dust inside\nthe machine. Fixing this is incredibly
+    easy. One simply needs to open up the\nbottom, dig some dust out of the fan, and
+    your computer is humming quietly\nagain.&lt;/p&gt;\n\n&lt;p&gt;The catch: I don’t
+    have a pentalobe screwdriver to open the bottom case of my\nMac.&lt;/p&gt;\n\n&lt;p&gt;In
+    2008, way before I had my first laptop and when I still viewed Macs as\nmysterious,
+    other-worldly machines, I remember seeing my friend’s 2008 Unibody\nMacbook Pro
+    for the first time. The coolest part was when he showed me how to\nreplace the
+    hard disk. There were these latches that you pulled to remove the\naccess door
+    of your shiny aluminium laptop. It felt so elegant. This was a\nmachine designed
+    for you to disassemble and upgrade as you see fit.&lt;/p&gt;\n\n&lt;p&gt;In 2013,
+    as I was setting off to university for the first time, I remember\nbuying my ‘college
+    laptop’. This felt like such a rite-of-passage for me. I knew\nI wanted it to
+    be a Mac. I remember the thrill as I heard the Mac OS X chime for\nthe first time
+    on my very own Mac. Computers are very personal devices, and I’d\nfelt so powerful
+    knowing that this unibody laptop was mine to customize and\ntinker with.&lt;/p&gt;\n\n&lt;p&gt;To
+    use the cliche’d boiling frog analogy, nothing earth-shattering happened in\nthe
+    last decade, but gradually, I’ve just felt that this computer doesn’t belong\nto
+    me anymore.&lt;/p&gt;\n\n&lt;p&gt;When I upgraded to Catalina, I noticed that
+    I was able to read Hacker News\nagain. This confused me because I edit my /etc/hosts
+    file to block off the\nwebsite. It turns out that macOS Catalina locked down system
+    files and you can\n&lt;a href=&quot;https://discussions.apple.com/thread/250805304&quot;&gt;no
+    longer edit your own /etc/hosts\nfile&lt;/a&gt;.&lt;/p&gt;\n\n&lt;p&gt;Then the
+    other day, I was trying to install the &lt;a href=&quot;https://nixos.org/&quot;&gt;nix
+    package\nmanager&lt;/a&gt; to give reproducible package management a go.\nNix
+    requires you to create a /nix directory in your root folder, where all of\nyour
+    Nix packages will live. It does not touch your system in any way otherwise. \nThat’s
+    when I hit yet another roadblock: Your root directory has been locked\ndown on
+    Catalina and so &lt;a href=&quot;https://github.com/NixOS/nix/issues/2925&quot;&gt;you
+    can’t make a folder in\nRoot&lt;/a&gt;. There’s a workaround that\ninvolves, for
+    “legacy” Macs like mine, mounting an unencrypted partition that\ncontains your
+    Nix folder to /nix in your root directory.&lt;/p&gt;\n\n&lt;p&gt;In what world
+    do I, the owner of my laptop, not get the right to modify my own\nroot directory?
+    I get that many users are not informed enough about the\ninner-workings of a Unix
+    or Unix-like operating system and could irreparably\ndamage their OS install with
+    root access, but that means Apple should put in the\nappropriate safeguards, not
+    disable write in the Root directory altogether.&lt;/p&gt;\n\n&lt;p&gt;Yes, some
+    very clever people in the Nix ecosystem worked out a way to get Nix to\nplay nicely
+    with this Catalina limitation, but this was a purely arbitrary and\nartificial
+    constraint put in place by Apple. It sent a message to me: This is\nnot your machine.
+    Tread carefully when you use it. Apple, in its quest to\nprotect its users from
+    ourselves, has become hostile to tinkering. This is no\ndifferent from using nonstandard
+    pentalobe screws to hold the bottom-case\nin-place. Handle with care, it whispers.
+    This is a scary machine. Modify at your\nown risk.&lt;/p&gt;\n\n&lt;p&gt;The laptop
+    has been showing its age for quite a while and so I decided my next\nlaptop won’t
+    be a Mac. I can’t accept that I don’t own my machine.&lt;/p&gt;\n\n&lt;p&gt;I’ve
+    ordered a System76 Lemur Pro from their website. Linux has come leaps and\nbounds
+    since I first booted up Ubuntu 9.04 Jaunty Jackalope on my computer back\nin 2009.
+    System76 promises full compatibility with Linux in a laptop that’s just\naround
+    a kilogram. The memory and storage are fully upgradeable and the company\npublishes
+    in-depth how-to instructions for your model. The company makes an\neffort to disable
+    Intel Management Engine (a security risk), and the laptop\nfirmware is open source.&lt;/p&gt;\n\n&lt;p&gt;The
+    idea of voting with your wallet doesn’t work. I realize that the number of\nMac
+    users who care deeply about having write-access to the Root directory is\nprobably
+    not enough to affect Apple’s bottom-line in any meaningful way. That\nbeing said,
+    the direction that macOS is heading in isn’t one I feel I can accept\nanymore.&lt;/p&gt;\n\n&lt;p&gt;I
+    became a programmer in-part because open source demystified the computer for\nme.
+    Seeing how passionate people were about various components of an operating\nsystem
+    (window managers, compositors, init systems etc.) made me grapple with\nthe fundamentals
+    of the magic that made my computer work. In elementary school,\nI installed a
+    virus on a friend’s parent’s computer. We immediately shut it\ndown, and I, the
+    resident computer ‘expert’, recommended we ‘let it rest’ as the\ncomputer ‘immune
+    system’ fought the virus. There are many people out there like\nme, with very
+    simplistic mental models for how computers work. That’s okay.\nThat’s why abstractions
+    exist. We abstract away the complexities so people who\ndon’t care don’t have
+    to think about the inner-workings of complicated systems.\nThat’s a beautiful
+    thing.&lt;/p&gt;\n\n&lt;p&gt;Beautiful abstractions are one thing, but intentionally
+    locking down a system is\nanother. I don’t dread a world in which usable computers
+    mean people don’t have\nto think about how they work. I dread a world in which
+    computers actively fight\npeople who have the curiosity to dig a little deeper.&lt;/p&gt;\n\n&lt;p&gt;My
+    Lemur Pro is on the way, and I’m excited to give Linux a shot again.&lt;/p&gt;</content>"
+  published_at: '2020-08-23T12:00:00+00:00'
+- id: http://liaokev.in/2018/10/31/voting-guide
+  title: How Do I Vote?
+  url: http://liaokev.in/2018/10/31/voting-guide.html
+  fellow: *2
+  description: "<content base=\"http://liaokev.in/2018/10/31/voting-guide.html\"\n
+    \ type=\"html\">&lt;p&gt;&lt;strong&gt;If you support Marriage Equality, the TL;DR
+    is to vote NO to 10-12 and YES on 14-15. See you on Nov. 24th!&lt;/strong&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/31/pride.png&quot; alt=&quot;Pride&quot;
+    /&gt; \n&lt;em&gt;Taiwan is home to Asia’s largest LGBTQ Pride, which took place
+    last week.&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;This guide is designed for overseas
+    Taiwanese who might find themselves in Taiwan on election day. Election day is
+    Saturday Nov. 24.&lt;/p&gt;\n\n&lt;h2 id=&quot;can-i-vote&quot;&gt;Can I vote?&lt;/h2&gt;\n&lt;p&gt;In
+    order to vote, you must be:&lt;/p&gt;\n&lt;ul&gt;\n  &lt;li&gt;&lt;strong&gt;Located
+    in Taiwan on the day of the election.&lt;/strong&gt;&lt;br /&gt;\nTaiwan does
+    &lt;strong&gt;not&lt;/strong&gt; allow absentee voting.&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;You
+    must be a national of the Republic of China (the government of Taiwan).&lt;/strong&gt;&lt;br
+    /&gt;\n&lt;img src=&quot;http://liaokev.in/assets/2018/10/31/passport.jpg&quot;
+    alt=&quot;Passport&quot; /&gt;&lt;br /&gt;\n&lt;em&gt;Taiwanese Passport&lt;/em&gt;&lt;br
+    /&gt;\nA good way of determining this (if you are coming to Taiwan from overseas)
+    is if you have (and entered Taiwan) with a green passport that says “Republic
+    of China– Taiwan” on it.&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;You must have household
+    registration in Taiwan.&lt;/strong&gt;&lt;br /&gt;\n&lt;img src=&quot;http://liaokev.in/assets/2018/10/31/national_id.jpg&quot;
+    alt=&quot;National ID&quot; /&gt;&lt;br /&gt;\n&lt;em&gt;sample National ID&lt;/em&gt;&lt;br
+    /&gt;\nThe simple way of putting this is: Do you have a ROC (Taiwan) government-issued
+    ID that has a residency-address on it? If so, you have household registration
+    here.&lt;/li&gt;\n  &lt;li&gt;If you intend to vote in referenda, you must be
+    18 years of age.&lt;/li&gt;\n  &lt;li&gt;If you intend to vote for elected officials,
+    you must be 20 years of age.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;With that tackled,
+    let’s tackle voting.&lt;/p&gt;\n\n&lt;h2 id=&quot;who-do-i-vote-for&quot;&gt;Who
+    do I Vote For?&lt;/h2&gt;\n&lt;p&gt;I can’t provide a guide to voting on your
+    representatives. This is constituency-dependent. Civic hackers have compiled an
+    online voting guide &lt;a href=&quot;https://councils.g0v.tw/&quot;&gt;here&lt;/a&gt;.
+    You can find your constituency by clicking on its general area and then the exact
+    constituency (for example, I am in Xinyi District, Taipei City. I click on Taipei
+    City (臺北市), and then Hsinyi District (信義區), and I’m now presented with &lt;a href=&quot;https://councils.g0v.tw/candidates/councilors/%E8%87%BA%E5%8C%97%E5%B8%82/3/#%E5%85%AD%E9%83%BD&quot;&gt;this
+    page&lt;/a&gt;. It gives me a list of my candidates, their financial assets, and
+    their experience. For each candidate, you can click 了解更多, which means “Understand
+    more”. You will have to make generous use of Google Translate, or your parents
+    if you want to understand more about your candidates.&lt;/p&gt;\n\n&lt;h2 id=&quot;what-do-i-vote-on&quot;&gt;What
+    Do I Vote On?&lt;/h2&gt;\n&lt;p&gt;Wow you are really spoilt for choice this year!
+    The current Tsai-DPP Administration has softened the restrictions on bringing
+    a referendum to the public. This means, the public is voting on &lt;strong&gt;TEN&lt;/strong&gt;
+    proposals this year. A whopping &lt;strong&gt;FIVE&lt;/strong&gt; of these are
+    related to the LGBTQ community and marriage equality. In addition, we are voting
+    on everything from green energy to the team name we compete under in the Olympics.&lt;/p&gt;\n\n&lt;p&gt;I’ve
+    provided a list of the referenda below and attempted to give a literal translation
+    as well as an explanation of them below. I’ve tried to be as objective as possible,
+    but I have my biases.&lt;/p&gt;\n\n&lt;p&gt;The count starts from 7 because there
+    have been 6 referenda in the past in Taiwan.&lt;/p&gt;\n\n&lt;h2 id=&quot;coal-fired-powerplant-referenda&quot;&gt;Coal-Fired
+    Powerplant Referenda&lt;/h2&gt;\n&lt;p&gt;For context, as recently as 2014, Taiwan
+    &lt;a href=&quot;https://www.taiwannews.com.tw/en/news/3433730&quot;&gt;generated
+    less than 2% of its energy from renewable sources&lt;/a&gt;. The Taichung Coal-Fired
+    Powerplant emits more CO2 than the entirety of Switzerland. That being said, Taiwan
+    is in the middle of an energy crisis because we have closed the bulk of our nuclear
+    plants in the wake of the Fukushima Disaster in Japan and are struggling to switch
+    to renewable resources.&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-7-air-pollution-and-energy-production&quot;&gt;Referendum
+    7: Air Pollution and Energy Production&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第7案：你是否同意以「平均每年至少降低1%」之方式逐年降低火力發電廠發電量？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 7: Do you agree with the method
+    of “cutting by at least 1% every year” to reduce the amount of fuel-fired power
+    stations?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-8-stopping-construction-on-all-coal-fired-power-stations&quot;&gt;Referendum
+    8: Stopping Construction on All Coal-Fired Power Stations&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第8案：您是否同意確立「停止新建、擴建任何燃煤發電廠或發電機組（包括深澳電廠擴建）」之能源政策？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 8: Do you agree with “stopping
+    all new construction and expanding any coal-fired power stations” as an energy
+    policy?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-9-food-from-nuclear-disaster-affected-areas-in-japan&quot;&gt;Referendum
+    9: Food from Nuclear-Disaster Affected Areas in Japan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第9案：你是否同意政府維持禁止開放日本福島311核災相關地區，包括福島與周遭4縣市（茨城、櫪木、群馬、千葉）等地區農產品及食品進口？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 9: Do you
+    agree that the government should preserve its existing ban of food imports from
+    areas affected by the March 11th Fukushima Prefecture Nuclear Disaster in Japan
+    (incl. 4 prefectures around Fukushima: Ibaraki, Tochigi, Gunma, Chiba).&lt;/p&gt;\n\n&lt;h2
+    id=&quot;marriage-equality-referenda-part-1&quot;&gt;Marriage Equality Referenda
+    (part 1)&lt;/h2&gt;\n&lt;p&gt;If you support marriage equality, vote &lt;strong&gt;no&lt;/strong&gt;
+    on 10-12. Referenda 10-12 oppose LGBTQ awareness education, sexual education,
+    and propose that marriage remain between a man and a woman. It proposes that a
+    separate process/union (not necessarily called ‘marriage’) for same-gender couples
+    be created instead of just redefining marriage. The folks proposing 10-12 are
+    arguing that same-gender couples should not be allowed to adopt children, or enjoy
+    many of the freedoms that married couples enjoy, which is why they are proposing
+    a separate law.&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-10-opposing-marriage-equality&quot;&gt;Referendum
+    10: Opposing Marriage Equality&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese text:&lt;/strong&gt;
+    第10案：你是否同意民法婚姻規定應限定在一男一女的結合?&lt;br /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt;
+    Referendum 10: Do you agree that basic law marriage should be restricted to a
+    union between a man and a woman?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-11-opposing-sexual-education-and-lgbtq-education-in-schools&quot;&gt;Referendum
+    11: Opposing Sexual Education and LGBTQ Education in Schools&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第11案：你是否同意在國民教育階段內（國中及國小），教育部及各級學校不應對學生實施性別平等教育法施行細則所定之同志教育？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 11: Do
+    you agree that in the compulsory section of the national education curriculum
+    (Junior High School and Elementary School), the Ministry of Education and schools
+    should not implement sex/gender equality education and LGBTQ education?&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-12-alternatives-to-marriage-for-lgbtq-couples&quot;&gt;Referendum
+    12: Alternatives to Marriage for LGBTQ couples&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第12案：你是否同意以民法婚姻規定以外之其他形式來保障同性別二人經營永久共同生活的權益？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 12: Do you agree that methods outside
+    of basic-law marriage should be used to protect the right of two same-sex people
+    to enjoy their right to live together forever?&lt;/p&gt;\n\n&lt;h2 id=&quot;olympic-name&quot;&gt;Olympic
+    Name&lt;/h2&gt;\n&lt;p&gt;Those of you who follow Taiwan in the Olympic Games
+    know that we are not allowed to participate as ‘Taiwan’ but only as ‘Chinese Taipei’.
+    This referendum is not endorsed by the IOC or any international body and will
+    not necessarily lead to a change in how we are represented on an international
+    level. It will change the name we apply to these events under.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-13-participating-in-the-olympics-under-the-name-taiwan&quot;&gt;Referendum
+    13: Participating in the Olympics Under the Name ‘Taiwan’.&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    text:&lt;/strong&gt; 第13案：你是否同意，以「台灣」(Taiwan)為全名申請參加所有國際運動賽事及2020年東京奧運？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 13: Do
+    you agree that the name 「台灣」(Taiwan) should be used when applying to all international
+    competitions, including the 2020 Tokyo Summer Olympics?&lt;/p&gt;\n\n&lt;h2 id=&quot;marriage-equality-referenda-part-2&quot;&gt;Marriage
+    Equality Referenda (part 2)&lt;/h2&gt;\n&lt;p&gt;If you support marriage equality,
+    vote &lt;strong&gt;yes&lt;/strong&gt; on referenda 14-15. These are pushed by
+    the LGBTQ community in Taiwan and push for the Ministry of Education to adopt
+    sexual education as well as education for marriage equality. In addition, they
+    ask that marriage simply be redefined as a union between two people instead of
+    between a man and a woman. LGBTQ couples under this legislation will enjoy &lt;strong&gt;ALL&lt;/strong&gt;
+    privileges currently afforded to heteronormative married couples.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;referendum-14-legislating-marriage-equality-through-an-amendment-to-basic-law&quot;&gt;Referendum
+    14: Legislating Marriage Equality Through An Amendment to Basic Law&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第14案：您是否同意，以民法婚姻章保障同性別二人建立婚姻關係？&lt;br /&gt;\n&lt;strong&gt;My
+    English Translation:&lt;/strong&gt; Referendum 14: Do you agree that an amendment
+    to the basic law should be used to protect a marriage between two people of the
+    same gender?&lt;/p&gt;\n\n&lt;h3 id=&quot;referendum-15-implementing-sexual-education-and-lgbtq-education-in-taiwan&quot;&gt;Referendum
+    15: Implementing Sexual Education and LGBTQ Education in Taiwan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt;  第15案：您是否同意，以「性別平等教育法」明定在國民教育各階段內實施性別平等教育，且內容應涵蓋情感教育、性教育、同志教育等課程？&lt;br
+    /&gt;\n&lt;strong&gt;My English Translation:&lt;/strong&gt; Referendum 15: Do
+    you agree that the “Stipulation on Gender Equality Education Laws” should be used
+    to implement gender equality education at the Elementary and Junior-High School
+    levels, which includes classes on emotional education, sexual education and LGBTQ
+    education?&lt;/p&gt;\n\n&lt;h2 id=&quot;nuclear-energy-referendum&quot;&gt;Nuclear
+    Energy Referendum&lt;/h2&gt;\n\n&lt;h3 id=&quot;referendum-16-stopping-the-cancellation-of-nuclear-power-in-taiwan&quot;&gt;Referendum
+    16: Stopping the Cancellation of Nuclear Power in Taiwan&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;Chinese
+    Text:&lt;/strong&gt; 第16案：您是否同意：廢除電業法第95條第1項，即廢除「核能發電設備應於中華民國一百十四年以前，全部停止運轉」之條文？&lt;br
+    /&gt;\n&lt;strong&gt;English Text:&lt;/strong&gt; Do you agree to remove Article
+    95 Section 1 from the Electricity Business Law, and in doing so, remove the “Stipulation
+    to stop all nuclear power plants before the 114th Year of the Republic (2025)?”&lt;/p&gt;</content>"
+  published_at: '2018-10-31T05:00:00+00:00'
+- id: http://liaokev.in/2018/10/25/g0v
+  title: What is g0v?
+  url: http://liaokev.in/2018/10/25/g0v.html
+  fellow: *2
+  description: |-
+    <content base="http://liaokev.in/2018/10/25/g0v.html"
+      type="html">&lt;p&gt;Lead-in: Puyuma Express derailment&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Story: driver was struggling with broken ATC
+        &lt;ul&gt;
+          &lt;li&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Within 5 hours, disaster information centre was online, including:
+        &lt;ul&gt;
+          &lt;li&gt;Blood donation centers and their status&lt;/li&gt;
+          &lt;li&gt;Search engine for hospitalized survivors&lt;/li&gt;
+          &lt;li&gt;Places to stay near hospitals so families could be with their loved ones recovering&lt;/li&gt;
+          &lt;li&gt;Translations of Mandarin-language material into English and Japanese&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;What parts of g0v culture need explaining?&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Leaderless decentralized culture&lt;/li&gt;
+      &lt;li&gt;Concept of the Nobody&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;What is g0v?&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Sunflower Movement&lt;/li&gt;
+      &lt;li&gt;NGO participation&lt;/li&gt;
+      &lt;li&gt;Ridesharing legislation&lt;/li&gt;
+      &lt;li&gt;Amis-Moedict&lt;/li&gt;
+      &lt;li&gt;iTaigi&lt;/li&gt;
+      &lt;li&gt;National Treasures Project&lt;/li&gt;
+      &lt;li&gt;Marriage Equality&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;1021 Puyuma Incident&lt;/p&gt;
+
+        &lt;h3 id=&quot;campaign-finance-data&quot;&gt;Campaign Finance Data&lt;/h3&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;How do I help?&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Engineers: Plenty of code to fork&lt;/li&gt;
+      &lt;li&gt;Bilingual folks: Lots of translation required!&lt;/li&gt;
+      &lt;li&gt;Lawyers: Lots of folks need help understanding US law around Taiwan like the Taiwan Relations Act, Taiwan Travel Act, etc.&lt;/li&gt;
+      &lt;li&gt;Citizens: Get involved with public conversations&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Questions for g0v Interview&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;How do you think&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;It’s the tail-end of the first day of the g0v (pronounced gov-zero) summit in Taipei. The summit is this chaotic beauty of civic tech hackers and government workers from Taiwan, Japan to Singapore to the United States bonding over tea in-between speaker series by that are translated from Chinese to English by a team of huddled in a corner of each room.&lt;/p&gt;
+
+    &lt;p&gt;At the centre of this? A team of volunteers scurrying around the conference floor, leading around speakers, translating in booths and all clad in the same shirt with a g0v logo and emblazoned with a single, confusing word:&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Nobody&lt;/strong&gt;&lt;/p&gt;
+
+    &lt;p&gt;I approach the summit information counter and ask one of the white-shirted ‘Nobodies’ in a shaky voice: “Excuse me: How exactly does one join g0v?”&lt;/p&gt;
+
+    &lt;p&gt;She cocks her head to one-side and replies: “…How do you mean? You’re already in it. This is g0v.”&lt;/p&gt;
+
+    &lt;p&gt;As I’d discover over the next couple of days, g0v&lt;/p&gt;</content>
+  published_at: '2018-10-25T04:00:00+00:00'
+- id: http://liaokev.in/2018/10/22/how-g0v-works
+  title: How Does g0v Mobilize?
+  url: http://liaokev.in/2018/10/22/how-g0v-works.html
+  fellow: *2
+  description: |-
+    <content base="http://liaokev.in/2018/10/22/how-g0v-works.html"
+      type="html">&lt;p&gt;Yesterday, tragedy struck Taiwan. A passenger train traveling down the East Coast &lt;a href=&quot;https://www.bbc.com/news/world-asia-45932991&quot;&gt;derailed&lt;/a&gt;. 18 passengers lost their lives and over 100 were hospitalized.&lt;/p&gt;
+
+    &lt;p&gt;In times of chaos, it’s incredibly important that the public has access to accurate information. Families need to know about the status of their loved ones. Members of the public need to know how to contribute.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/volunteers.png&quot; alt=&quot;Volunteers&quot; /&gt;
+    &lt;em&gt;Volunteers start rallying on the g0v slack.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;At around 6:45pm (two hours after the derailment), a thread popped up on the g0v Slack. &lt;a href=&quot;https://g0v.tw&quot;&gt;g0v&lt;/a&gt; (pronounced gov-zero) is a network of civic hackers and activists in Taiwan. People started floating different ways to help. Someone created a hackpad for us to centralize resources on.&lt;/p&gt;
+
+    &lt;p&gt;People started pitching in. Some offered to debunk fake news stories that were being circulated. Multilingual folks were translating news into English and Japanese. Others with coding expertise, like myself, volunteered to connect the public to data sources that were being publicized. The Ministry of Health was publishing a manifest of the injured and where they were being hospitalized. It was published on a Google Drive link that was periodically updated but was difficult to parse.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/search_engine.png&quot; alt=&quot;Search&quot; /&gt;
+    &lt;em&gt;The search engine that g0v volunteers came up with for reuniting families.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Working with another volunteer named @yutin, we re-deployed a previously written static site for searching through lists of injured people to GitHub Pages. The only thing left to do was populate it with data. We needed to turn the xlsx sheet that the government was updating into something that the public could understand. @yutin and I &lt;a href=&quot;https://github.com/g0v/1021puyuma&quot;&gt;each built different parsers for the data&lt;/a&gt;, one written in Golang and the other in JS. We’re now periodically checking the government’s official passenger manifest and re-parsing the data to make sure our &lt;a href=&quot;https://g0v.github.io/1021puyuma/&quot;&gt;search engine&lt;/a&gt; has up-to-date information.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/disaster_information_center.png&quot; alt=&quot;Search&quot; /&gt;
+    &lt;em&gt;The final product: A publicly created disaster information center entirely built by volunteer action over 6 hours.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;The end result? The public now has access to a &lt;a href=&quot;https://hackmd.io/c/PuyumaCrash-tw/&quot;&gt;disaster information hub&lt;/a&gt; that was entirely volunteer-compiled. Everything from local folk offering accommodation options to families of survivors to search engines so that families can be reunited. All this came together within 5 hours of the disaster striking.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/22/blood_donation.png&quot; alt=&quot;Blood&quot; /&gt;
+    &lt;em&gt;Information on where to donate blood.&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;While I’m absolutely devastated by this tragedy, the way that g0v responded gave me so much hope. A group of ordinary citizens banded together to create tools to help other ordinary people pull through a tragedy. There’s a lot in the news that makes me upset, but this was a reminder that there’s always more you can do to help.&lt;/p&gt;</content>
+  published_at: '2018-10-22T05:00:00+00:00'
+- id: http://liaokev.in/2018/10/20/maracuya-responsive
+  title: Maracuya is Now Responsive
+  url: http://liaokev.in/2018/10/20/maracuya-responsive.html
+  fellow: *2
+  description: |-
+    <content base="http://liaokev.in/2018/10/20/maracuya-responsive.html"
+      type="html">&lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/10/20/hamburger.png&quot; alt=&quot;Hamburger Menu Sliding In&quot; /&gt;
+    &lt;em&gt;Hamburger menu sliding in&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;I spent most of yesterday working on a responsive menu for Maracuya. I wanted something that plays nicely with my BEMIT CSS setup. I ended up creating two menus. The first one is the desktop-sized menu, &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu&lt;/code&gt;, which contains a list of &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__items&lt;/code&gt;. &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu&lt;/code&gt; also contains &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__hamburger-button&lt;/code&gt;, which is hidden by default.&lt;/p&gt;
+
+    &lt;p&gt;If the screen width is small enough, all &lt;code class=&quot;highlighter-rouge&quot;&gt;c-menu__items&lt;/code&gt; are hidden and the hamburger button is shown. In addition, there is an off-screen &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;div&amp;gt;&lt;/code&gt; that is &lt;code class=&quot;highlighter-rouge&quot;&gt;100vw&lt;/code&gt;. I added an event listener to the hamburger button that does a CSS transition to move the hamburger menu overlay in a &lt;code class=&quot;highlighter-rouge&quot;&gt;position: fixed&lt;/code&gt; above our content.&lt;/p&gt;
+
+    &lt;p&gt;This is all super basic frontend design, but I’m learning quite a lot from implementing very basic things from scratch!&lt;/p&gt;</content>
+  published_at: '2018-10-20T11:00:00+00:00'
+- id: http://liaokev.in/2018/10/18/redesign
+  title: Introducing Maracuya
+  url: http://liaokev.in/2018/10/18/redesign.html
+  fellow: *2
+  description: "<content base=\"http://liaokev.in/2018/10/18/redesign.html\"\n  type=\"html\">&lt;p&gt;Lately,
+    a lot of things have been stressing me out. I’ve taken to working on improvements
+    to this site that I gradually want to roll out.&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/18/kagami.png&quot; alt=&quot;Kagami&quot;
+    /&gt;\n&lt;em&gt;The site under the Kagami theme&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;I
+    previously used the &lt;a href=&quot;http://jekyllthemes.org/themes/kagami/&quot;&gt;Kagami
+    Theme&lt;/a&gt; for my website. It was a nice, minimal theme that did its job.
+    I got a little frustrated with my lack of ability in frontend and design so I
+    decided to take matters into my own hands. I ripped all the CSS and classnames
+    out of the website, changed up the HTML markup and decided to completely re-theme
+    the website. I did this work in a separate branch while I continued to edit the
+    content as usual. With today’s merge, the content is finally live.&lt;/p&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/18/maracuya.png&quot; alt=&quot;Maracuya&quot;
+    /&gt;\n&lt;em&gt;The site under the Maracuya theme&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;I’m
+    still working on Maracuya, but in the meantime, I’ve learned a lot of cliches
+    about frontend design I want to share. These are all super basic for anyone who
+    has done any real front-end work before.&lt;/p&gt;\n\n&lt;h3 id=&quot;why-maracuya&quot;&gt;Why
+    Maracuya?&lt;/h3&gt;\n\n&lt;p&gt;Maracuya is the Peruvian Spanish word for the
+    passionfruit. I ate an unhealthy of amount of Maracuya and Maracuya flavoured
+    items while I was traveling in Peru. I love the purple colour of the Maracuya
+    exterior and I wanted to write a theme that was a tribute to this great fruit.
+    Unsure if I have any pictures of the Maracuya. Again, I’m feeling really lazy.&lt;/p&gt;\n\n&lt;h3
+    id=&quot;how-to-css-properly&quot;&gt;How to CSS Properly&lt;/h3&gt;\n\n&lt;h4
+    id=&quot;scss-wow&quot;&gt;SCSS: …Wow.&lt;/h4&gt;\n&lt;p&gt;My friend &lt;a href=&quot;http://yang.money&quot;&gt;Michael
+    Yang&lt;/a&gt; recommended that I check out SCSS. SCSS is a stylesheet language
+    that serves as syntactic sugar for CSS. I was able to nest selectors, making organization
+    of my CSS intuitive. Something else really cool about SCSS is the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;amp;&lt;/code&gt;
+    operator, which allows you to nest CSS selectors that concatenate.&lt;/p&gt;\n\n&lt;p&gt;For
+    example, the stylesheet:&lt;/p&gt;\n\n&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div
+    class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.c-post
+    {  \n  &amp;amp;__metadata {  \n    margin-top: 20px;  \n    color: $light-black;
+    \ \n    font-size: 0.8rem;  \n  }  \n  &amp;amp;__description {  \n    font-weight:
+    $light;  \n    margin-top: 0;  \n  }  \n}  \n&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;\n\n&lt;p&gt;Will
+    compile to the following selectors:&lt;/p&gt;\n&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div
+    class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.c-post__metadata
+    {  \n  margin-top: 20px;  \n  color: $light-black;  \n  font-size: 0.8rem;  \n}
+    \ \n.c-post__description {  \n  font-weight: $light;  \n  margin-top: 0;\n}  \n&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;\n\n&lt;h4
+    id=&quot;bemit-css-is-really-cool&quot;&gt;BEMIT CSS is really cool.&lt;/h4&gt;\n&lt;p&gt;BEMIT
+    is the combination of BEM and IT approaches to managing your CSS and it fits really
+    well with using SASS. BEM requires you to split your CSS selectors by “Block,
+    element and modifier”, while ITCSS refers to an “Inverted Triangle” that allows
+    you to structure your CSS in a way that prioritizes some styles above others,
+    starting with global style variables and finishing with individual style overrides.&lt;/p&gt;\n\n&lt;p&gt;Honestly,
+    I’m too tired (or incompetent) to properly and thoroughly explain these concepts.
+    But they’re really cool.&lt;/p&gt;\n\n&lt;h3 id=&quot;ongoing-work&quot;&gt;Ongoing
+    Work:&lt;/h3&gt;\n&lt;p&gt;Maracuya still needs a lot of work before I’m satisfied
+    with the result, and here are some pieces of ongoing work.&lt;/p&gt;\n&lt;ul&gt;\n
+    \ &lt;li&gt;&lt;strong&gt;Responsive Design:&lt;/strong&gt; I don’t know how to
+    handle mobile navigation. The easy way is to stuff everything into a hamburger
+    menu, but angry reddit seems to tell me this is really poor usability. It looks
+    good though so I’m really unsure what to do here. Advice appreciated.&lt;/li&gt;\n
+    \ &lt;li&gt;&lt;strong&gt;Photo Gallery:&lt;/strong&gt; I really like taking photos
+    and having a centralized location where I can share all my photos would be really
+    great!&lt;/li&gt;\n  &lt;li&gt;&lt;strong&gt;Project Portfolio:&lt;/strong&gt;
+    Where I can share things that I’ve worked on!&lt;/li&gt;\n&lt;/ul&gt;</content>"
+  published_at: '2018-10-18T12:00:00+00:00'
+- id: http://liaokev.in/2018/10/03/curtis
+  title: 'In Their Own Words: Curtis Kuo'
+  url: http://liaokev.in/2018/10/03/curtis.html
+  fellow: *2
+  description: "<content base=\"http://liaokev.in/2018/10/03/curtis.html\"\n  type=\"html\">&lt;blockquote&gt;\n
+    \ &lt;p&gt;It was scary to make dials at first, but in connecting to fellow voters,
+    it reminded me of how the government should be working for all of us, not just
+    themselves and a few others.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;&lt;img
+    src=&quot;http://liaokev.in/assets/2018/10/3/curtis.jpeg&quot; alt=&quot;Curtis&quot;
+    /&gt;\n&lt;em&gt;Curtis making dials from his home in Ann Arbor, Michigan.&lt;/em&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;In
+    Their Own Words is a feature series that I’m running on my volunteers, who are
+    making dials to help the Nevada State Democrats elect some incredible candidates
+    this November. Curtis is one of my long-standing volunteers and has made more
+    than 200 dials since he has started. You can dial too! Make a difference today
+    and reach out to me through &lt;a href=&quot;mailto:public@liaokev.in&quot;&gt;e-mail&lt;/a&gt;
+    or on &lt;a href=&quot;https://www.signal.org&quot;&gt;Signal&lt;/a&gt; at +1(484)702-2952.&lt;/em&gt;&lt;/p&gt;\n\n&lt;ol&gt;\n
+    \ &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;Tell us a little bit about yourself!
+    What do you do for a living and what are your hobbies?&lt;/strong&gt; &lt;br /&gt;\nI
+    just graduated from &lt;a href=&quot;https://www.upenn.edu/&quot;&gt;Penn&lt;/a&gt;
+    and am taking a year off, working in a biomedical engineering lab at the &lt;a
+    href=&quot;https://umich.edu&quot;&gt;University of Michigan&lt;/a&gt; while I
+    apply to grad school! In my spare time, I’m enjoying living within an hour’s drive
+    of my family for the first time in four years, and am living out a dream of mine
+    by substituting in the cello sections of professional orchestras in the area.&lt;/p&gt;\n
+    \ &lt;/li&gt;\n  &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;Why did you decide to
+    phonebank?&lt;/strong&gt;&lt;br /&gt;\nI’ve been so frustrated at the failures
+    of the American Healthcare system, and at how boneheaded some members of Congress
+    (and um the White House) are about the realities of climate change. In the future,
+    I’d like to have enough of a platform to advocate for better &lt;em&gt;everything,&lt;/em&gt;
+    but since I can’t get there before the midterms, I thought participating in grassroots
+    politics was a good way to help.&lt;br /&gt;\nIn 2016, I donated some money, but
+    this time around I wanted to do more. I’m confident that the effort I’ve been
+    putting in on the phone has been making some difference, which is a confidence
+    I didn’t have two years ago. \nThe catalyst for me getting involved was was when
+    you &lt;a href=&quot;http://liaokev.in/2018/07/18/brb.html&quot;&gt;posted about&lt;/a&gt;
+    the bureaucratic inefficiencies that kept you from going to your job, forcing
+    you to leave the country.&lt;br /&gt;\nI commented on your post then, feeling
+    a little ashamed that my government would do you dirty like that. I felt ashamed
+    that I didn’t know enough about my government to help you, and then your call
+    to action in your conclusion convinced me that I should go beyond liking posts
+    on Facebook and really start fighting for what I believe to be right.&lt;/p&gt;\n
+    \ &lt;/li&gt;\n  &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;How has it been so far
+    and what have you learned from doing it?&lt;/strong&gt;&lt;br /&gt;\nHonestly,
+    some phonebanking sessions were really slow and people weren’t picking up and
+    I was feeling pessimistic about my impact. But every so often, someone would be
+    really receptive to what NVDems was trying to do, and that would give me a boost.
+    Now, as we gain steam in the last month before the election, it’s getting even
+    easier. Lots of people are joining us to volunteer, and we can always use more!
+    Anyone who isn’t already volunteering, the best time to start is right now!&lt;br
+    /&gt;\nI’ve learned so much. Voters are just ordinary people who want the best
+    from their politicians. It was scary to make dials at first, but in connecting
+    to fellow voters, it reminded me of how the government should be working for all
+    of us, not just themselves and a few others. I’ve been becoming a lot more comfortable
+    talking to and connecting with strangers, and have realized that a lot of people
+    will give you a chance, if you’re friendly enough.&lt;/p&gt;\n  &lt;/li&gt;\n
+    \ &lt;li&gt;\n    &lt;p&gt;&lt;strong&gt;If you could be any character from any
+    book, who from which book?&lt;/strong&gt;&lt;br /&gt;\nMaybe Captain Nemo, from
+    Twenty Thousand Leagues Under the Sea!&lt;/p&gt;\n  &lt;/li&gt;\n&lt;/ol&gt;</content>"
+  published_at: '2018-10-03T05:00:00+00:00'
+- id: http://liaokev.in/2018/09/30/why-apply-for-hackny
+  title: What the hackNY Fellowship is
+  url: http://liaokev.in/2018/09/30/why-apply-for-hackny.html
+  fellow: *2
+  description: |-
+    <content base="http://liaokev.in/2018/09/30/why-apply-for-hackny.html"
+      type="html">&lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/9/30/hackny.jpg&quot; alt=&quot;hackNY &#39;18&quot; /&gt;
+    &lt;em&gt;With my Fellows, but I’m in the computer!&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;I was a hackNY Fellow last summer and I had a blast. Applications for the hackNY
+    Fellows Class of 2019 application have just opened! I wanted to take the time to
+    introduce the Fellowship to you and open myself up as a point-of-contact if you
+    have questions about it!&lt;/p&gt;
+
+    &lt;h2 id=&quot;what-is-the-fellowship&quot;&gt;What is the Fellowship?&lt;/h2&gt;
+
+    &lt;p&gt;As a hackNY Fellow, you are matched with an NYC-based startup for the duration
+    of your summer. Last year, we had Fellows working at BuzzFeed, Babble, Tumblr,
+    First Look Media (The Intercept), TwoBulls, etc. Outside of your regular day
+    job, you live with other Fellows in a dormitory in NYU. On two days of the week,
+    you attend speaker series where folks share insights from various parts of
+    industry. Talks we had last summer include:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Q&amp;amp;A with Jonah Peretti, CEO and Founder of BuzzFeed&lt;/li&gt;
+      &lt;li&gt;Shaving My Head Made Me a Better Programmer by Alex Qin from the Code
+    Cooperative, which teaches formerly incarcerated and justice-involved people
+    digital literacy and coding as a means of liberation.&lt;/li&gt;
+      &lt;li&gt;Talk and Q&amp;amp;A with Amanda Cox, editor of the New York Times’ Upshot section on
+    how the publication has successfully utilized data visualization and
+    analytical journalism to create a compelling online presence&lt;/li&gt;
+      &lt;li&gt;…and many many more.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;In addition, Fellows take part in our Summer of Good Initiative, where they
+    grapple with the ethics of our work in industry and give back by working in the
+    public interest sector pro-bono. While the initiative is new and changing in
+    form every year, some projects from my year include:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Working with the Manhattan District Attorney’s Office to help them fight human
+    trafficking cases&lt;/li&gt;
+      &lt;li&gt;Helping a non-profit music summer camp optimize admissions data to better
+    serve low-income students&lt;/li&gt;
+      &lt;li&gt;Working on an app that explores how race affects our perception of police
+    brutality and incarceration&lt;/li&gt;
+      &lt;li&gt;…and many more again.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Finally, finishing the Fellowship means you become alumNY and an entire network
+    of interesting people who have done the fellowship in the past become accessible
+    to you. Some people say that the best part of hackNY is the network after you
+    graduate and I can see why they believe that!&lt;/p&gt;
+
+    &lt;p&gt;In my hackNY summer, I made some incredible friends (who I’m still very close
+    with) and between the speaker series, exploring NYC and my Summer of Good
+    Project, I found so much to do. Despite the issues I faced, this was by far the
+    best summer that I ever had (including a summer spent working for big tech) and
+    I want you to have the same.&lt;/p&gt;
+
+    &lt;h2 id=&quot;how-do-i-apply&quot;&gt;How Do I Apply?&lt;/h2&gt;
+
+    &lt;p&gt;Apply on our application website. hackNY applications are in three rounds and
+    with each successive round, the admit rate drops as we fill up the class. As our
+    Speaker Series and Summer of Good Initiatives will imply, we are looking for
+    Fellows with not  just technical aptitude, but a passion for turning a group of
+    people into an eclectic community and a desire to engage in questions
+    surrounding the ethics of our work in industry. That’s why I wanted to send a
+    special shoutout to any current Haverford students engaged in work with affinity
+    groups, community organizing, or Customs. There are some opportunities in
+    industry where your extracurricular work in ways unrelated directly to your
+    technical aptitude help you shine and this is definitely one of them.&lt;/p&gt;
+
+    &lt;p&gt;I’ve put my application questions on a blog post in case you’re interested in
+    reading them. Some other Fellows have done the same and you can find the links
+    on our website.&lt;/p&gt;
+
+    &lt;p&gt;alumNY read applications and interview fellows according to a process described
+    in-detail on our website, which means talking to an alumNY can really give you a
+    better sense of what we’re looking for in Fellows. This brings me to my final
+    thing:&lt;/p&gt;
+
+    &lt;h2 id=&quot;open-invitation-message-me&quot;&gt;Open Invitation: Message me!&lt;/h2&gt;
+
+    &lt;p&gt;I’m happy to talk to anyone with questions about the fellowship! You can contact
+    me at &lt;a href=&quot;mailto:contact@liaokev.in&quot;&gt;contact@liaokev.in&lt;/a&gt;.&lt;/p&gt;</content>
+  published_at: '2018-09-30T06:12:00+00:00'
+- id: http://liaokev.in/2018/08/09/army
+  title: Quito Day 2- An Army Parade
+  url: http://liaokev.in/2018/08/09/army.html
+  fellow: *2
+  description: |-
+    <content base="http://liaokev.in/2018/08/09/army.html"
+      type="html">&lt;p&gt;Here are some photos from a parade by the Ecuadorian Army in Centro Histórico.&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army2.jpg&quot; alt=&quot;Photo 2&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army3.jpg&quot; alt=&quot;Photo 3&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army4.jpg&quot; alt=&quot;Photo 4&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army5.jpg&quot; alt=&quot;Photo 5&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army6.jpg&quot; alt=&quot;Photo 6&quot; /&gt;
+    &lt;img src=&quot;http://liaokev.in/assets/2018/8/8/army1.jpg&quot; alt=&quot;Photo 1&quot; /&gt;&lt;/p&gt;</content>
+  published_at: '2018-08-09T02:00:00+00:00'
