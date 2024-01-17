@@ -10,61 +10,51 @@
     emoji: "\U0001F48C"
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2024-01-14 08:02:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2024/01/03/faircamp.html
   title: Added Faircamp to bookmarks
   url: https://www.stevegattuso.me/2024/01/03/faircamp.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2024-01-03 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
   title: 2023, in review
   url: https://www.stevegattuso.me/2024/01/02/2023-in-review.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2024-01-02 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
   title: Why build this website?
   url: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-12-11 09:12:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
   title: Re-organized the bookmarks section
   url: https://www.stevegattuso.me/2023/12/09/reorganized-bookmarks.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-12-09 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
   title: Re-published my NYC travel guide
   url: https://www.stevegattuso.me/2023/12/03/updated-nyc-travel-guide.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-12-03 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/11/29/update-books.html
   title: Updated the books page
   url: https://www.stevegattuso.me/wiki/202312091218%20Bookmarks%20-%20Non-fiction.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-11-29 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/11/26/update-rss.html
   title: Added changelog entries to the RSS feed
   url: https://www.stevegattuso.me/2023/11/26/update-rss.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-11-26 00:00:00.000000000 +01:00
 - id: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
   title: 'FeeDon: a Mastodon to RSS bridge'
   url: https://www.stevegattuso.me/2023/08/14/introducing-feedon.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-08-14 00:00:00.000000000 +02:00
 - id: https://www.stevegattuso.me/2023/08/08/planned-economies.html
   title: What I've been learning about planned economies
   url: https://www.stevegattuso.me/2023/08/08/planned-economies.html
   fellow: *1
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-08-08 00:00:00.000000000 +02:00
 - id: https://blog.rayberger.org/2023-in-review
   title: 2023 in Review
@@ -75,68 +65,57 @@
     year: 2018
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2024-01-05 21:03:35.000000000 +00:00
 - id: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
   title: Fixing Free Mobile Roaming Connection
   url: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-12-06 14:38:42.000000000 +00:00
 - id: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
   title: Cancelling Vienna's Annual Pass Early
   url: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-10-29 22:19:47.000000000 +00:00
 - id: https://blog.rayberger.org/contributing-to-lemmy
   title: 'Contributing to Lemmy: Documentation'
   url: https://blog.rayberger.org/contributing-to-lemmy
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-08-27 23:47:10.000000000 +00:00
 - id: https://blog.rayberger.org/book-review-red-team-blues
   title: 'Book Review: Red Team Blues'
   url: https://blog.rayberger.org/book-review-red-team-blues
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-07-24 20:45:54.000000000 +00:00
 - id: https://blog.rayberger.org/google-maps-reviews-moderated
   title: So, Google Maps Reviews Are Moderated?
   url: https://blog.rayberger.org/google-maps-reviews-moderated
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-07-19 15:21:23.000000000 +00:00
 - id: https://blog.rayberger.org/migrating-matrix-accounts
   title: Migrating Between Matrix (Element) Accounts for Beeper
   url: https://blog.rayberger.org/migrating-matrix-accounts
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-07-13 14:36:26.000000000 +00:00
 - id: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
   title: 'Urban Sustainability Transformation in St. Petersburg, Florida: the Final
     Final of Vienna'
   url: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-07-04 22:26:23.000000000 +00:00
 - id: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
   title: ChatGPT for a quick Leaflet project in class
   url: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-04-03 23:36:52.000000000 +00:00
 - id: https://blog.rayberger.org/movie-review-fire-of-love
   title: 'Movie Review: Fire of Love'
   url: https://blog.rayberger.org/movie-review-fire-of-love
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-02-12 21:38:12.000000000 +00:00
 - id: https://blog.rayberger.org/filtering-financial-emails
   title: Filtering Financial Emails
   url: https://blog.rayberger.org/filtering-financial-emails
   fellow: *2
-  description: Read the full post <a href="${content}">here</a>.
   published_at: 2023-02-08 02:58:22.000000000 +00:00
 - id: http://liaokev.in/2023/05/21/baptism-statement
   title: Baptism Statement
@@ -149,59 +128,49 @@
     emoji: "\U0001F68C"
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2023-05-21T12:00:00+00:00'
 - id: http://liaokev.in/2020/08/23/goodbye-mac
   title: Taking a Stance with a Computer Purchase
   url: http://liaokev.in/2020/08/23/goodbye-mac.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2020-08-23T12:00:00+00:00'
 - id: http://liaokev.in/2018/10/31/voting-guide
   title: How Do I Vote?
   url: http://liaokev.in/2018/10/31/voting-guide.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-31T05:00:00+00:00'
 - id: http://liaokev.in/2018/10/25/g0v
   title: What is g0v?
   url: http://liaokev.in/2018/10/25/g0v.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-25T04:00:00+00:00'
 - id: http://liaokev.in/2018/10/22/how-g0v-works
   title: How Does g0v Mobilize?
   url: http://liaokev.in/2018/10/22/how-g0v-works.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-22T05:00:00+00:00'
 - id: http://liaokev.in/2018/10/20/maracuya-responsive
   title: Maracuya is Now Responsive
   url: http://liaokev.in/2018/10/20/maracuya-responsive.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-20T11:00:00+00:00'
 - id: http://liaokev.in/2018/10/18/redesign
   title: Introducing Maracuya
   url: http://liaokev.in/2018/10/18/redesign.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-18T12:00:00+00:00'
 - id: http://liaokev.in/2018/10/03/curtis
   title: 'In Their Own Words: Curtis Kuo'
   url: http://liaokev.in/2018/10/03/curtis.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-10-03T05:00:00+00:00'
 - id: http://liaokev.in/2018/09/30/why-apply-for-hackny
   title: What the hackNY Fellowship is
   url: http://liaokev.in/2018/09/30/why-apply-for-hackny.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-09-30T06:12:00+00:00'
 - id: http://liaokev.in/2018/08/09/army
   title: Quito Day 2- An Army Parade
   url: http://liaokev.in/2018/08/09/army.html
   fellow: *3
-  description: Read the full post <a href="${content}">here</a>.
   published_at: '2018-08-09T02:00:00+00:00'
