@@ -10,7 +10,7 @@ A directory of personal websites for alumNY of the hackNY fellowship.
 </a>
 ```
 
-**Step 2:** Open an issue on this repository, message `@stevenleeg` on Slack, [email me](mailto:steve@stevegattuso.me), or submit a PR modifying `_data/fellows.yaml`.
+**Step 2:** Open an issue on this repository, message `@stevenleeg` on Slack, [email me](mailto:steve@stevegattuso.me), or submit a PR modifying [_data/fellows.yaml](_data/fellows.yaml).
 
 In your message (or pull request), please be sure to include:
 
