@@ -12,7 +12,7 @@ def fetch_posts(fellow)
         id = item.id.content.to_s
         title = item.title.content.to_s
         content = item.content.to_s
-        published_at = item.published.content.to_s
+        published_at = DateTime.parse(item.published.content.to_s)
         link = item.link.href.to_s
       else
         id = item.guid.content
@@ -26,7 +26,7 @@ def fetch_posts(fellow)
        "title" => title,
        "url" => link,
        "fellow" => fellow.clone,
-       "published_at" => published_at}
+       "published_at" => published_at.strftime('%Y-%m-%d %H:%M')}
     end
   end
 
