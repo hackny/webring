@@ -1,0 +1,229 @@
+////
+// Variables
+//
+$content-width: 600px;
+$color-dark: #515151;
+$color-hackny: rgb(255, 13, 0);
+$color-white: #FFF;
+$color-off-white: #EEEEEE;
+
+@mixin on-mobile {
+  @media (max-width: $content-width) {
+    @content;
+  }
+}
+
+////
+// Styles
+//
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+  font-weight: 400;
+  color: $color-dark;
+  background: $color-white;
+  font-size: 18px;
+}
+
+a {
+  color: $color-hackny;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+h2 {
+  margin: .5em 0;
+}
+
+#logo {
+  border-radius: 5px;
+  margin-right: 25px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+
+  span {
+    color: $color-hackny;
+  }
+}
+
+.container {
+  margin: 25px auto;
+  width: 100%;
+  max-width: $content-width;
+  box-sizing: border-box;
+
+  @include on-mobile {
+    padding: 0px 15px;
+  }
+}
+
+nav {
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li:nth-last-child(n+2):after {
+    content: "//";
+    margin: 0px 10px;
+    font-size: 14px;
+  }
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.site {
+  display: flex;
+  padding: 10px;
+  margin: 10px 0px;
+  background-color: $color-off-white;
+  border-radius: 5px;
+  text-decoration: none;
+  align-items: center;
+  justify-content: flex-start;
+
+  &:hover {
+    background-color: $color-hackny;
+
+    .site--title {
+      color: $color-white;
+    }
+
+    .site--description {
+      color: $color-white;
+    }
+
+    .site--year {
+      color: $color-white;
+    }
+  }
+}
+
+.site--meta {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.site--emoji {
+  font-size: 2em;
+  margin-right: 15px;
+  margin-left: 5px;
+  width: 2em;
+  height: 2em;
+  min-width: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1em;
+  background-color: $color-white;
+
+  @include on-mobile {
+    font-size: 1.7em;
+    width: 1.7em;
+    height: 1.7em;
+    min-width: 1.7em;
+  }
+}
+
+.site--title {
+  text-decoration: none;
+  font-size: 1.5em;
+  
+  @include on-mobile {
+    font-size: 1.2em;
+  }
+}
+
+.site--year {
+  color: $color-dark;
+  font-size: .75em;
+}
+
+.site--description {
+  color: $color-dark;
+  font-size: .75em;
+}
+
+footer {
+  font-size: .75em;
+}
+
+.actions {
+  margin-top: -1em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+button {
+  border: 0px;
+  background: transparent;
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 16px;
+
+  &:hover {
+    background: $color-hackny;
+    color: $color-white;
+  }
+}
+
+.posts {
+  margin: 0 0 15px 0;
+  list-style: none;
+  padding: 0;
+}
+
+.post {
+  display: flex;
+  margin-bottom: 5px;
+}
+
+.post--meta {
+  font-size: .75em;
+}
+
+.post--text {
+  max-width: 100%;
+}
+
+.post--title {
+  display: block;
+  font-size: 1.2em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+
+  @include on-mobile {
+    font-size: 1em;
+    text-overflow: inherit;
+    white-space: inherit;
+    overflow: auto;
+  }
+}
+
+.post--emoji {
+  display: flex;
+  margin-right: 15px;
+  align-items: center;
+  font-size: 1.5em;
+}

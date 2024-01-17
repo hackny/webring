@@ -16,7 +16,7 @@ layout: base
       <div class="post--text">
         <a class="post--title" href="{{post.url}}" target="_blank">{{post.title}}</a>
         <div class="post--meta">
-          by {{ post.fellow.name }} on {{ post.published_at | date: "%b %-d, %Y" }}
+          by <a href="{{ post.fellow.url }}">{{ post.fellow.name }}</a> on {{ post.published_at | date: "%b %-d, %Y" }}
         </div>
       </div>
     </li>
