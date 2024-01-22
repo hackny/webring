@@ -350,3 +350,87 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-08-09 02:00
+- id: https://ehicouldeat.com/posts/2024-01-18-post
+  title: 'Week #3 of veganuary'
+  url: https://ehicouldeat.com/posts/2024-01-18-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-19 01:35
+- id: https://ehicouldeat.com/posts/2024-01-13-post
+  title: 'Week #2 of Veganuary'
+  url: https://ehicouldeat.com/posts/2024-01-13-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-14 04:10
+- id: https://ehicouldeat.com/posts/2024-01-04-post
+  title: Sauteed Beans, Crispy Rice, Cauliflower Mole Paratha Tacos
+  url: https://ehicouldeat.com/posts/2024-01-04-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-05 02:46
+- id: https://ehicouldeat.com/posts/2024-01-01-first-vegan-meal
+  title: The start of veganuary
+  url: https://ehicouldeat.com/posts/2024-01-01-first-vegan-meal
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-01 12:12
+- id: https://ehicouldeat.com/posts/2023-12-31-new-years-meals
+  title: New Years Meals
+  url: https://ehicouldeat.com/posts/2023-12-31-new-years-meals
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2023-12-31 12:12
+- id: https://ehicouldeat.com/posts/2023-12-19-random-things
+  title: Random things I cooked today
+  url: https://ehicouldeat.com/posts/2023-12-19-random-things
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2023-12-19 12:12
+- id: https://ehicouldeat.com/posts/blog-update
+  title: Back to it!
+  url: https://ehicouldeat.com/posts/blog-update
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2023-12-18 12:12
