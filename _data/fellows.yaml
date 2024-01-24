@@ -31,6 +31,12 @@
   rss_url: https://brodan.biz/blog/rss/
   emoji: 🌧️
   description: A personal blog mostly about programming, sometimes about tattoos or music.
+- name: Kevin Yeh
+  year: 2015
+  url: https://kyeh.me
+  rss_url: https://buttondown.email/kyeah/rss
+  emoji: 😇
+  description: My personal footnotes on the internet and all the words, sounds, videos, and sentiments I want to remember for a rainy day.
 - name: Vinay Bhaip
   year: 2021
   url: http://vinaybhaip.com
