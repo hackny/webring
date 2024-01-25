@@ -31,3 +31,20 @@
   rss_url: https://ehicouldeat.com/feed.xml
   emoji: 🥪
   description: Food blog where I talk about all the things I cook and eat. Tech blog with some random content at https://jaronoff.com/
+- name: Chris Hranj
+  year: 2016
+  url: https://brodan.biz
+  rss_url: https://brodan.biz/blog/rss/
+  emoji: 🌧️
+  description: A personal blog mostly about programming, sometimes about tattoos or music.
+- name: Kevin Yeh
+  year: 2015
+  url: https://kyeh.me
+  rss_url: https://buttondown.email/kyeah/rss
+  emoji: 😇
+  description: My personal footnotes on the internet and all the words, sounds, videos, and sentiments I want to remember for a rainy day.
+- name: Vinay Bhaip
+  year: 2021
+  url: http://vinaybhaip.com
+  rss_url: https://vinaybhaip.com/blog/feed.xml
+  emoji: 🚀
