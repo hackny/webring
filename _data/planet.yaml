@@ -567,3 +567,199 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2021-05-09 22:10
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
+  title: 'Mixed Noodles #8 | Winter'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2019-01-06 20:04
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-7-japanese-sociology/
+  title: 'Mixed Noodles #7 | Japanese Sociology'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-7-japanese-sociology/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-08-06 03:35
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-6-habitats/
+  title: 'Mixed Noodles #6 | Habitats'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-6-habitats/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-07-15 12:27
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-5-home-alone-pt-1/
+  title: 'Mixed Noodles #5 | Home Alone Pt. 1'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-5-home-alone-pt-1/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-07-09 03:48
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-4-movements/
+  title: 'Mixed Noodles #4 | Movements'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-4-movements/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-07-02 02:07
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-3-family-matters/
+  title: 'Mixed Noodles #3 | Family Matters'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-3-family-matters/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-06-25 00:00
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-2-slow-growth/
+  title: 'Mixed Noodles #2 | Slow Growth'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-2-slow-growth/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-06-23 00:00
+- id: https://buttondown.email/kyeah/archive/mixed-noodles-1-aristocracy/
+  title: 'Mixed Noodles #1 | Aristocracy'
+  url: https://buttondown.email/kyeah/archive/mixed-noodles-1-aristocracy/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2018-06-13 00:00
+- id: https://vinaybhaip.com/blog/2022/03/12/dissonant-trails
+  title: Dissonant Trails
+  url: https://vinaybhaip.com/blog/2022/03/12/dissonant-trails
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2022-03-12 00:00
+- id: https://vinaybhaip.com/blog/2021/01/26/perlin-planets
+  title: Perlin Planets
+  url: https://vinaybhaip.com/blog/2021/01/26/perlin-planets
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2021-01-26 00:00
+- id: https://vinaybhaip.com/blog/2021/01/13/2020-favorites
+  title: 2020 Favorites
+  url: https://vinaybhaip.com/blog/2021/01/13/2020-favorites
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2021-01-13 00:00
+- id: https://vinaybhaip.com/blog/2020/11/22/sets-to-numbers
+  title: 'From the Sets Rises the Numbers: Constructing the Reals'
+  url: https://vinaybhaip.com/blog/2020/11/22/sets-to-numbers
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-11-22 00:00
+- id: https://vinaybhaip.com/blog/2020/11/15/everything-is-a-set
+  title: 'Everything is a Set: Constructing the Reals'
+  url: https://vinaybhaip.com/blog/2020/11/15/everything-is-a-set
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-11-15 00:00
+- id: https://vinaybhaip.com/blog/2020/10/24/summer-of-stories
+  title: Summer of Stories
+  url: https://vinaybhaip.com/blog/2020/10/24/summer-of-stories
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-10-24 00:00
+- id: https://vinaybhaip.com/blog/2020/10/11/spotify-vis-intro
+  title: Building a Scrollytelling Visualization
+  url: https://vinaybhaip.com/blog/2020/10/11/spotify-vis-intro
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-10-11 00:00
+- id: https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz
+  title: 'Visualized: My Spotify Listening Patterns'
+  url: https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-08-22 00:00
+- id: https://vinaybhaip.com/blog/2020/07/18/website-overhaul
+  title: Overhauling My Website
+  url: https://vinaybhaip.com/blog/2020/07/18/website-overhaul
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-07-18 00:00
+- id: https://vinaybhaip.com/blog/2020/07/05/heliohex
+  title: How I Built HelioHex
+  url: https://vinaybhaip.com/blog/2020/07/05/heliohex
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2020-07-05 00:00
