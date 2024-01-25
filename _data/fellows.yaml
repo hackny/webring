@@ -1,3 +1,9 @@
+# Note that the order of this file doesn't matter. The site randomizes the
+# order that ends up on the page each time it builds (once per night if steve's
+# server is working).
+#
+# Also hi! Thanks for caring enough to look at this file :D
+
 - name: Steve Gattuso
   year: 2013
   url: https://www.stevegattuso.me
