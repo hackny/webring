@@ -350,6 +350,18 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-08-09 02:00
+- id: https://ehicouldeat.com/posts/2024-01-28-post
+  title: Pasta, Sauce, and Soup
+  url: https://ehicouldeat.com/posts/2024-01-28-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-29 03:10
 - id: https://ehicouldeat.com/posts/2024-01-18-post
   title: 'Week #3 of veganuary'
   url: https://ehicouldeat.com/posts/2024-01-18-post
