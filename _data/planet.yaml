@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/01/31/weeknight-dal.html
+  title: Added weeknight pressure cooker dal recipe
+  url: https://www.stevegattuso.me/2024/01/31/weeknight-dal.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-01-31 00:00
 - id: https://www.stevegattuso.me/2024/01/14/sway-icons.html
   title: Workspace icons on swaywm
   url: https://www.stevegattuso.me/2024/01/14/sway-icons.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-08-14 00:00
-- id: https://www.stevegattuso.me/2023/08/08/planned-economies.html
-  title: What I've been learning about planned economies
-  url: https://www.stevegattuso.me/2023/08/08/planned-economies.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2023-08-08 00:00
 - id: https://blog.rayberger.org/2023-in-review
   title: 2023 in Review
   url: https://blog.rayberger.org/2023-in-review
