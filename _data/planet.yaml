@@ -119,6 +119,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-08-14 00:00
+- id: https://blog.rayberger.org/book-review-the-lost-cause
+  title: 'Book Review: The Lost Cause'
+  url: https://blog.rayberger.org/book-review-the-lost-cause
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-02-01 17:20
 - id: https://blog.rayberger.org/2023-in-review
   title: 2023 in Review
   url: https://blog.rayberger.org/2023-in-review
@@ -220,16 +230,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-02-12 21:38
-- id: https://blog.rayberger.org/filtering-financial-emails
-  title: Filtering Financial Emails
-  url: https://blog.rayberger.org/filtering-financial-emails
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-02-08 02:58
 - id: http://liaokev.in/2023/05/21/baptism-statement
   title: Baptism Statement
   url: http://liaokev.in/2023/05/21/baptism-statement.html
