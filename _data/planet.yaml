@@ -230,9 +230,21 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-04-03 23:36
-- id: http://liaokev.in/2023/05/21/baptism-statement
+- id: 2024-02-18-taipei-guide
+  title: Website Rewrite and Taipei Travel Guide
+  url: https://liaokev.in/2024-02-18-taipei-guide
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-02-19 02:00
+- id: 2023-05-21-baptism-statement
   title: Baptism Statement
-  url: http://liaokev.in/2023/05/21/baptism-statement.html
+  url: https://liaokev.in/2023-05-21-baptism-statement
   fellow:
     name: Kevin Liao
     year: 2018
@@ -242,9 +254,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2023-05-21 12:00
-- id: http://liaokev.in/2020/08/23/goodbye-mac
+- id: 2020-08-23-goodbye-mac
   title: Taking a Stance with a Computer Purchase
-  url: http://liaokev.in/2020/08/23/goodbye-mac.html
+  url: https://liaokev.in/2020-08-23-goodbye-mac
   fellow:
     name: Kevin Liao
     year: 2018
@@ -254,9 +266,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2020-08-23 12:00
-- id: http://liaokev.in/2018/10/31/voting-guide
+- id: 2018-10-31-voting-guide
   title: How Do I Vote?
-  url: http://liaokev.in/2018/10/31/voting-guide.html
+  url: https://liaokev.in/2018-10-31-voting-guide
   fellow:
     name: Kevin Liao
     year: 2018
@@ -266,9 +278,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-31 05:00
-- id: http://liaokev.in/2018/10/25/g0v
+- id: 2018-10-26-g0v
   title: What is g0v?
-  url: http://liaokev.in/2018/10/25/g0v.html
+  url: https://liaokev.in/2018-10-26-g0v
   fellow:
     name: Kevin Liao
     year: 2018
@@ -278,9 +290,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-25 04:00
-- id: http://liaokev.in/2018/10/22/how-g0v-works
+- id: 2018-10-22-how-g0v-works
   title: How Does g0v Mobilize?
-  url: http://liaokev.in/2018/10/22/how-g0v-works.html
+  url: https://liaokev.in/2018-10-22-how-g0v-works
   fellow:
     name: Kevin Liao
     year: 2018
@@ -290,9 +302,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-22 05:00
-- id: http://liaokev.in/2018/10/20/maracuya-responsive
+- id: 2018-10-20-maracuya-responsive
   title: Maracuya is Now Responsive
-  url: http://liaokev.in/2018/10/20/maracuya-responsive.html
+  url: https://liaokev.in/2018-10-20-maracuya-responsive
   fellow:
     name: Kevin Liao
     year: 2018
@@ -302,9 +314,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-20 11:00
-- id: http://liaokev.in/2018/10/18/redesign
+- id: 2018-10-18-redesign
   title: Introducing Maracuya
-  url: http://liaokev.in/2018/10/18/redesign.html
+  url: https://liaokev.in/2018-10-18-redesign
   fellow:
     name: Kevin Liao
     year: 2018
@@ -314,9 +326,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-18 12:00
-- id: http://liaokev.in/2018/10/03/curtis
+- id: 2018-10-3-curtis
   title: 'In Their Own Words: Curtis Kuo'
-  url: http://liaokev.in/2018/10/03/curtis.html
+  url: https://liaokev.in/2018-10-3-curtis
   fellow:
     name: Kevin Liao
     year: 2018
@@ -326,9 +338,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-03 05:00
-- id: http://liaokev.in/2018/09/30/why-apply-for-hackny
+- id: 2018-9-30-why-apply-for-hackny
   title: What the hackNY Fellowship is
-  url: http://liaokev.in/2018/09/30/why-apply-for-hackny.html
+  url: https://liaokev.in/2018-9-30-why-apply-for-hackny
   fellow:
     name: Kevin Liao
     year: 2018
@@ -338,9 +350,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-09-30 06:12
-- id: http://liaokev.in/2018/08/09/army
+- id: 2018-8-8-army
   title: Quito Day 2- An Army Parade
-  url: http://liaokev.in/2018/08/09/army.html
+  url: https://liaokev.in/2018-8-8-army
   fellow:
     name: Kevin Liao
     year: 2018
