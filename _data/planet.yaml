@@ -230,6 +230,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-04-03 23:36
+- id: 2024-02-20-cringe-and-content-creation
+  title: When is Self-Promotion Cringe?
+  url: https://liaokev.in/2024-02-20-cringe-and-content-creation
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-02-19 17:30
 - id: 2024-02-18-taipei-guide
   title: Website Rewrite and Taipei Travel Guide
   url: https://liaokev.in/2024-02-18-taipei-guide
@@ -350,18 +362,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-09-30 06:12
-- id: 2018-8-8-army
-  title: Quito Day 2- An Army Parade
-  url: https://liaokev.in/2018-8-8-army
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-08-09 02:00
 - id: https://ehicouldeat.com/posts/2024-02-01-post
   title: Pizza night, Pierogi night, and uh soup.
   url: https://ehicouldeat.com/posts/2024-02-01-post
