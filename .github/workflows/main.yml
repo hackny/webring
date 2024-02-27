@@ -5,6 +5,8 @@ jobs:
     runs-on: ubuntu-latest
     name: yaml validator
     steps:
+      - name: 'Checkout'
+        uses: actions/checkout@master
       - name: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.6.1
         with:
