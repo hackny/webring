@@ -1,0 +1,9 @@
+on: [push]
+
+jobs:
+  hello_world_job:
+    runs-on: ubuntu-latest
+    name: yaml validator
+    steps:
+      - name: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.6.1
