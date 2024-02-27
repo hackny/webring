@@ -7,3 +7,7 @@ jobs:
     steps:
       - name: json-yaml-validate
         uses: GrantBirki/json-yaml-validate@v2.6.1
+        with:
+          files: |
+            _data/fellows.yaml
+            _data/planet.yaml
