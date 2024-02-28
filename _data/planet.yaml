@@ -362,6 +362,18 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-09-30 06:12
+- id: https://ehicouldeat.com/posts/2024-02-25-post
+  title: a busy february.
+  url: https://ehicouldeat.com/posts/2024-02-25-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-02-26 01:41
 - id: https://ehicouldeat.com/posts/2024-02-01-post
   title: Pizza night, Pierogi night, and uh soup.
   url: https://ehicouldeat.com/posts/2024-02-01-post
