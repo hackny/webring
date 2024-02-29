@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/01/31/weeknight-dal.html
+  title: Added weeknight pressure cooker dal recipe
+  url: https://www.stevegattuso.me/2024/01/31/weeknight-dal.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-01-31 00:00
 - id: https://www.stevegattuso.me/2024/01/14/sway-icons.html
   title: Workspace icons on swaywm
   url: https://www.stevegattuso.me/2024/01/14/sway-icons.html
@@ -107,18 +119,26 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-08-14 00:00
-- id: https://www.stevegattuso.me/2023/08/08/planned-economies.html
-  title: What I've been learning about planned economies
-  url: https://www.stevegattuso.me/2023/08/08/planned-economies.html
+- id: https://blog.rayberger.org/fosdem-2024
+  title: My FOSDEM 2024
+  url: https://blog.rayberger.org/fosdem-2024
   fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2023-08-08 00:00
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-02-12 17:02
+- id: https://blog.rayberger.org/book-review-the-lost-cause
+  title: 'Book Review: The Lost Cause'
+  url: https://blog.rayberger.org/book-review-the-lost-cause
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-02-01 17:20
 - id: https://blog.rayberger.org/2023-in-review
   title: 2023 in Review
   url: https://blog.rayberger.org/2023-in-review
@@ -210,29 +230,33 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-04-03 23:36
-- id: https://blog.rayberger.org/movie-review-fire-of-love
-  title: 'Movie Review: Fire of Love'
-  url: https://blog.rayberger.org/movie-review-fire-of-love
+- id: 2024-02-20-cringe-and-content-creation
+  title: When is Self-Promotion Cringe?
+  url: https://liaokev.in/2024-02-20-cringe-and-content-creation
   fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
+    name: Kevin Liao
     year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-02-12 21:38
-- id: https://blog.rayberger.org/filtering-financial-emails
-  title: Filtering Financial Emails
-  url: https://blog.rayberger.org/filtering-financial-emails
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-02-19 17:30
+- id: 2024-02-18-taipei-guide
+  title: Website Rewrite and Taipei Travel Guide
+  url: https://liaokev.in/2024-02-18-taipei-guide
   fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
+    name: Kevin Liao
     year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-02-08 02:58
-- id: http://liaokev.in/2023/05/21/baptism-statement
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-02-19 02:00
+- id: 2023-05-21-baptism-statement
   title: Baptism Statement
-  url: http://liaokev.in/2023/05/21/baptism-statement.html
+  url: https://liaokev.in/2023-05-21-baptism-statement
   fellow:
     name: Kevin Liao
     year: 2018
@@ -242,9 +266,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2023-05-21 12:00
-- id: http://liaokev.in/2020/08/23/goodbye-mac
+- id: 2020-08-23-goodbye-mac
   title: Taking a Stance with a Computer Purchase
-  url: http://liaokev.in/2020/08/23/goodbye-mac.html
+  url: https://liaokev.in/2020-08-23-goodbye-mac
   fellow:
     name: Kevin Liao
     year: 2018
@@ -254,9 +278,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2020-08-23 12:00
-- id: http://liaokev.in/2018/10/31/voting-guide
+- id: 2018-10-31-voting-guide
   title: How Do I Vote?
-  url: http://liaokev.in/2018/10/31/voting-guide.html
+  url: https://liaokev.in/2018-10-31-voting-guide
   fellow:
     name: Kevin Liao
     year: 2018
@@ -266,9 +290,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-31 05:00
-- id: http://liaokev.in/2018/10/25/g0v
+- id: 2018-10-26-g0v
   title: What is g0v?
-  url: http://liaokev.in/2018/10/25/g0v.html
+  url: https://liaokev.in/2018-10-26-g0v
   fellow:
     name: Kevin Liao
     year: 2018
@@ -278,9 +302,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-25 04:00
-- id: http://liaokev.in/2018/10/22/how-g0v-works
+- id: 2018-10-22-how-g0v-works
   title: How Does g0v Mobilize?
-  url: http://liaokev.in/2018/10/22/how-g0v-works.html
+  url: https://liaokev.in/2018-10-22-how-g0v-works
   fellow:
     name: Kevin Liao
     year: 2018
@@ -290,9 +314,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-22 05:00
-- id: http://liaokev.in/2018/10/20/maracuya-responsive
+- id: 2018-10-20-maracuya-responsive
   title: Maracuya is Now Responsive
-  url: http://liaokev.in/2018/10/20/maracuya-responsive.html
+  url: https://liaokev.in/2018-10-20-maracuya-responsive
   fellow:
     name: Kevin Liao
     year: 2018
@@ -302,9 +326,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-20 11:00
-- id: http://liaokev.in/2018/10/18/redesign
+- id: 2018-10-18-redesign
   title: Introducing Maracuya
-  url: http://liaokev.in/2018/10/18/redesign.html
+  url: https://liaokev.in/2018-10-18-redesign
   fellow:
     name: Kevin Liao
     year: 2018
@@ -314,9 +338,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-18 12:00
-- id: http://liaokev.in/2018/10/03/curtis
+- id: 2018-10-3-curtis
   title: 'In Their Own Words: Curtis Kuo'
-  url: http://liaokev.in/2018/10/03/curtis.html
+  url: https://liaokev.in/2018-10-3-curtis
   fellow:
     name: Kevin Liao
     year: 2018
@@ -326,9 +350,9 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-03 05:00
-- id: http://liaokev.in/2018/09/30/why-apply-for-hackny
+- id: 2018-9-30-why-apply-for-hackny
   title: What the hackNY Fellowship is
-  url: http://liaokev.in/2018/09/30/why-apply-for-hackny.html
+  url: https://liaokev.in/2018-9-30-why-apply-for-hackny
   fellow:
     name: Kevin Liao
     year: 2018
@@ -338,18 +362,42 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-09-30 06:12
-- id: http://liaokev.in/2018/08/09/army
-  title: Quito Day 2- An Army Parade
-  url: http://liaokev.in/2018/08/09/army.html
+- id: https://ehicouldeat.com/posts/2024-02-25-post
+  title: a busy february.
+  url: https://ehicouldeat.com/posts/2024-02-25-post
   fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-08-09 02:00
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-02-26 01:41
+- id: https://ehicouldeat.com/posts/2024-02-01-post
+  title: Pizza night, Pierogi night, and uh soup.
+  url: https://ehicouldeat.com/posts/2024-02-01-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-02-02 03:53
+- id: https://ehicouldeat.com/posts/2024-01-28-post
+  title: Pasta, Sauce, and Soup
+  url: https://ehicouldeat.com/posts/2024-01-28-post
+  fellow:
+    name: Jacob Aronoff
+    year: 2017
+    url: https://ehicouldeat.com/
+    rss_url: https://ehicouldeat.com/feed.xml
+    emoji: "\U0001F96A"
+    description: Food blog where I talk about all the things I cook and eat. Tech
+      blog with some random content at https://jaronoff.com/
+  published_at: 2024-01-29 03:10
 - id: https://ehicouldeat.com/posts/2024-01-18-post
   title: 'Week #3 of veganuary'
   url: https://ehicouldeat.com/posts/2024-01-18-post
@@ -663,9 +711,9 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2018-06-13 00:00
-- id: https://vinaybhaip.com/blog/2022/03/12/dissonant-trails
+- id: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
   title: Dissonant Trails
-  url: https://vinaybhaip.com/blog/2022/03/12/dissonant-trails
+  url: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -673,9 +721,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2022-03-12 00:00
-- id: https://vinaybhaip.com/blog/2021/01/26/perlin-planets
+- id: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
   title: Perlin Planets
-  url: https://vinaybhaip.com/blog/2021/01/26/perlin-planets
+  url: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -683,9 +731,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2021-01-26 00:00
-- id: https://vinaybhaip.com/blog/2021/01/13/2020-favorites
+- id: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
   title: 2020 Favorites
-  url: https://vinaybhaip.com/blog/2021/01/13/2020-favorites
+  url: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -693,9 +741,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2021-01-13 00:00
-- id: https://vinaybhaip.com/blog/2020/11/22/sets-to-numbers
+- id: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
   title: 'From the Sets Rises the Numbers: Constructing the Reals'
-  url: https://vinaybhaip.com/blog/2020/11/22/sets-to-numbers
+  url: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -703,9 +751,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-11-22 00:00
-- id: https://vinaybhaip.com/blog/2020/11/15/everything-is-a-set
+- id: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
   title: 'Everything is a Set: Constructing the Reals'
-  url: https://vinaybhaip.com/blog/2020/11/15/everything-is-a-set
+  url: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -713,9 +761,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-11-15 00:00
-- id: https://vinaybhaip.com/blog/2020/10/24/summer-of-stories
+- id: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
   title: Summer of Stories
-  url: https://vinaybhaip.com/blog/2020/10/24/summer-of-stories
+  url: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -723,9 +771,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-10-24 00:00
-- id: https://vinaybhaip.com/blog/2020/10/11/spotify-vis-intro
+- id: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
   title: Building a Scrollytelling Visualization
-  url: https://vinaybhaip.com/blog/2020/10/11/spotify-vis-intro
+  url: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -733,9 +781,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-10-11 00:00
-- id: https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz
+- id: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
   title: 'Visualized: My Spotify Listening Patterns'
-  url: https://vinaybhaip.com/blog/2020/08/22/spotify-artist-viz
+  url: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -743,9 +791,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-08-22 00:00
-- id: https://vinaybhaip.com/blog/2020/07/18/website-overhaul
+- id: https://blog.vinaybhaip.com/2020/07/18/website-overhaul
   title: Overhauling My Website
-  url: https://vinaybhaip.com/blog/2020/07/18/website-overhaul
+  url: https://blog.vinaybhaip.com/2020/07/18/website-overhaul
   fellow:
     name: Vinay Bhaip
     year: 2021
@@ -753,9 +801,9 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-07-18 00:00
-- id: https://vinaybhaip.com/blog/2020/07/05/heliohex
+- id: https://blog.vinaybhaip.com/2020/07/05/heliohex
   title: How I Built HelioHex
-  url: https://vinaybhaip.com/blog/2020/07/05/heliohex
+  url: https://blog.vinaybhaip.com/2020/07/05/heliohex
   fellow:
     name: Vinay Bhaip
     year: 2021

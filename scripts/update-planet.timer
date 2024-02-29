@@ -1,0 +1,10 @@
+[Unit]
+Description=Update planet feed
+Requires=update-planet.service
+
+[Timer]
+Unit=update-planet.service
+OnCalendar=*-*-* 02:00:00
+
+[Install]
+WantedBy=default.target

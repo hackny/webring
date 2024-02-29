@@ -1,0 +1,14 @@
+# This is a systemd unit that can be used with its associated .timer file
+# to periodically update the webring's planet feed.
+#
+# I've hardcoded my own server's path here for convenience since I assume I'm
+# the only one that will really need to deal with this but you get the idea.
+[Unit]
+Description=Update planet feed
+
+[Service]
+ExecStart=/home/steve/Code/webring/scripts/deploy.sh
+WorkingDirectory=/home/steve/Code/webring
+
+[Install]
+WantedBy=default.target
