@@ -230,6 +230,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-04-03 23:36
+- id: 2024-03-01-the-randomness-of-bad-and-good-things
+  title: The Randomness of Bad and Good Things
+  url: https://liaokev.in/2024-03-01-the-randomness-of-bad-and-good-things
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-02-29 20:30
 - id: 2024-02-20-cringe-and-content-creation
   title: When is Self-Promotion Cringe?
   url: https://liaokev.in/2024-02-20-cringe-and-content-creation
@@ -350,18 +362,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-03 05:00
-- id: 2018-9-30-why-apply-for-hackny
-  title: What the hackNY Fellowship is
-  url: https://liaokev.in/2018-9-30-why-apply-for-hackny
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-09-30 06:12
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
