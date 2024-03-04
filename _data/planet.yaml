@@ -119,6 +119,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-08-14 00:00
+- id: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
+  title: Fixing  Jellyfin iOS Audiobook Streaming
+  url: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-03-03 01:11
 - id: https://blog.rayberger.org/fosdem-2024
   title: My FOSDEM 2024
   url: https://blog.rayberger.org/fosdem-2024
@@ -220,16 +230,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-07-04 22:26
-- id: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
-  title: ChatGPT for a quick Leaflet project in class
-  url: https://blog.rayberger.org/chatgpt-for-a-quick-leaflet-project-in-class
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-04-03 23:36
 - id: 2024-03-01-the-randomness-of-bad-and-good-things
   title: The Randomness of Bad and Good Things
   url: https://liaokev.in/2024-03-01-the-randomness-of-bad-and-good-things
