@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/03/15/munich-guide.html
+  title: Added an initial draft of Munich visitor's guide
+  url: https://www.stevegattuso.me/2024/03/15/munich-guide.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-03-15 00:00
 - id: https://www.stevegattuso.me/2024/03/14/croutons.html
   title: Added leftover bread croutons recipe
   url: https://www.stevegattuso.me/2024/03/14/croutons.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-12-03 00:00
-- id: https://www.stevegattuso.me/2023/11/29/update-books.html
-  title: Updated the books page
-  url: https://www.stevegattuso.me/wiki/202312091218%20Bookmarks%20-%20Non-fiction.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2023-11-29 00:00
 - id: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
   title: Fixing  Jellyfin iOS Audiobook Streaming
   url: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
