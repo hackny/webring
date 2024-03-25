@@ -711,6 +711,16 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2018-06-13 00:00
+- id: https://blog.vinaybhaip.com/2024/03/24/sealed
+  title: 'Sealed: Custom Wax Seal NFC Tags'
+  url: https://blog.vinaybhaip.com/2024/03/24/sealed
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2024-03-24 00:00
 - id: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
   title: Dissonant Trails
   url: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
@@ -801,13 +811,3 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-07-18 00:00
-- id: https://blog.vinaybhaip.com/2020/07/05/heliohex
-  title: How I Built HelioHex
-  url: https://blog.vinaybhaip.com/2020/07/05/heliohex
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-07-05 00:00
