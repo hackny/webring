@@ -482,6 +482,18 @@
     description: Food blog where I talk about all the things I cook and eat. Tech
       blog with some random content at https://jaronoff.com/
   published_at: 2023-12-18 12:12
+- id: 661215e5a478b974d1560b73
+  title: 'Quick Read: Improving Build Times with Docker + Python'
+  url: https://brodan.biz/blog/improving-build-times-with-docker-python/
+  fellow:
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-04-07 06:00
 - id: 6441762bf920be36b679e254
   title: A Visual Guide to Flipper Zero GUI Modules
   url: https://brodan.biz/blog/a-visual-guide-to-flipper-zero-gui-components/
@@ -603,18 +615,6 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2021-05-29 20:50
-- id: 60956203f6d85e070dd509ce
-  title: Rendering a Custom Font Dynamically with React + TypeScript
-  url: https://brodan.biz/blog/render-fonts-dynamically-with-react-typescript/
-  fellow:
-    name: Chris Hranj
-    year: 2016
-    url: https://brodan.biz
-    rss_url: https://brodan.biz/blog/rss/
-    emoji: "\U0001F327️"
-    description: A personal blog mostly about programming, sometimes about tattoos
-      or music.
-  published_at: 2021-05-09 22:10
 - id: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
   title: 'Mixed Noodles #8 | Winter'
   url: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
