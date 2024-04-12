@@ -119,6 +119,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2023-12-11 09:12
+- id: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
+  title: Attending the First Offline Club at Café de Ceuvel in Amsterdam
+  url: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-04-11 21:23
 - id: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
   title: Fixing  Jellyfin iOS Audiobook Streaming
   url: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
@@ -219,17 +229,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-07-13 14:36
-- id: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
-  title: 'Urban Sustainability Transformation in St. Petersburg, Florida: the Final
-    Final of Vienna'
-  url: https://blog.rayberger.org/urban-sustainability-transformation-in-st-petersburg-florida
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-07-04 22:26
 - id: 2024-03-01-the-randomness-of-bad-and-good-things
   title: The Randomness of Bad and Good Things
   url: https://liaokev.in/2024-03-01-the-randomness-of-bad-and-good-things
@@ -811,3 +810,87 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-07-18 00:00
+- id: https://bleg.moodyrahman.com/better-at-games
+  title: getting better at video games
+  url: https://bleg.moodyrahman.com/better-at-games
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-28 02:51
+- id: https://bleg.moodyrahman.com/no-anime
+  title: people don't fight like they're in an anime
+  url: https://bleg.moodyrahman.com/no-anime
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-27 03:15
+- id: https://bleg.moodyrahman.com/punch-power
+  title: generating power in your punches
+  url: https://bleg.moodyrahman.com/punch-power
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-28 02:51
+- id: https://bleg.moodyrahman.com/ssg-index
+  title: ssg index.html
+  url: https://bleg.moodyrahman.com/ssg-index
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-19 21:36
+- id: https://bleg.moodyrahman.com/hamstring-stretch
+  title: hamstring stretch
+  url: https://bleg.moodyrahman.com/hamstring-stretch
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-19 17:11
+- id: https://bleg.moodyrahman.com/json-ts
+  title: convert json to type
+  url: https://bleg.moodyrahman.com/json-ts
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-19 01:53
+- id: https://bleg.moodyrahman.com/what-do-you-think
+  title: test post
+  url: https://bleg.moodyrahman.com/what-do-you-think
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-02-19 01:22
