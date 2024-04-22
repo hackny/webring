@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/04/21/indie-radio.html
+  title: Indie internet radio stations rock
+  url: https://www.stevegattuso.me/2024/04/21/indie-radio.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-04-21 00:00
 - id: https://www.stevegattuso.me/2024/04/08/kleroteria.html
   title: Added Kleroteria email lottery to bookmarks
   url: https://www.stevegattuso.me/2024/04/08/kleroteria.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-01-02 00:00
-- id: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
-  title: Why build this website?
-  url: https://www.stevegattuso.me/2023/12/11/why-build-this-website.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2023-12-11 09:12
 - id: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
   title: Attending the First Offline Club at Café de Ceuvel in Amsterdam
   url: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
