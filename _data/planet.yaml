@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/05/01/misc-bavaria.html
+  title: 'New photo album: Miscelaneous Bavaria'
+  url: https://www.stevegattuso.me/2024/05/01/misc-bavaria.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-05-01 00:00
 - id: https://www.stevegattuso.me/2024/04/29/linux-audio.html
   title: "↗ Praise for a humble wiki page on Linux audio"
   url: https://www.stevegattuso.me/2024/04/29/linux-audio.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-01-14 08:02
-- id: https://www.stevegattuso.me/2024/01/03/faircamp.html
-  title: Added Faircamp to bookmarks
-  url: https://www.stevegattuso.me/2024/01/03/faircamp.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-01-03 00:00
 - id: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
   title: Attending the First Offline Club at Café de Ceuvel in Amsterdam
   url: https://blog.rayberger.org/the-first-offline-club-at-cafe-de-ceuvel-in-amsterdam
