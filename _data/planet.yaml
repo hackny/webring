@@ -809,6 +809,18 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-07-18 00:00
+- id: https://bleg.moodyrahman.com/tailscale-is-the-best
+  title: docker compose crazy (and other infra upgrades)
+  url: https://bleg.moodyrahman.com/tailscale-is-the-best
+  fellow:
+    name: Moody Rahman
+    year: 2022
+    url: https://bleg.moodyrahman.com/
+    rss_url: https://bleg.moodyrahman.com/rss.xml
+    emoji: "\U0001FAA4"
+    description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
+      2, and programming'
+  published_at: 2024-05-06 03:01
 - id: https://bleg.moodyrahman.com/better-at-games
   title: getting better at videogames
   url: https://bleg.moodyrahman.com/better-at-games
