@@ -229,6 +229,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-07-13 14:36
+- id: 2024-05-16-drag-queen
+  title: Christian Hope and Nymphia Wind at the Presidential Palace
+  url: https://liaokev.in/2024-05-16-drag-queen
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-05-16 05:55
 - id: 2024-04-22-email
   title: Email is Good, Actually.
   url: https://liaokev.in/2024-04-22-email
@@ -349,18 +361,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-20 11:00
-- id: 2018-10-18-redesign
-  title: Introducing Maracuya
-  url: https://liaokev.in/2018-10-18-redesign
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-10-18 12:00
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
