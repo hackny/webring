@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/05/28/digital-independence.html
+  title: What I mean by digital independence
+  url: https://www.stevegattuso.me/2024/05/28/digital-independence.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-05-28 00:00
 - id: https://www.stevegattuso.me/2024/05/19/pre-war-reality-check.html
   title: "↗ Cyber Security: A Pre-War Reality Check"
   url: https://www.stevegattuso.me/2024/05/19/pre-war-reality-check.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-03-14 00:00
-- id: https://www.stevegattuso.me/2024/03/11/gumption.html
-  title: Published notes on gumption
-  url: https://www.stevegattuso.me/2024/03/11/gumption.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-03-11 00:00
 - id: https://blog.rayberger.org/open-library-wikidata-hawaii
   title: Using Wikidata to Generate an Open Library Collection
   url: https://blog.rayberger.org/open-library-wikidata-hawaii
