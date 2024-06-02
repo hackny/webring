@@ -11,7 +11,7 @@
     {% assign planet = site.data.planet | sort: "published_at" | reverse | limit: 25 %}
     {% for post in planet limit:25 %}
       <item>
-        <title>[{{ post.fellow.name}}] {{ post.title }}</title>
+        <title>[{{ post.fellow.name}}] {{ post.title | xml_escape }}</title>
         <guid>{{post.url}}</guid>
         <link>{{ post.url }}</link>
         <pubDate>{{ post.published_at | date_to_rfc822 }}</pubDate>
