@@ -4,6 +4,7 @@ require "yaml"
 
 def fetch_posts(fellow)
   posts = []
+  puts("[RSS]: Fetching RSS feed for #{fellow["name"]}")
   URI.open(fellow["rss_url"]) do |rss|
     feed = RSS::Parser.parse(rss)
     posts = feed.items.map do |item|
@@ -21,6 +22,8 @@ def fetch_posts(fellow)
         link = item.link
       end
 
+      puts "\t#{title}"
+
       {"id" => id,
        "title" => title,
        "url" => link,
@@ -28,8 +31,7 @@ def fetch_posts(fellow)
        "published_at" => published_at.strftime('%Y-%m-%d %H:%M')}
     end
   end
-
-  puts("[RSS]: Fetched #{posts.size} items for #{fellow["name"]}")
+  puts "[RSS]: #{posts.size} items fetched."
 
   # Only get the first 10 posts, we don't need to store everything
   return posts[0..10]
