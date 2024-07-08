@@ -613,6 +613,18 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2021-08-15 20:26
+- id: https://buttondown.email/kyeah/archive/autumn-in-south-africa/
+  title: Autumn in South Africa
+  url: https://buttondown.email/kyeah/archive/autumn-in-south-africa/
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://buttondown.email/kyeah/rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2024-07-07 18:02
 - id: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
   title: 'Mixed Noodles #8 | Winter'
   url: https://buttondown.email/kyeah/archive/mixed-noodles-8-winter/
