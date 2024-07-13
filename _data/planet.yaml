@@ -481,6 +481,18 @@
     description: Food blog where I talk about all the things I cook and eat. Tech
       blog with some random content at https://jaronoff.com/
   published_at: 2023-12-18 12:12
+- id: 6684faf5a478b974d1560eb2
+  title: Personal Site Redesign
+  url: https://brodan.biz/blog/personal-site-redesign/
+  fellow:
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-07-12 03:29
 - id: 66220ccaa478b974d1560c82
   title: 'Quick Read: How to Set a Default Container in a Kubernetes Manifest'
   url: https://brodan.biz/blog/kubernetes-setting-a-default-container/
@@ -601,18 +613,6 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2021-12-03 18:57
-- id: 611086e211e3237f13bd76db
-  title: Logging S3 Download Progress with Python and Boto3
-  url: https://brodan.biz/blog/logging-s3-download-progress-with-python-and-boto3/
-  fellow:
-    name: Chris Hranj
-    year: 2016
-    url: https://brodan.biz
-    rss_url: https://brodan.biz/blog/rss/
-    emoji: "\U0001F327️"
-    description: A personal blog mostly about programming, sometimes about tattoos
-      or music.
-  published_at: 2021-08-15 20:26
 - id: https://buttondown.email/kyeah/archive/autumn-in-south-africa/
   title: Autumn in South Africa
   url: https://buttondown.email/kyeah/archive/autumn-in-south-africa/
