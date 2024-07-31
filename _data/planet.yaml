@@ -1,4 +1,16 @@
 ---
+- id: https://www.stevegattuso.me/2024/07/30/tool-changes-log.html
+  title: Keeping a log of tool changes
+  url: https://www.stevegattuso.me/2024/07/30/tool-changes-log.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-07-30 00:00
 - id: https://www.stevegattuso.me/2024/07/22/information-diet.html
   title: Developing an information diet for 2024
   url: https://www.stevegattuso.me/2024/07/22/information-diet.html
@@ -107,18 +119,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-05-19 00:00
-- id: https://www.stevegattuso.me/2024/05/03/hell-gate.html
-  title: Added Hell Gate to Blogs & People bookmarks page
-  url: https://www.stevegattuso.me/2024/05/03/hell-gate.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-05-03 00:00
 - id: https://blog.rayberger.org/open-library-wikidata-hawaii
   title: Using Wikidata to Generate an Open Library Collection
   url: https://blog.rayberger.org/open-library-wikidata-hawaii
