@@ -721,6 +721,16 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2018-06-13 00:00
+- id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
+  title: Lessons from a Year Abroad
+  url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2024-08-03 00:00
 - id: https://blog.vinaybhaip.com/2024/03/24/sealed
   title: 'Sealed: Custom Wax Seal NFC Tags'
   url: https://blog.vinaybhaip.com/2024/03/24/sealed
@@ -811,16 +821,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-08-22 00:00
-- id: https://blog.vinaybhaip.com/2020/07/18/website-overhaul
-  title: Overhauling My Website
-  url: https://blog.vinaybhaip.com/2020/07/18/website-overhaul
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-07-18 00:00
 - id: https://bleg.moodyrahman.com/tailscale-is-the-best
   title: docker compose crazy (and other infra upgrades)
   url: https://bleg.moodyrahman.com/tailscale-is-the-best
