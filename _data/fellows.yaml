@@ -1,25 +1,22 @@
-# Note that the order of this file doesn't matter. The site randomizes the
-# order that ends up on the page each time it builds (once per night if steve's
-# server is working).
-#
-# Also hi! Thanks for caring enough to look at this file :D
 - name: hackNY
   year: 2010
   url: https://hackny.org/blog
   rss_url: https://hackny.org/blog?format=rss
   emoji: 🏡
-  description: hackNY's aim is to build a diverse and inclusive tech community to empower the next generation of responsible leaders in NYC.
- - name: Steve Gattuso
+  description: hackNY's aim is to build a diverse and inclusive tech community to
+    empower the next generation of responsible leaders in NYC.
+- name: Steve Gattuso
   year: 2013
   url: https://www.stevegattuso.me
   rss_url: https://www.stevegattuso.me/feed.xml
   emoji: 💌
-  description: My blog and personal wiki. Step right up for thoughts on programming, vegan cooking, urbanism, and whatever else pops into my mind.
+  description: My blog and personal wiki. Step right up for thoughts on
+    programming, vegan cooking, urbanism, and whatever else pops into my mind.
 - name: Ray Berger
   rss_url: https://blog.rayberger.org/rss.xml
   year: 2018
   url: https://www.rayberger.org/
-  emoji: 🍔  # sorry ray. pls feel free to change this lol.
+  emoji: 🍔
 - name: Shy Ruparel
   year: 2014
   url: https://shy.dev
@@ -29,13 +26,15 @@
   url: http://liaokev.in
   rss_url: http://liaokev.in/feed.xml
   emoji: 🚌
-  description: Personal blog. Rarely updated. Want it to be a space for thoughts on urbanism, Taiwan, language learning, and progressive Christian theology. 
+  description: Personal blog. Rarely updated. Want it to be a space for thoughts
+    on urbanism, Taiwan, language learning, and progressive Christian theology.
 - name: Jacob Aronoff
   year: 2017
   url: https://ehicouldeat.com/
   rss_url: https://ehicouldeat.com/feed.xml
   emoji: 🥪
-  description: Food blog where I talk about all the things I cook and eat. Tech blog with some random content at https://jaronoff.com/
+  description: Food blog where I talk about all the things I cook and eat. Tech
+    blog with some random content at https://jaronoff.com/
 - name: Chris Hranj
   year: 2016
   url: https://brodan.biz
@@ -47,7 +46,8 @@
   url: https://kyeh.me
   rss_url: https://buttondown.email/kyeah/rss
   emoji: 😇
-  description: My personal footnotes on the internet and all the words, sounds, videos, and sentiments I want to remember for a rainy day.
+  description: My personal footnotes on the internet and all the words, sounds,
+    videos, and sentiments I want to remember for a rainy day.
 - name: Vinay Bhaip
   year: 2021
   url: http://vinaybhaip.com
@@ -66,4 +66,5 @@
   url: https://bleg.moodyrahman.com/
   rss_url: https://bleg.moodyrahman.com/rss.xml
   emoji: 🪤
-  description: "A quirky blog about what's making moody's head hurt: boxing, destiny 2, and programming"
+  description: "A quirky blog about what's making moody's head hurt: boxing,
+    destiny 2, and programming"
