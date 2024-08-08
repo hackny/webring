@@ -3,8 +3,13 @@
 # server is working).
 #
 # Also hi! Thanks for caring enough to look at this file :D
-
-- name: Steve Gattuso
+- name: hackNY
+  year: 2010
+  url: https://hackny.org/blog
+  rss_url: https://hackny.org/blog?format=rss
+  emoji: 🏡
+  description: hackNY's aim is to build a diverse and inclusive tech community to empower the next generation of responsible leaders in NYC.
+  - name: Steve Gattuso
   year: 2013
   url: https://www.stevegattuso.me
   rss_url: https://www.stevegattuso.me/feed.xml
