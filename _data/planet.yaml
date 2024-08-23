@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66c65247a06df11fc455ec52
+  title: Reflecting on the 2024 hackNY Fellowship
+  url: https://hackny.org/blog/reflecting-on-the-2024-hackny-fellowship
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-08-21 20:47
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:668300508597c02e3426989e
   title: Announcing the Class of 2024 hackNY Fellows!
   url: https://hackny.org/blog/2024/05/class-of-2024
@@ -121,18 +133,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2019-06-10 19:04
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:5ef6669a22ea9b6af07f2388
-  title: Announcing the Class of 2018 hackNY Fellows!
-  url: https://hackny.org/blog/2018/06/announcing-the-class-of-2018-hackny-fellows
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2018-06-07 01:43
 - id: https://www.stevegattuso.me/2024/08/10/maybe-change-tools.html
   title: Migrating tools as a test of data portability
   url: https://www.stevegattuso.me/2024/08/10/maybe-change-tools.html
