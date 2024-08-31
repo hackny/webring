@@ -615,6 +615,18 @@
     description: Food blog where I talk about all the things I cook and eat. Tech
       blog with some random content at https://jaronoff.com/
   published_at: 2023-12-18 12:12
+- id: 66b577aaa478b974d1560fb8
+  title: Leveling Up with Adobe Illustrator
+  url: https://brodan.biz/blog/leveling-up-adobe-illustrator/
+  fellow:
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-08-30 03:50
 - id: 6684faf5a478b974d1560eb2
   title: Personal Site Redesign
   url: https://brodan.biz/blog/personal-site-redesign/
@@ -735,18 +747,6 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
-- id: 61aa597cdb75e174babca7c0
-  title: How to Hide the Ghost Blog Subscribe Button
-  url: https://brodan.biz/blog/how-to-hide-the-ghost-subscribe-button/
-  fellow:
-    name: Chris Hranj
-    year: 2016
-    url: https://brodan.biz
-    rss_url: https://brodan.biz/blog/rss/
-    emoji: "\U0001F327️"
-    description: A personal blog mostly about programming, sometimes about tattoos
-      or music.
-  published_at: 2021-12-03 18:57
 - id: https://buttondown.com/kyeah/archive/autumn-in-south-africa/
   title: Autumn in South Africa
   url: https://buttondown.com/kyeah/archive/autumn-in-south-africa/
