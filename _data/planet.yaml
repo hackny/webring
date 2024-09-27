@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f57c1da4288b2a72ed93a3
+  title: My hackNY Adventure
+  url: https://hackny.org/blog/hackny-adventure
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-09-26 15:52
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66c65247a06df11fc455ec52
   title: Reflecting on the 2024 hackNY Fellowship
   url: https://hackny.org/blog/reflecting-on-the-2024-hackny-fellowship
@@ -121,18 +133,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2019-06-19 15:57
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:5ef6669a22ea9b6af07f23a1
-  title: Matthew Troy Joins hackNY as Executive Director
-  url: https://hackny.org/blog/2019/06/matthew-troy
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2019-06-10 19:04
 - id: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
   title: New rice & beans recipe and other minor updates
   url: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
