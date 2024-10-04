@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f583c0eb924e0860a66b7d
+  title: 'One of the Best Summers Ever: My HackNY Fellowship Experience'
+  url: https://hackny.org/blog/best-summers-ever
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-03 15:54
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f57c1da4288b2a72ed93a3
   title: My hackNY Adventure
   url: https://hackny.org/blog/hackny-adventure
@@ -121,18 +133,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2019-10-01 20:14
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:5ef6669a22ea9b6af07f23a4
-  title: Announcing the Class of 2019 hackNY Fellows!
-  url: https://hackny.org/blog/2019/06/announcing-the-class-of-2019-hackny-fellows
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2019-06-19 15:57
 - id: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
   title: New rice & beans recipe and other minor updates
   url: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
