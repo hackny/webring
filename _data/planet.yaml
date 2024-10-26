@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67190d5636f942652a91d568
+  title: 'Application Spotlight: Gloria'
+  url: https://hackny.org/blog/application-spotlight-gloria
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-25 14:45
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f583c0eb924e0860a66b7d
   title: 'One of the Best Summers Ever: My HackNY Fellowship Experience'
   url: https://hackny.org/blog/best-summers-ever
@@ -120,19 +132,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2019-10-08 20:23
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66830d1a822fdc6045619ea8
-  title: 'Sam Azouzi’s hackNY Summer of Good: Discovering best practices for nonprofit
-    Tech Solutions'
-  url: https://hackny.org/blog/2019/10/sam-azouzis-hackny-summer-of-good
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2019-10-01 20:14
 - id: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
   title: New rice & beans recipe and other minor updates
   url: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
