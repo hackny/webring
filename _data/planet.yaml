@@ -132,6 +132,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2019-10-08 20:23
+- id: https://www.stevegattuso.me/2024/10/29/new-projects.html
+  title: Added SingleFile and files.gallery to bookmarks
+  url: https://www.stevegattuso.me/2024/10/29/new-projects.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-10-29 00:00
 - id: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
   title: New rice & beans recipe and other minor updates
   url: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
@@ -240,18 +252,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-06-03 02:00
-- id: https://www.stevegattuso.me/2024/06/02/2024-06-02.html
-  title: Various tidying up and refactoring around my wiki
-  url: https://www.stevegattuso.me/2024/06/02/2024-06-02.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-06-02 02:00
 - id: https://blog.rayberger.org/open-library-wikidata-hawaii
   title: Using Wikidata to Generate an Open Library Collection
   url: https://blog.rayberger.org/open-library-wikidata-hawaii
