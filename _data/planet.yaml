@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6728f816d65f452338f29827
+  title: 'Application Spotlight: Dlet'
+  url: https://hackny.org/blog/application-spotlight-dlet
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-04 16:36
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67190d5636f942652a91d568
   title: 'Application Spotlight: Gloria'
   url: https://hackny.org/blog/application-spotlight-gloria
@@ -120,18 +132,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-06-10 20:42
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66830ed6fab1ee79662fc92c
-  title: hackNY Application Guide for 2020
-  url: https://hackny.org/blog/2019/10/hackny-application-guide-for-2020
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2019-10-08 20:23
 - id: https://www.stevegattuso.me/2024/10/29/new-projects.html
   title: Added SingleFile and files.gallery to bookmarks
   url: https://www.stevegattuso.me/2024/10/29/new-projects.html
