@@ -252,6 +252,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-06-05 02:00
+- id: https://blog.rayberger.org/wikidata-and-the-2024-open-library-community-celebration
+  title: Wikidata and the 2024 Open Library Community Celebration
+  url: https://blog.rayberger.org/wikidata-and-the-2024-open-library-community-celebration
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-11-08 18:11
 - id: https://blog.rayberger.org/open-library-wikidata-hawaii
   title: Using Wikidata to Generate an Open Library Collection
   url: https://blog.rayberger.org/open-library-wikidata-hawaii
@@ -352,16 +362,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-07-24 20:45
-- id: https://blog.rayberger.org/google-maps-reviews-moderated
-  title: So, Google Maps Reviews Are Moderated?
-  url: https://blog.rayberger.org/google-maps-reviews-moderated
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-07-19 15:21
 - id: 2024-05-16-drag-queen
   title: Christian Hope and Nymphia Wind at the Presidential Palace
   url: https://liaokev.in/2024-05-16-drag-queen
