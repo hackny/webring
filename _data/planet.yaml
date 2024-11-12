@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6732240cfcc1041b38c6870e
+  title: 'Application Spotlight: Luna'
+  url: https://hackny.org/blog/application-spotlight-luna
+  fellow:
+    name: hackNY
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-11 15:49
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:672cdbb8db1c605cdfc33c55
   title: 'Application Spotlight: Pauline'
   url: https://hackny.org/blog/application-spotlight-pauline
@@ -120,18 +132,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-09-17 20:32
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6683114287372026fef1a36a
-  title: HackNY’s Commitment to Racial Justice
-  url: https://hackny.org/blog/2020/06/hacknys-commitment-to-racial-justice
-  fellow:
-    name: hackNY
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2020-06-13 20:29
 - id: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
   title: 'New photo album: Istanbul'
   url: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
