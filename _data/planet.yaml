@@ -132,6 +132,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-09-17 20:32
+- id: https://www.stevegattuso.me/2024/11/20/dont-call-it-a-substack.html
+  title: "↗ Don't call it a Substack"
+  url: https://www.stevegattuso.me/2024/11/20/dont-call-it-a-substack.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-11-20 00:00
 - id: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
   title: 'New photo album: Istanbul'
   url: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
@@ -240,18 +252,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-06-23 00:00
-- id: https://www.stevegattuso.me/2024/06/16/2024-06-16.html
-  title: Published "Criteria for adopting or avoiding technologies"
-  url: https://www.stevegattuso.me/2024/06/16/2024-06-16.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-06-16 02:00
 - id: https://blog.rayberger.org/how-to-add-a-brand-preset-to-openstreetmap
   title: How to Add a Brand Preset to OpenStreetMap
   url: https://blog.rayberger.org/how-to-add-a-brand-preset-to-openstreetmap
