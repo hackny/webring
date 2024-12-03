@@ -252,6 +252,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-06-23 00:00
+- id: https://blog.rayberger.org/google-gemini-past-calendar-events
+  title: Google Gemini Can Create Past Calendar Events (Finally!)
+  url: https://blog.rayberger.org/google-gemini-past-calendar-events
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-12-02 22:53
 - id: https://blog.rayberger.org/how-to-add-a-brand-preset-to-openstreetmap
   title: How to Add a Brand Preset to OpenStreetMap
   url: https://blog.rayberger.org/how-to-add-a-brand-preset-to-openstreetmap
@@ -352,16 +362,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2023-12-06 14:38
-- id: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
-  title: Cancelling Vienna's Annual Pass Early
-  url: https://blog.rayberger.org/cancelling-viennas-annual-pass-early
+- id: 2024-11-18-can-we-break-cycles
+  title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
+  url: https://liaokev.in/2024-11-18-can-we-break-cycles
   fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
+    name: Kevin Liao
     year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-10-29 22:19
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2024-12-01 15:50
 - id: 2024-11-14-apta-questions
   title: My APTA Emerging Leaders Program Application Responses
   url: https://liaokev.in/2024-11-14-apta-questions
@@ -482,18 +494,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2018-10-31 05:00
-- id: 2018-10-26-g0v
-  title: What is g0v?
-  url: https://liaokev.in/2018-10-26-g0v
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-10-25 04:00
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
