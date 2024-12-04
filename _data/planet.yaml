@@ -227,7 +227,7 @@
     emoji: "\U0001F48C"
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-07-22 00:00
+  published_at: 2024-07-22 02:00
 - id: https://www.stevegattuso.me/2024/07/19/love-fennel.html
   title: LÖVE, Fennel, and the Conjure REPL
   url: https://www.stevegattuso.me/2024/07/19/love-fennel.html
