@@ -251,6 +251,17 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-06-23 00:00
+- id: https://blog.rayberger.org/eckerd-quickstatements
+  title: 'My First Wikidata QuickStatements Project: Documenting Professors at Eckerd
+    College'
+  url: https://blog.rayberger.org/eckerd-quickstatements
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-12-27 05:00
 - id: https://blog.rayberger.org/google-gemini-past-calendar-events
   title: Google Gemini Can Create Past Calendar Events (Finally!)
   url: https://blog.rayberger.org/google-gemini-past-calendar-events
@@ -351,16 +362,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-01-05 21:03
-- id: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
-  title: Fixing Free Mobile Roaming Connection
-  url: https://blog.rayberger.org/fixing-free-mobile-roaming-connection
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2023-12-06 14:38
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
