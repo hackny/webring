@@ -746,114 +746,30 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
-- id: https://buttondown.com/kyeah/archive/autumn-in-south-africa/
-  title: Autumn in South Africa
-  url: https://buttondown.com/kyeah/archive/autumn-in-south-africa/
+- id: https://ok.spacetypeco.com/small-sites-and-little-rings
+  title: small sites and little rings
+  url: https://ok.spacetypeco.com/small-sites-and-little-rings
   fellow:
     name: Kevin Yeh
     year: 2015
     url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
     emoji: "\U0001F607"
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
-  published_at: 2024-07-07 18:02
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-8-winter/
-  title: 'Mixed Noodles #8 | Winter'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-8-winter/
+  published_at: 2024-12-26 00:00
+- id: https://ok.spacetypeco.com/streaming-nothing
+  title: streaming nothing
+  url: https://ok.spacetypeco.com/streaming-nothing
   fellow:
     name: Kevin Yeh
     year: 2015
     url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
     emoji: "\U0001F607"
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
-  published_at: 2019-01-06 20:04
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-7-japanese-sociology/
-  title: 'Mixed Noodles #7 | Japanese Sociology'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-7-japanese-sociology/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-08-06 03:35
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-6-habitats/
-  title: 'Mixed Noodles #6 | Habitats'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-6-habitats/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-07-15 12:27
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-5-home-alone-pt-1/
-  title: 'Mixed Noodles #5 | Home Alone Pt. 1'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-5-home-alone-pt-1/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-07-09 03:48
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-4-movements/
-  title: 'Mixed Noodles #4 | Movements'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-4-movements/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-07-02 02:07
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-3-family-matters/
-  title: 'Mixed Noodles #3 | Family Matters'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-3-family-matters/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-06-25 00:00
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-2-slow-growth/
-  title: 'Mixed Noodles #2 | Slow Growth'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-2-slow-growth/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-06-23 00:00
-- id: https://buttondown.com/kyeah/archive/mixed-noodles-1-aristocracy/
-  title: 'Mixed Noodles #1 | Aristocracy'
-  url: https://buttondown.com/kyeah/archive/mixed-noodles-1-aristocracy/
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://buttondown.email/kyeah/rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2018-06-13 00:00
+  published_at: 2024-12-30 00:00
 - id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
   title: Lessons from a Year Abroad
   url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
