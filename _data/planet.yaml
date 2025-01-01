@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-11-17 21:36
+- id: https://www.stevegattuso.me/2024/12/31/2024-in-review.html
+  title: 2024, in review
+  url: https://www.stevegattuso.me/2024/12/31/2024-in-review.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-12-31 00:00
 - id: https://www.stevegattuso.me/2024/12/29/things-miss-munich.html
   title: Things I'll miss from Munich
   url: https://www.stevegattuso.me/2024/12/29/things-miss-munich.html
@@ -239,18 +251,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-07-21 18:00
-- id: https://www.stevegattuso.me/2024/07/19/love-fennel.html
-  title: LÖVE, Fennel, and the Conjure REPL
-  url: https://www.stevegattuso.me/2024/07/19/love-fennel.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-07-19 00:00
 - id: https://blog.rayberger.org/eckerd-quickstatements
   title: 'My First Wikidata QuickStatements Project: Documenting Professors at Eckerd
     College'
