@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-11-17 21:36
+- id: https://www.stevegattuso.me/2025/01/07/crunch.html
+  title: Crunch
+  url: https://www.stevegattuso.me/2025/01/07/crunch.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-01-06 19:00
 - id: https://www.stevegattuso.me/2024/12/31/2024-in-review.html
   title: 2024, in review
   url: https://www.stevegattuso.me/2024/12/31/2024-in-review.html
@@ -239,18 +251,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-07-30 00:00
-- id: https://www.stevegattuso.me/2024/07/22/information-diet.html
-  title: Developing an information diet for 2024
-  url: https://www.stevegattuso.me/2024/07/22/information-diet.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-07-21 18:00
 - id: https://blog.rayberger.org/eckerd-quickstatements
   title: 'My First Wikidata QuickStatements Project: Documenting Professors at Eckerd
     College'
