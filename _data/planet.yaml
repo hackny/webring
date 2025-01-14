@@ -251,6 +251,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-08-10 00:00
+- id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
+  title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
+  url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-14 02:25
 - id: https://blog.rayberger.org/a-morning-in-bogota
   title: A Morning in Bogota
   url: https://blog.rayberger.org/a-morning-in-bogota
@@ -352,16 +362,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-02-12 17:02
-- id: https://blog.rayberger.org/book-review-the-lost-cause
-  title: 'Book Review: The Lost Cause'
-  url: https://blog.rayberger.org/book-review-the-lost-cause
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-02-01 17:20
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
