@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-11-17 21:36
+- id: https://www.stevegattuso.me/2025/01/16/pops.html
+  title: POPS!
+  url: https://www.stevegattuso.me/2025/01/16/pops.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-01-15 19:00
 - id: https://www.stevegattuso.me/2025/01/08/steven-vance-cottage-court.html
   title: ↗ Quoting Steven Vance on "cottage courts"
   url: https://www.stevegattuso.me/2025/01/08/steven-vance-cottage-court.html
@@ -239,18 +251,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-08-25 00:00
-- id: https://www.stevegattuso.me/2024/08/10/maybe-change-tools.html
-  title: Migrating tools as a test of data portability
-  url: https://www.stevegattuso.me/2024/08/10/maybe-change-tools.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-08-10 00:00
 - id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
   title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
   url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
