@@ -1,8 +1,15 @@
-- name: hackNY
+- name: hackNY Blog
   year: 2010
   url: https://hackny.org/blog
   rss_url: https://hackny.org/blog?format=rss
   emoji: 🏡
+  description: hackNY's aim is to build a diverse and inclusive tech community to
+    empower the next generation of responsible leaders in NYC.
+- name: hackNY alumNY Update
+  year: 2010
+  url: https://newsletter.hackny.org
+  rss_url: https://newsletter.hackny.org/rss
+  emoji: 🗞️
   description: hackNY's aim is to build a diverse and inclusive tech community to
     empower the next generation of responsible leaders in NYC.
 - name: Steve Gattuso
