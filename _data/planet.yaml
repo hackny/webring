@@ -253,7 +253,7 @@
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-09-05 13:40
 - id: https://www.stevegattuso.me/2025/01/17/illegible-club.html
-  title: 'Illegible Club: a Mastodon instance for my friends'
+  title: 'Illegible Club: a Mastodon instance for friends'
   url: https://www.stevegattuso.me/2025/01/17/illegible-club.html
   fellow:
     name: Steve Gattuso
@@ -372,6 +372,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-10-29 00:00
+- id: https://blog.rayberger.org/vue-3-web-components-open-library
+  title: Migrating Web Components from Vue 2 to Vue 3 at Open Library
+  url: https://blog.rayberger.org/vue-3-web-components-open-library
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-18 00:56
 - id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
   title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
   url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
@@ -473,16 +483,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-03-03 01:11
-- id: https://blog.rayberger.org/fosdem-2024
-  title: My FOSDEM 2024
-  url: https://blog.rayberger.org/fosdem-2024
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-02-12 17:02
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
