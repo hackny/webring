@@ -3,7 +3,7 @@
   title: hackNY Announces Fiscal Sponsorship
   url: https://hackny.org/blog/hackny-fiscal-sponsorship
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -15,7 +15,7 @@
   title: 'Application Spotlight: Luna'
   url: https://hackny.org/blog/application-spotlight-luna
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -27,7 +27,7 @@
   title: 'Application Spotlight: Pauline'
   url: https://hackny.org/blog/application-spotlight-pauline
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -39,7 +39,7 @@
   title: 'Application Spotlight: Dlet'
   url: https://hackny.org/blog/application-spotlight-dlet
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -51,7 +51,7 @@
   title: 'Application Spotlight: Gloria'
   url: https://hackny.org/blog/application-spotlight-gloria
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -63,7 +63,7 @@
   title: 'One of the Best Summers Ever: My HackNY Fellowship Experience'
   url: https://hackny.org/blog/best-summers-ever
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -75,7 +75,7 @@
   title: My hackNY Adventure
   url: https://hackny.org/blog/hackny-adventure
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -87,7 +87,7 @@
   title: Reflecting on the 2024 hackNY Fellowship
   url: https://hackny.org/blog/reflecting-on-the-2024-hackny-fellowship
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -99,7 +99,7 @@
   title: Announcing the Class of 2024 hackNY Fellows!
   url: https://hackny.org/blog/2024/05/class-of-2024
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -111,7 +111,7 @@
   title: Announcing the Class of 2023 hackNY Fellows!
   url: https://hackny.org/blog/y5bbjr0x82shgli52242sryjx7j1w5
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -123,7 +123,7 @@
   title: 'hackNY, hackathons, and COVID: what comes next?'
   url: https://hackny.org/blog/2020/11/hackny-hackathons-and-covid-what-comes-next
   fellow:
-    name: hackNY
+    name: hackNY Blog
     year: 2010
     url: https://hackny.org/blog
     rss_url: https://hackny.org/blog?format=rss
@@ -131,6 +131,139 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-11-17 21:36
+- id: https://newsletter.hackny.org/archive/alumny-news-fundraising-update-hacknight-nyc-mesh/
+  title: "[alumNY News] Fundraising update & hackNight @ NYC Mesh"
+  url: https://newsletter.hackny.org/archive/alumny-news-fundraising-update-hacknight-nyc-mesh/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-01-16 17:59
+- id: https://newsletter.hackny.org/archive/alumny-news-which-hackny-cohort-has-donated-the/
+  title: "[alumNY News] Which hackNY cohort has donated the most?"
+  url: https://newsletter.hackny.org/archive/alumny-news-which-hackny-cohort-has-donated-the/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-12-19 21:49
+- id: https://newsletter.hackny.org/archive/alumny-news-hacknights-begin-this-month/
+  title: "[alumNY News] hackNights begin this month! +Fundraising & Fiscal Sponsorship
+    Updates"
+  url: https://newsletter.hackny.org/archive/alumny-news-hacknights-begin-this-month/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-12-05 21:13
+- id: https://newsletter.hackny.org/archive/alumny-news-giving-tuesday-its-really-hard-to-ask/
+  title: "[alumNY news] Giving Tuesday - It's really hard to ask for money"
+  url: https://newsletter.hackny.org/archive/alumny-news-giving-tuesday-its-really-hard-to-ask/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-12-03 15:00
+- id: https://newsletter.hackny.org/archive/alumny-reunion-w-ny-times-games/
+  title: alumNY Reunion w/ NY Times Games
+  url: https://newsletter.hackny.org/archive/alumny-reunion-w-ny-times-games/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-07 23:23
+- id: https://newsletter.hackny.org/archive/alumny-newsletter-call-for-application-reviewers/
+  title: "[alumNY Newsletter] Call for Application Reviewers!"
+  url: https://newsletter.hackny.org/archive/alumny-newsletter-call-for-application-reviewers/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-29 20:09
+- id: https://newsletter.hackny.org/archive/alumny-newsletter-fall-reunyon-graduate-school/
+  title: "[alumNY Newsletter] Fall reuNYon, Graduate School AMA & hire an alumNY"
+  url: https://newsletter.hackny.org/archive/alumny-newsletter-fall-reunyon-graduate-school/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-24 16:30
+- id: https://newsletter.hackny.org/archive/alumny-newsletter-join-hackny-board-of-directors/
+  title: "[alumNY Newsletter] Join hackNY Board of Directors + alumNY Database"
+  url: https://newsletter.hackny.org/archive/alumny-newsletter-join-hackny-board-of-directors/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-03 18:22
+- id: https://newsletter.hackny.org/archive/alumny-newsletter-h24-wins-at-hackthenorth-more/
+  title: "[alumNY Newsletter] h`24 Wins at HackTheNorth & more!"
+  url: https://newsletter.hackny.org/archive/alumny-newsletter-h24-wins-at-hackthenorth-more/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-09-19 16:46
+- id: https://newsletter.hackny.org/archive/h24-sustainability-and-alumny/
+  title: "[alumNY Newsletter] h`24, sustainability and alumNY updates"
+  url: https://newsletter.hackny.org/archive/h24-sustainability-and-alumny/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-09-05 13:40
+- id: https://www.stevegattuso.me/2025/01/17/illegible-club.html
+  title: 'Illegible Club: a Mastodon instance for my friends'
+  url: https://www.stevegattuso.me/2025/01/17/illegible-club.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-01-16 19:00
 - id: https://www.stevegattuso.me/2025/01/16/pops.html
   title: POPS!
   url: https://www.stevegattuso.me/2025/01/16/pops.html
@@ -239,18 +372,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-10-29 00:00
-- id: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
-  title: New rice & beans recipe and other minor updates
-  url: https://www.stevegattuso.me/2024/08/25/recipe-and-updates.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-08-25 00:00
 - id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
   title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
   url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
