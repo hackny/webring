@@ -252,18 +252,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-09-05 13:40
-- id: https://www.stevegattuso.me/2025/01/20/crunch-pt-2.html
-  title: Crunch (pt 2)
-  url: https://www.stevegattuso.me/2025/01/20/crunch-pt-2.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-01-19 19:00
 - id: https://www.stevegattuso.me/2025/01/17/illegible-club.html
   title: 'Illegible Club: a Mastodon instance for friends'
   url: https://www.stevegattuso.me/2025/01/17/illegible-club.html
@@ -372,6 +360,18 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-11-07 00:00
+- id: https://www.stevegattuso.me/2024/10/29/new-projects.html
+  title: Added SingleFile and files.gallery to bookmarks
+  url: https://www.stevegattuso.me/2024/10/29/new-projects.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2024-10-29 00:00
 - id: https://blog.rayberger.org/vue-3-web-components-open-library
   title: Migrating Web Components from Vue 2 to Vue 3 at Open Library
   url: https://blog.rayberger.org/vue-3-web-components-open-library
