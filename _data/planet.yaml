@@ -867,6 +867,18 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
+- id: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  title: designing a tiny container shop
+  url: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-19 23:00
 - id: https://ok.spacetypeco.com/re-entry-into-workland
   title: re-entry into workland
   url: https://ok.spacetypeco.com/re-entry-into-workland
