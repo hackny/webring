@@ -80,3 +80,9 @@
   url: https://gloriazhu.net/
   emoji: 🦍
   description: "A personal website with a little bit of everything!"
+- name: Daniel Saewitz
+  year: 2012
+  url: https://saewitz.com
+  rss_url: https://saewitz.com/feed.xml
+  emoji: 🌎
+  description: "A personal blog on my experience as a software engineer (mostly frontend), indie founder, and creative."
