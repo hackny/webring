@@ -1135,3 +1135,39 @@
     description: 'A quirky blog about what''s making moody''s head hurt: boxing, destiny
       2, and programming'
   published_at: 2024-02-19 01:22
+- id: https://saewitz.com/lessons-on-creative-work
+  title: Lessons on Creative Work
+  url: https://saewitz.com/lessons-on-creative-work
+  fellow:
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2025-01-22 00:00
+- id: https://saewitz.com/the-mental-model-of-server-components
+  title: The Mental Model of Server Components
+  url: https://saewitz.com/the-mental-model-of-server-components
+  fellow:
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2024-12-04 00:00
+- id: https://saewitz.com/this-just-might-work
+  title: This Just Might Work
+  url: https://saewitz.com/this-just-might-work
+  fellow:
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2024-10-23 00:00
