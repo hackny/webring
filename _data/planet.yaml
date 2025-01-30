@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2020-11-17 21:36
+- id: https://newsletter.hackny.org/archive/alumny-invite-technical-interview-practice-for/
+  title: "[alumNY Invite] Technical Interview Practice for h`25 and alumNY"
+  url: https://newsletter.hackny.org/archive/alumny-invite-technical-interview-practice-for/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-01-30 15:29
 - id: https://newsletter.hackny.org/archive/alumny-news-hackny-is-growing/
   title: "[alumNY News] hackNY is growing!"
   url: https://newsletter.hackny.org/archive/alumny-news-hackny-is-growing/
@@ -252,18 +264,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-09-19 16:46
-- id: https://newsletter.hackny.org/archive/h24-sustainability-and-alumny/
-  title: "[alumNY Newsletter] h`24, sustainability and alumNY updates"
-  url: https://newsletter.hackny.org/archive/h24-sustainability-and-alumny/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-09-05 13:40
 - id: https://www.stevegattuso.me/2025/01/20/crunch-pt-2.html
   title: Crunch (pt 2)
   url: https://www.stevegattuso.me/2025/01/20/crunch-pt-2.html
