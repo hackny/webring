@@ -384,6 +384,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-11-07 00:00
+- id: https://blog.rayberger.org/2024-in-review
+  title: 2024 in Review
+  url: https://blog.rayberger.org/2024-in-review
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-31 03:06
 - id: https://blog.rayberger.org/vue-3-web-components-open-library
   title: Migrating Web Components from Vue 2 to Vue 3 at Open Library
   url: https://blog.rayberger.org/vue-3-web-components-open-library
@@ -485,16 +495,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-04-11 21:23
-- id: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
-  title: Fixing  Jellyfin iOS Audiobook Streaming
-  url: https://blog.rayberger.org/fixing-jellyfin-ios-audiobook-streaming
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-03-03 01:11
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
