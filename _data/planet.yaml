@@ -384,6 +384,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-11-07 00:00
+- id: https://blog.rayberger.org/polishing-nextcloud-tasks
+  title: Polishing Nextcloud Tasks
+  url: https://blog.rayberger.org/polishing-nextcloud-tasks
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-02-02 08:44
 - id: https://blog.rayberger.org/vue-migration-part-2
   title: Vue Migration Part 2 - A Simple Solution Emerges
   url: https://blog.rayberger.org/vue-migration-part-2
@@ -485,16 +495,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-11-08 18:11
-- id: https://blog.rayberger.org/open-library-wikidata-hawaii
-  title: Using Wikidata to Generate an Open Library Collection
-  url: https://blog.rayberger.org/open-library-wikidata-hawaii
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-05-21 11:10
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
@@ -879,6 +879,66 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
+- id: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  title: designing a tiny container shop
+  url: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-19 23:00
+- id: https://ok.spacetypeco.com/re-entry-into-workland
+  title: re-entry into workland
+  url: https://ok.spacetypeco.com/re-entry-into-workland
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-16 00:00
+- id: https://ok.spacetypeco.com/a-year-for-blogging
+  title: a year for blogging
+  url: https://ok.spacetypeco.com/a-year-for-blogging
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-05 00:00
+- id: https://ok.spacetypeco.com/streaming-nothing
+  title: streaming nothing
+  url: https://ok.spacetypeco.com/streaming-nothing
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2024-12-30 00:00
+- id: https://ok.spacetypeco.com/small-sites-and-little-rings
+  title: small sites and little rings
+  url: https://ok.spacetypeco.com/small-sites-and-little-rings
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2024-12-26 00:00
 - id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
   title: Lessons from a Year Abroad
   url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
