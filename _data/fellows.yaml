@@ -86,3 +86,9 @@
   rss_url: https://saewitz.com/feed.xml
   emoji: 🌎
   description: "A personal blog on my experience as a software engineer (mostly frontend), indie founder, and creative."
+- name: Elle Mundy
+  year: 2013
+  url: https://exch.gr/
+  rss_url: https://exch.gr/feed.xml
+  emoji: 🍵
+  description: "Process Things: Elle Mundy's music, photography, poetry, code, etc."
