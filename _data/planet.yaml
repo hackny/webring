@@ -1195,6 +1195,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/music/show-the-fricatives-adam-lagreca-gonzos-songwriter-showcase/
+  title: 'Show: The Fricatives & Adam LaGreca @ Gonzo''s Songwriter Showcase'
+  url: https://exch.gr/music/show-the-fricatives-adam-lagreca-gonzos-songwriter-showcase/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-02-10 02:02
 - id: https://exch.gr/essays/leaving-instagram-in-the-dust/
   title: Leaving Instagram in the dust
   url: https://exch.gr/essays/leaving-instagram-in-the-dust/
@@ -1315,15 +1327,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2024-10-21 22:46
-- id: https://exch.gr/photography/tiding-house-launch/
-  title: Tiding House Launch
-  url: https://exch.gr/photography/tiding-house-launch/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2024-10-11 21:41
