@@ -1195,6 +1195,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/photography/fievel-is-glauque-mhow/
+  title: Fievel Is Glauque @ Music Hall of Williamsburg
+  url: https://exch.gr/photography/fievel-is-glauque-mhow/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-02-12 23:19
 - id: https://exch.gr/photography/street-photography-jan-2025/
   title: 'Street Photography: January 2025'
   url: https://exch.gr/photography/street-photography-jan-2025/
@@ -1315,15 +1327,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2024-11-11 23:37
-- id: https://exch.gr/photography/into-the-prison-ship-martyrs-monument/
-  title: Into the Prison Ship Martyrs' Monument
-  url: https://exch.gr/photography/into-the-prison-ship-martyrs-monument/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2024-11-08 20:50
