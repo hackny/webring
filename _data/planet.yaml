@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67bf4dbee7a48d1b9647d2c2
+  title: Announcing the hackNY Spring Conference
+  url: https://hackny.org/blog/announcing-hackny-spring
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-02-26 18:04
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:675096540f34682ec0eb19ae
   title: hackNY Announces Fiscal Sponsorship
   url: https://hackny.org/blog/hackny-fiscal-sponsorship
@@ -119,18 +131,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2023-07-18 20:44
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:668312b2ad06c21e4034163a
-  title: 'hackNY, hackathons, and COVID: what comes next?'
-  url: https://hackny.org/blog/2020/11/hackny-hackathons-and-covid-what-comes-next
-  fellow:
-    name: hackNY Blog
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2020-11-17 21:36
 - id: https://newsletter.hackny.org/archive/alumny-news-help-alumny-get-jobs-andor-become-a/
   title: "[alumNY News] Help alumNY get jobs and/or become a Mentor"
   url: https://newsletter.hackny.org/archive/alumny-news-help-alumny-get-jobs-andor-become-a/
