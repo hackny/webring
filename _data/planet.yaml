@@ -1087,6 +1087,19 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/music/adam-lagreca-pianos-the-fricatives-house-of-abundance-winter-2025-recap/
+  title: 'Adam LaGreca @ Pianos & The Fricatives @ House of Abundance, Winter 2025:
+    Recap'
+  url: https://exch.gr/music/adam-lagreca-pianos-the-fricatives-house-of-abundance-winter-2025-recap/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-02-28 22:13
 - id: https://exch.gr/drawing/chiarascura/
   title: chiarascura
   url: https://exch.gr/drawing/chiarascura/
@@ -1207,15 +1220,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2025-01-03 20:41
-- id: https://exch.gr/photography/street-photography-dec-2024/
-  title: 'Street Photography: December 2024'
-  url: https://exch.gr/photography/street-photography-dec-2024/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2024-12-31 00:28
