@@ -264,6 +264,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-10-29 20:09
+- id: https://www.stevegattuso.me/2025/02/28/inwood-to-battery.html
+  title: Walking from Inwood to Battery
+  url: https://www.stevegattuso.me/2025/02/28/inwood-to-battery.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-02-27 19:00
 - id: https://www.stevegattuso.me/2025/02/06/quoting-elle-mundy.html
   title: ↗ Quoting Elle Mundy on "Leaving Instagram in the dust"
   url: https://www.stevegattuso.me/2025/02/06/quoting-elle-mundy.html
@@ -372,18 +384,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-11-20 00:00
-- id: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
-  title: 'New photo album: Istanbul'
-  url: https://www.stevegattuso.me/2024/11/09/istanbul-album.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-11-09 00:00
 - id: https://blog.rayberger.org/polishing-nextcloud-tasks
   title: Polishing Nextcloud Tasks
   url: https://blog.rayberger.org/polishing-nextcloud-tasks
