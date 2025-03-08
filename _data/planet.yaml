@@ -1051,6 +1051,18 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-08-22 00:00
+- id: https://saewitz.com/abusing-rscs-cache-for-blog-footnotes
+  title: Abusing RSC's Cache For Blog Footnotes
+  url: https://saewitz.com/abusing-rscs-cache-for-blog-footnotes
+  fellow:
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2025-03-08 00:00
 - id: https://saewitz.com/lessons-on-creative-work
   title: Lessons on Creative Work
   url: https://saewitz.com/lessons-on-creative-work
