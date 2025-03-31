@@ -879,6 +879,90 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
+- id: https://ok.spacetypeco.com/deserving-of-rest
+  title: deserving of rest
+  url: https://ok.spacetypeco.com/deserving-of-rest
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-03-24 22:06
+- id: https://ok.spacetypeco.com/entering-the-market-season
+  title: entering the market season
+  url: https://ok.spacetypeco.com/entering-the-market-season
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-02-08 22:24
+- id: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  title: designing a tiny container shop
+  url: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-19 23:00
+- id: https://ok.spacetypeco.com/re-entry-into-workland
+  title: re-entry into workland
+  url: https://ok.spacetypeco.com/re-entry-into-workland
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-16 00:00
+- id: https://ok.spacetypeco.com/a-year-for-blogging
+  title: a year for blogging
+  url: https://ok.spacetypeco.com/a-year-for-blogging
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-05 00:00
+- id: https://ok.spacetypeco.com/streaming-nothing
+  title: streaming nothing
+  url: https://ok.spacetypeco.com/streaming-nothing
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2024-12-30 00:00
+- id: https://ok.spacetypeco.com/small-sites-and-little-rings
+  title: small sites and little rings
+  url: https://ok.spacetypeco.com/small-sites-and-little-rings
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2024-12-26 00:00
 - id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
   title: Lessons from a Year Abroad
   url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
