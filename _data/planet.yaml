@@ -1111,6 +1111,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/music/show-house-of-abundance-at-home-2025-04-12/
+  title: 'Show: Inkjetski @ House of Abundance (at home) 2025-04-12'
+  url: https://exch.gr/music/show-house-of-abundance-at-home-2025-04-12/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-04-10 02:04
 - id: https://exch.gr/music/show-adam-lagreca-opening-for-pete-mancini-mercury-lounge-2025-03-27/
   title: 'Show: Adam LaGreca opening for Pete Mancini @ Mercury Lounge 2025-03-27'
   url: https://exch.gr/music/show-adam-lagreca-opening-for-pete-mancini-mercury-lounge-2025-03-27/
@@ -1232,15 +1244,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2025-01-28 23:04
-- id: https://exch.gr/photography/snowtography-winter-2025/
-  title: 'Snowtography: Winter 2025'
-  url: https://exch.gr/photography/snowtography-winter-2025/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2025-01-24 19:43
