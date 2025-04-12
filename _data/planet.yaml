@@ -264,6 +264,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-12-05 21:13
+- id: https://www.stevegattuso.me/2025/04/12/paper.html
+  title: Paper
+  url: https://www.stevegattuso.me/2025/04/12/paper.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-04-12 00:00
 - id: https://www.stevegattuso.me/2025/04/09/honduran-island-invasion.html
   title: The time Honduran students invaded a CIA-occupied island
   url: https://www.stevegattuso.me/2025/04/09/honduran-island-invasion.html
@@ -372,18 +384,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2024-12-31 00:00
-- id: https://www.stevegattuso.me/2024/12/29/things-miss-munich.html
-  title: Things I'll miss from Munich
-  url: https://www.stevegattuso.me/2024/12/29/things-miss-munich.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2024-12-29 00:00
 - id: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
   title: Presenting the OpenLibrary <> Wikidata Integration at Data Reuse Days 2025
   url: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
