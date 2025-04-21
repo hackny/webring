@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2023-07-18 20:44
+- id: https://newsletter.hackny.org/archive/alumny-event-hackny-spring-is-sunday-pay-what-you/
+  title: "[alumNY Event] hackNY Spring is Sunday! Pay what you can pricing."
+  url: https://newsletter.hackny.org/archive/alumny-event-hackny-spring-is-sunday-pay-what-you/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-04-21 17:03
 - id: https://newsletter.hackny.org/archive/alumny-news-weddings-hackathon-winners-and-more/
   title: "[alumNY News] Weddings, Hackathon Winners and more!"
   url: https://newsletter.hackny.org/archive/alumny-news-weddings-hackathon-winners-and-more/
@@ -251,19 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-12-19 21:49
-- id: https://newsletter.hackny.org/archive/alumny-news-hacknights-begin-this-month/
-  title: "[alumNY News] hackNights begin this month! +Fundraising & Fiscal Sponsorship
-    Updates"
-  url: https://newsletter.hackny.org/archive/alumny-news-hacknights-begin-this-month/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-12-05 21:13
 - id: https://www.stevegattuso.me/2025/04/12/paper.html
   title: Paper
   url: https://www.stevegattuso.me/2025/04/12/paper.html
