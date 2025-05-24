@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-12-19 21:49
+- id: https://www.stevegattuso.me/2025/05/24/who-cares-era.html
+  title: ↗ Quoting Dan Sinker from "The Who Cares Era"
+  url: https://www.stevegattuso.me/2025/05/24/who-cares-era.html
+  fellow:
+    name: Steve Gattuso
+    year: 2013
+    url: https://www.stevegattuso.me
+    rss_url: https://www.stevegattuso.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-05-23 20:00
 - id: https://www.stevegattuso.me/2025/05/02/preserving-values.html
   title: Preserving values and culture in a time of threat
   url: https://www.stevegattuso.me/2025/05/02/preserving-values.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-07 19:00
-- id: https://www.stevegattuso.me/2025/01/07/crunch.html
-  title: Crunch
-  url: https://www.stevegattuso.me/2025/01/07/crunch.html
-  fellow:
-    name: Steve Gattuso
-    year: 2013
-    url: https://www.stevegattuso.me
-    rss_url: https://www.stevegattuso.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-01-06 19:00
 - id: https://blog.rayberger.org/coolify-fastapi-uv
   title: Building a FastAPI or Flask app in Coolify with UV
   url: https://blog.rayberger.org/coolify-fastapi-uv
