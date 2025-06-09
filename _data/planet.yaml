@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2023-07-18 20:44
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-june-09/
+  title: "[hackNY News] 2025 Weekly Fellowship - June 09"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-june-09/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-06-09 21:35
 - id: https://newsletter.hackny.org/archive/alumny-news-happy-class-of-2025/
   title: "[alumNY News] Happy Class of 2025"
   url: https://newsletter.hackny.org/archive/alumny-news-happy-class-of-2025/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-01-23 18:02
-- id: https://newsletter.hackny.org/archive/alumny-news-fundraising-update-hacknight-nyc-mesh/
-  title: "[alumNY News] Fundraising update & hackNight @ NYC Mesh"
-  url: https://newsletter.hackny.org/archive/alumny-news-fundraising-update-hacknight-nyc-mesh/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-01-16 17:59
 - id: https://www.stevegattuso.me/2025/05/28/new-recipe-mexican-rice.html
   title: "↗ New recipe: Mexican rice"
   url: https://www.stevegattuso.me/2025/05/28/new-recipe-mexican-rice.html
