@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2023-07-18 20:44
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
+  title: "[hackNY News] 2025 Weekly Fellowship - Jun 15"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-06-16 20:30
 - id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-june-09/
   title: "[hackNY News] 2025 Weekly Fellowship - June 09"
   url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-june-09/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-01-30 15:29
-- id: https://newsletter.hackny.org/archive/alumny-news-hackny-is-growing/
-  title: "[alumNY News] hackNY is growing!"
-  url: https://newsletter.hackny.org/archive/alumny-news-hackny-is-growing/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-01-23 18:02
 - id: https://www.stevegattuso.me/2025/06/10/hoboken.html
   title: Hoboken
   url: https://www.stevegattuso.me/2025/06/10/hoboken.html
