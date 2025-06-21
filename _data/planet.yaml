@@ -1,4 +1,136 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67bf4dbee7a48d1b9647d2c2
+  title: Announcing the hackNY Spring Conference
+  url: https://hackny.org/blog/announcing-hackny-spring
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-02-26 18:04
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:675096540f34682ec0eb19ae
+  title: hackNY Announces Fiscal Sponsorship
+  url: https://hackny.org/blog/hackny-fiscal-sponsorship
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-12-05 20:56
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6732240cfcc1041b38c6870e
+  title: 'Application Spotlight: Luna'
+  url: https://hackny.org/blog/application-spotlight-luna
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-11 15:49
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:672cdbb8db1c605cdfc33c55
+  title: 'Application Spotlight: Pauline'
+  url: https://hackny.org/blog/application-spotlight-pauline
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-07 15:34
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6728f816d65f452338f29827
+  title: 'Application Spotlight: Dlet'
+  url: https://hackny.org/blog/application-spotlight-dlet
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-11-04 16:36
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67190d5636f942652a91d568
+  title: 'Application Spotlight: Gloria'
+  url: https://hackny.org/blog/application-spotlight-gloria
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-25 14:45
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f583c0eb924e0860a66b7d
+  title: 'One of the Best Summers Ever: My HackNY Fellowship Experience'
+  url: https://hackny.org/blog/best-summers-ever
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-10-03 15:54
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f57c1da4288b2a72ed93a3
+  title: My hackNY Adventure
+  url: https://hackny.org/blog/hackny-adventure
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-09-26 15:52
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66c65247a06df11fc455ec52
+  title: Reflecting on the 2024 hackNY Fellowship
+  url: https://hackny.org/blog/reflecting-on-the-2024-hackny-fellowship
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-08-21 20:47
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:668300508597c02e3426989e
+  title: Announcing the Class of 2024 hackNY Fellows!
+  url: https://hackny.org/blog/2024/05/class-of-2024
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2024-05-27 19:53
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:668314eba362910a1806c0bc
+  title: Announcing the Class of 2023 hackNY Fellows!
+  url: https://hackny.org/blog/y5bbjr0x82shgli52242sryjx7j1w5
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2023-07-18 20:44
 - id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
   title: "[hackNY News] 2025 Weekly Fellowship - Jun 15"
   url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
@@ -746,106 +878,6 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2024-12-26 00:00
-- id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
-  title: Lessons from a Year Abroad
-  url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-08-03 00:00
-- id: https://blog.vinaybhaip.com/2024/03/24/sealed
-  title: 'Sealed: Custom Wax Seal NFC Tags'
-  url: https://blog.vinaybhaip.com/2024/03/24/sealed
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-03-24 00:00
-- id: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  title: Dissonant Trails
-  url: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2022-03-12 00:00
-- id: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  title: Perlin Planets
-  url: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-26 00:00
-- id: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  title: 2020 Favorites
-  url: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-13 00:00
-- id: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
-  title: 'From the Sets Rises the Numbers: Constructing the Reals'
-  url: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-11-22 00:00
-- id: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
-  title: 'Everything is a Set: Constructing the Reals'
-  url: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-11-15 00:00
-- id: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
-  title: Summer of Stories
-  url: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-10-24 00:00
-- id: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
-  title: Building a Scrollytelling Visualization
-  url: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-10-11 00:00
-- id: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
-  title: 'Visualized: My Spotify Listening Patterns'
-  url: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-08-22 00:00
 - id: https://saewitz.com/code-lifecycles
   title: Code Lifecycles
   url: https://saewitz.com/code-lifecycles
