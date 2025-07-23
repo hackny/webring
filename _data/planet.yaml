@@ -131,6 +131,66 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2023-07-18 20:44
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-20/
+  title: "[hackNY News] 2025 Fellowship Weekly – Jul 20"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-20/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-07-21 00:03
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-13/
+  title: "[hackNY News] 2025 Fellowship Weekly – Jul 13"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-13/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-07-14 01:05
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-7/
+  title: "[hackNY News] 2025 Fellowship Weekly – Jul 7"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-7/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-07-07 18:19
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-29/
+  title: "[hackNY News] 2025 Fellowship Weekly – Jun 29"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-29/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-06-30 01:51
+- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-23/
+  title: "[hackNY News] 2025 Fellowship Weekly – Jun 23"
+  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-23/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-06-24 01:47
 - id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
   title: "[hackNY News] 2025 Weekly Fellowship - Jun 15"
   url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
@@ -203,66 +263,126 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-03-14 20:30
-- id: https://newsletter.hackny.org/archive/alumny-news-events-and-updates/
-  title: "[alumNY News] Events and updates"
-  url: https://newsletter.hackny.org/archive/alumny-news-events-and-updates/
+- id: https://www.vesto.me/2025/06/10/hoboken.html
+  title: Hoboken
+  url: https://www.vesto.me/2025/06/10/hoboken.html
   fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-03-13 23:01
-- id: https://newsletter.hackny.org/archive/exclusive-invite-hackny-spring/
-  title: 'Exclusive Invite: hackNY''s Inaugural Brooklyn Conference April 27th'
-  url: https://newsletter.hackny.org/archive/exclusive-invite-hackny-spring/
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-06-09 20:00
+- id: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
+  title: "↗ New recipe: Mexican rice"
+  url: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
   fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-02-27 17:58
-- id: https://newsletter.hackny.org/archive/alumny-news-help-alumny-get-jobs-andor-become-a/
-  title: "[alumNY News] Help alumNY get jobs and/or become a Mentor"
-  url: https://newsletter.hackny.org/archive/alumny-news-help-alumny-get-jobs-andor-become-a/
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-05-27 20:00
+- id: https://www.vesto.me/2025/05/24/who-cares-era.html
+  title: ↗ Quoting Dan Sinker from "The Who Cares Era"
+  url: https://www.vesto.me/2025/05/24/who-cares-era.html
   fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-02-20 17:46
-- id: https://newsletter.hackny.org/archive/alumny-news-hackny-spring-conference-and-feb/
-  title: "[alumNY News] hackNY Spring Conference and Feb hackNight"
-  url: https://newsletter.hackny.org/archive/alumny-news-hackny-spring-conference-and-feb/
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-05-23 20:00
+- id: https://www.vesto.me/2025/05/02/preserving-values.html
+  title: Preserving values and culture in a time of threat
+  url: https://www.vesto.me/2025/05/02/preserving-values.html
   fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-02-13 21:08
-- id: https://newsletter.hackny.org/archive/alumny-invite-technical-interview-practice-for/
-  title: "[alumNY Invite] Technical Interview Practice for h`25 and alumNY"
-  url: https://newsletter.hackny.org/archive/alumny-invite-technical-interview-practice-for/
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-05-01 20:00
+- id: https://www.vesto.me/2025/04/12/paper.html
+  title: Paper
+  url: https://www.vesto.me/2025/04/12/paper.html
   fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-01-30 15:29
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-04-12 00:00
+- id: https://www.vesto.me/2025/04/09/honduran-island-invasion.html
+  title: The time Honduran students invaded a CIA-occupied island
+  url: https://www.vesto.me/2025/04/09/honduran-island-invasion.html
+  fellow:
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-04-09 00:00
+- id: https://www.vesto.me/2025/02/28/inwood-to-battery.html
+  title: Walking from Inwood to Battery
+  url: https://www.vesto.me/2025/02/28/inwood-to-battery.html
+  fellow:
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-02-27 19:00
+- id: https://www.vesto.me/2025/02/06/quoting-elle-mundy.html
+  title: ↗ Quoting Elle Mundy on "Leaving Instagram in the dust"
+  url: https://www.vesto.me/2025/02/06/quoting-elle-mundy.html
+  fellow:
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-02-05 19:00
+- id: https://www.vesto.me/2025/01/20/crunch-pt-2.html
+  title: Crunch (pt 2)
+  url: https://www.vesto.me/2025/01/20/crunch-pt-2.html
+  fellow:
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-01-19 19:00
+- id: https://www.vesto.me/2025/01/17/illegible-club.html
+  title: 'Illegible Club: a Mastodon instance for friends'
+  url: https://www.vesto.me/2025/01/17/illegible-club.html
+  fellow:
+    name: vesto
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-01-16 19:00
 - id: https://blog.rayberger.org/coolify-fastapi-uv
   title: Building a FastAPI or Flask app in Coolify with UV
   url: https://blog.rayberger.org/coolify-fastapi-uv
@@ -758,6 +878,18 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
+- id: https://ok.spacetypeco.com/new-york-outside-the-city
+  title: new york, outside the city
+  url: https://ok.spacetypeco.com/new-york-outside-the-city
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-25 00:00
 - id: https://ok.spacetypeco.com/collecting-and-appreciating
   title: collecting and appreciating
   url: https://ok.spacetypeco.com/collecting-and-appreciating
@@ -878,106 +1010,18 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2024-12-26 00:00
-- id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
-  title: Lessons from a Year Abroad
-  url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
+- id: https://saewitz.com/agentic-coding-is-a-fundamental-shift
+  title: Agentic Coding Is A Fundamental Shift
+  url: https://saewitz.com/agentic-coding-is-a-fundamental-shift
   fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-08-03 00:00
-- id: https://blog.vinaybhaip.com/2024/03/24/sealed
-  title: 'Sealed: Custom Wax Seal NFC Tags'
-  url: https://blog.vinaybhaip.com/2024/03/24/sealed
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-03-24 00:00
-- id: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  title: Dissonant Trails
-  url: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2022-03-12 00:00
-- id: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  title: Perlin Planets
-  url: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-26 00:00
-- id: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  title: 2020 Favorites
-  url: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-13 00:00
-- id: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
-  title: 'From the Sets Rises the Numbers: Constructing the Reals'
-  url: https://blog.vinaybhaip.com/2020/11/22/sets-to-numbers
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-11-22 00:00
-- id: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
-  title: 'Everything is a Set: Constructing the Reals'
-  url: https://blog.vinaybhaip.com/2020/11/15/everything-is-a-set
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-11-15 00:00
-- id: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
-  title: Summer of Stories
-  url: https://blog.vinaybhaip.com/2020/10/24/summer-of-stories
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-10-24 00:00
-- id: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
-  title: Building a Scrollytelling Visualization
-  url: https://blog.vinaybhaip.com/2020/10/11/spotify-vis-intro
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-10-11 00:00
-- id: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
-  title: 'Visualized: My Spotify Listening Patterns'
-  url: https://blog.vinaybhaip.com/2020/08/22/spotify-artist-viz
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2020-08-22 00:00
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2025-07-22 00:00
 - id: https://saewitz.com/code-lifecycles
   title: Code Lifecycles
   url: https://saewitz.com/code-lifecycles
