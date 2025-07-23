@@ -9,3 +9,6 @@ git pull
 
 git commit -am "Automated deploy"
 git push
+
+# Notify monitoring service
+curl https://hc-ping.com/f23b4ebb-b035-44c5-b100-9d263c64194b 
