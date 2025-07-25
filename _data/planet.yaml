@@ -494,6 +494,19 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-12-02 22:53
+- id: 2025-07-20-reclaiming-baptism
+  title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
+    on July 20th)'
+  url: https://liaokev.in/2025-07-20-reclaiming-baptism
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2025-07-20 14:00
 - id: 2024-11-18-can-we-break-cycles
   title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
   url: https://liaokev.in/2024-11-18-can-we-break-cycles
@@ -614,18 +627,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2020-08-23 12:00
-- id: 2018-10-31-voting-guide
-  title: How Do I Vote?
-  url: https://liaokev.in/2018-10-31-voting-guide
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2018-10-31 05:00
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
