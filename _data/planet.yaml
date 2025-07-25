@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-03-14 20:30
+- id: https://www.vesto.me/2025/07/24/im-back.html
+  title: I'm back!
+  url: https://www.vesto.me/2025/07/24/im-back.html
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-07-23 20:00
 - id: https://www.vesto.me/2025/06/10/hoboken.html
   title: Hoboken
   url: https://www.vesto.me/2025/06/10/hoboken.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
-- id: https://www.vesto.me/2025/01/17/illegible-club.html
-  title: 'Illegible Club: a Mastodon instance for friends'
-  url: https://www.vesto.me/2025/01/17/illegible-club.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-01-16 19:00
 - id: https://blog.rayberger.org/coolify-fastapi-uv
   title: Building a FastAPI or Flask app in Coolify with UV
   url: https://blog.rayberger.org/coolify-fastapi-uv
