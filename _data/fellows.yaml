@@ -101,4 +101,9 @@
   url: https://aadriien.github.io
   image: https://raw.githubusercontent.com/aadriien/aadriien.github.io/refs/heads/main/assets/images/github-avatar-aadriien-outlined.png
   description: "A personal site with playful and interactive touches. Sometimes used as a sandbox for experimenting."
-
+- name: Alex Berke - Beautiful Symmetry
+  year: 2013
+  url: http://beautifulsymmetry.onl
+  emoji: ✧
+  image: https://aberke.github.io/fractals/img/sierpinski-triangle.png
+  description: "A playful introduction to group theory. This is a coloring book about math that is both digital and on paper. The illustrations represent groups and come to life on the web in interactive animations."
