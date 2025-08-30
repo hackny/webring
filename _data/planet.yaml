@@ -383,6 +383,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
+- id: https://blog.rayberger.org/third-party-launchers-on-android-16
+  title: Do Third-Party Launchers Work Well on Android 16? (yes)
+  url: https://blog.rayberger.org/third-party-launchers-on-android-16
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-08-30 00:15
 - id: https://blog.rayberger.org/coolify-fastapi-uv
   title: Building a FastAPI or Flask app in Coolify with UV
   url: https://blog.rayberger.org/coolify-fastapi-uv
@@ -484,16 +494,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-12-27 05:00
-- id: https://blog.rayberger.org/google-gemini-past-calendar-events
-  title: Google Gemini Can Create Past Calendar Events (Finally!)
-  url: https://blog.rayberger.org/google-gemini-past-calendar-events
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-12-02 22:53
 - id: 2025-07-20-reclaiming-baptism
   title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
     on July 20th)'
