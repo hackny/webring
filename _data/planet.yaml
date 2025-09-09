@@ -383,6 +383,117 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
+- id: https://blog.rayberger.org/third-party-launchers-on-android-16
+  title: Do Third-Party Launchers Work Well on Android 16? (yes)
+  url: https://blog.rayberger.org/third-party-launchers-on-android-16
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-08-30 00:15
+- id: https://blog.rayberger.org/coolify-fastapi-uv
+  title: Building a FastAPI or Flask app in Coolify with UV
+  url: https://blog.rayberger.org/coolify-fastapi-uv
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-27 05:32
+- id: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
+  title: Presenting the OpenLibrary <> Wikidata Integration at Data Reuse Days 2025
+  url: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-07 06:35
+- id: https://blog.rayberger.org/orlando-code-camp-2025
+  title: Orlando Code Camp 2025
+  url: https://blog.rayberger.org/orlando-code-camp-2025
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-07 06:13
+- id: https://blog.rayberger.org/polishing-nextcloud-tasks
+  title: Polishing Nextcloud Tasks
+  url: https://blog.rayberger.org/polishing-nextcloud-tasks
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-02-02 08:44
+- id: https://blog.rayberger.org/vue-migration-part-2
+  title: Vue Migration Part 2 - A Simple Solution Emerges
+  url: https://blog.rayberger.org/vue-migration-part-2
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-02-02 06:05
+- id: https://blog.rayberger.org/2024-in-review
+  title: 2024 in Review
+  url: https://blog.rayberger.org/2024-in-review
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-31 03:06
+- id: https://blog.rayberger.org/vue-3-web-components-open-library
+  title: Migrating Web Components from Vue 2 to Vue 3 at Open Library
+  url: https://blog.rayberger.org/vue-3-web-components-open-library
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-18 00:56
+- id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
+  title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
+  url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-14 02:25
+- id: https://blog.rayberger.org/a-morning-in-bogota
+  title: A Morning in Bogota
+  url: https://blog.rayberger.org/a-morning-in-bogota
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-10 23:57
+- id: https://blog.rayberger.org/eckerd-quickstatements
+  title: 'My First Wikidata QuickStatements Project: Documenting Professors at Eckerd
+    College'
+  url: https://blog.rayberger.org/eckerd-quickstatements
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2024-12-27 05:00
 - id: 2025-07-20-reclaiming-baptism
   title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
     on July 20th)'
