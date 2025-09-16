@@ -494,6 +494,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2024-12-27 05:00
+- id: 2025-09-16-moving-off-betterment
+  title: Moving off Betterment
+  url: https://liaokev.in/2025-09-16-moving-off-betterment
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2025-09-16 14:00
 - id: 2025-07-20-reclaiming-baptism
   title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
     on July 20th)'
@@ -615,18 +627,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2023-05-21 12:00
-- id: 2020-08-23-goodbye-mac
-  title: Taking a Stance with a Computer Purchase
-  url: https://liaokev.in/2020-08-23-goodbye-mac
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2020-08-23 12:00
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
