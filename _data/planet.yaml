@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-05-27 19:53
+- id: https://newsletter.hackny.org/archive/alumny-town-halls-to-get-feedback-on-h26/
+  title: alumNY Town halls to get feedback on `h26
+  url: https://newsletter.hackny.org/archive/alumny-town-halls-to-get-feedback-on-h26/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-09-22 15:00
 - id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-aug-3/
   title: "[hackNY News] 2025 Fellowship Weekly – Aug 3"
   url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-aug-3/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-05-28 17:44
-- id: https://newsletter.hackny.org/archive/alumny-event-hackny-spring-is-sunday-pay-what-you/
-  title: "[alumNY Event] hackNY Spring is Sunday! Pay what you can pricing."
-  url: https://newsletter.hackny.org/archive/alumny-event-hackny-spring-is-sunday-pay-what-you/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-04-21 17:03
 - id: https://www.vesto.me/2025/07/24/im-back.html
   title: I'm back!
   url: https://www.vesto.me/2025/07/24/im-back.html
