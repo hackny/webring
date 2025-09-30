@@ -12,7 +12,9 @@ git commit -am "Automated deploy"
 git push
 
 # Trigger Zulip blog watcher
-/home/steve/Code/python-zulip-api/.direnv/python-3.13/bin/python ./zulip/integrations/rss/rss-bot --stream=blog-posts
+/home/steve/Code/python-zulip-api/.direnv/python-3.13/bin/python \
+	/home/steve/Code/python-zulip-api/zulip/integrations/rss/rss-bot \
+	--stream=blog-posts
 
 # Notify monitoring service
 curl https://hc-ping.com/f23b4ebb-b035-44c5-b100-9d263c64194b 
