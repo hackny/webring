@@ -1063,6 +1063,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/music/shows-adam-la-greca-2025-10-23-25/
+  title: 'Shows: Adam LaGreca 2025-10-23 @ People''s Pub, 2025-10-25 @ Bowery Electric'
+  url: https://exch.gr/music/shows-adam-la-greca-2025-10-23-25/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-10-14 00:28
 - id: https://exch.gr/code/wcepr/
   title: Wikipedia Current Events Portal RSS
   url: https://exch.gr/code/wcepr/
@@ -1183,15 +1195,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2025-05-08 23:30
-- id: https://exch.gr/music/show-adam-lagreca-sleepwalk-2025-05-23/
-  title: 'Show: Adam LaGreca @ Sleepwalk 2025-05-23'
-  url: https://exch.gr/music/show-adam-lagreca-sleepwalk-2025-05-23/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2025-05-01 22:59
