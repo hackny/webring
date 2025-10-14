@@ -383,6 +383,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
+- id: https://blog.rayberger.org/flixbus-wifi
+  title: Does FlixBus have free WiFi? (Yes, 250MB)
+  url: https://blog.rayberger.org/flixbus-wifi
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-10-14 01:48
 - id: https://blog.rayberger.org/third-party-launchers-on-android-16
   title: Do Third-Party Launchers Work Well on Android 16? (yes)
   url: https://blog.rayberger.org/third-party-launchers-on-android-16
@@ -483,17 +493,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2025-01-10 23:57
-- id: https://blog.rayberger.org/eckerd-quickstatements
-  title: 'My First Wikidata QuickStatements Project: Documenting Professors at Eckerd
-    College'
-  url: https://blog.rayberger.org/eckerd-quickstatements
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2024-12-27 05:00
 - id: 2025-09-16-moving-off-betterment
   title: Moving off Betterment
   url: https://liaokev.in/2025-09-16-moving-off-betterment
