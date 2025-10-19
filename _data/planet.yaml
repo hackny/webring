@@ -1194,6 +1194,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/photography/no-kings-2025-10-18/
+  title: No Kings 2025-10-18
+  url: https://exch.gr/photography/no-kings-2025-10-18/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-10-19 20:26
 - id: https://exch.gr/music/shows-adam-la-greca-2025-10-23-25/
   title: 'Shows: Adam LaGreca 2025-10-23 @ People''s Pub, 2025-10-25 @ Bowery Electric'
   url: https://exch.gr/music/shows-adam-la-greca-2025-10-23-25/
@@ -1314,15 +1326,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2025-05-13 00:15
-- id: https://exch.gr/photography/barcelona-part-i/
-  title: 'Barcelona, Part I: Travel, Tapas, Towers'
-  url: https://exch.gr/photography/barcelona-part-i/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2025-05-08 23:30
