@@ -383,139 +383,116 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
-- id: 2025-09-16-moving-off-betterment
-  title: Moving off Betterment
-  url: https://liaokev.in/2025-09-16-moving-off-betterment
+- id: https://blog.rayberger.org/flixbus-wifi
+  title: Does FlixBus have free WiFi? (Yes, 250MB)
+  url: https://blog.rayberger.org/flixbus-wifi
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2025-09-16 14:00
-- id: 2025-07-20-reclaiming-baptism
-  title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
-    on July 20th)'
-  url: https://liaokev.in/2025-07-20-reclaiming-baptism
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-10-14 01:48
+- id: https://blog.rayberger.org/third-party-launchers-on-android-16
+  title: Do Third-Party Launchers Work Well on Android 16? (yes)
+  url: https://blog.rayberger.org/third-party-launchers-on-android-16
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2025-07-20 14:00
-- id: 2024-11-18-can-we-break-cycles
-  title: 'Prophets Are People Too: Can We Break Cycles? (My First Sermon)'
-  url: https://liaokev.in/2024-11-18-can-we-break-cycles
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-08-30 00:15
+- id: https://blog.rayberger.org/coolify-fastapi-uv
+  title: Building a FastAPI or Flask app in Coolify with UV
+  url: https://blog.rayberger.org/coolify-fastapi-uv
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-12-01 15:50
-- id: 2024-11-14-apta-questions
-  title: My APTA Emerging Leaders Program Application Responses
-  url: https://liaokev.in/2024-11-14-apta-questions
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-27 05:32
+- id: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
+  title: Presenting the OpenLibrary <> Wikidata Integration at Data Reuse Days 2025
+  url: https://blog.rayberger.org/presenting-the-openlibrary-wikidata-integration-at-data-reuse-days-2025
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-11-14 14:46
-- id: 2024-11-13-comments-bluesky
-  title: 'Blog Comments, Powered by Bluesky (Plus: Getting started with Bluesky)'
-  url: https://liaokev.in/2024-11-13-comments-bluesky
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-07 06:35
+- id: https://blog.rayberger.org/orlando-code-camp-2025
+  title: Orlando Code Camp 2025
+  url: https://blog.rayberger.org/orlando-code-camp-2025
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-11-13 14:15
-- id: 2024-05-16-drag-queen
-  title: Christian Hope and Nymphia Wind at the Presidential Palace
-  url: https://liaokev.in/2024-05-16-drag-queen
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-04-07 06:13
+- id: https://blog.rayberger.org/polishing-nextcloud-tasks
+  title: Polishing Nextcloud Tasks
+  url: https://blog.rayberger.org/polishing-nextcloud-tasks
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-05-16 05:55
-- id: 2024-04-22-email
-  title: Email is Good, Actually.
-  url: https://liaokev.in/2024-04-22-email
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-02-02 08:44
+- id: https://blog.rayberger.org/vue-migration-part-2
+  title: Vue Migration Part 2 - A Simple Solution Emerges
+  url: https://blog.rayberger.org/vue-migration-part-2
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-04-22 20:30
-- id: 2024-03-01-the-randomness-of-bad-and-good-things
-  title: The Randomness of Bad and Good Things
-  url: https://liaokev.in/2024-03-01-the-randomness-of-bad-and-good-things
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-02-02 06:05
+- id: https://blog.rayberger.org/2024-in-review
+  title: 2024 in Review
+  url: https://blog.rayberger.org/2024-in-review
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-02-29 20:30
-- id: 2024-02-20-cringe-and-content-creation
-  title: When is Self-Promotion Cringe?
-  url: https://liaokev.in/2024-02-20-cringe-and-content-creation
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-31 03:06
+- id: https://blog.rayberger.org/vue-3-web-components-open-library
+  title: Migrating Web Components from Vue 2 to Vue 3 at Open Library
+  url: https://blog.rayberger.org/vue-3-web-components-open-library
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-02-19 17:30
-- id: 2024-02-18-taipei-guide
-  title: Website Rewrite and Taipei Travel Guide
-  url: https://liaokev.in/2024-02-18-taipei-guide
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-18 00:56
+- id: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
+  title: 'Cleaning Up Legacy Data: From Wikipedia Links to Wikidata IDs in Open Library'
+  url: https://blog.rayberger.org/cleaning-up-legacy-wikipedia-links
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-02-19 02:00
-- id: 2023-05-21-baptism-statement
-  title: Baptism Statement
-  url: https://liaokev.in/2023-05-21-baptism-statement
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-14 02:25
+- id: https://blog.rayberger.org/a-morning-in-bogota
+  title: A Morning in Bogota
+  url: https://blog.rayberger.org/a-morning-in-bogota
   fellow:
-    name: Kevin Liao
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
     year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2023-05-21 12:00
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-01-10 23:57
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
