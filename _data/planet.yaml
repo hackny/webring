@@ -383,6 +383,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-01-19 19:00
+- id: https://blog.rayberger.org/how-to-convert-strings-to-wikidata-qids
+  title: How to Convert Strings to Wikidata QIDs
+  url: https://blog.rayberger.org/how-to-convert-strings-to-wikidata-qids
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2025-10-29 07:07
 - id: https://blog.rayberger.org/flixbus-wifi
   title: Does FlixBus have free WiFi? (Yes, 250MB)
   url: https://blog.rayberger.org/flixbus-wifi
@@ -483,16 +493,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2025-01-14 02:25
-- id: https://blog.rayberger.org/a-morning-in-bogota
-  title: A Morning in Bogota
-  url: https://blog.rayberger.org/a-morning-in-bogota
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2025-01-10 23:57
 - id: 2025-09-16-moving-off-betterment
   title: Moving off Betterment
   url: https://liaokev.in/2025-09-16-moving-off-betterment
