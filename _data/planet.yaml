@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-06-09 21:35
+- id: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
+  title: Walking from LIC to Flushing (Queens)
+  url: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2025-11-11 19:00
 - id: https://www.vesto.me/2025/07/24/im-back.html
   title: I'm back!
   url: https://www.vesto.me/2025/07/24/im-back.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-02-05 19:00
-- id: https://www.vesto.me/2025/01/20/crunch-pt-2.html
-  title: Crunch (pt 2)
-  url: https://www.vesto.me/2025/01/20/crunch-pt-2.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-01-19 19:00
 - id: https://blog.rayberger.org/how-to-convert-strings-to-wikidata-qids
   title: How to Convert Strings to Wikidata QIDs
   url: https://blog.rayberger.org/how-to-convert-strings-to-wikidata-qids
