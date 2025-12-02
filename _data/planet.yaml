@@ -878,9 +878,33 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-02-22 20:39
+- id: https://ok.spacetypeco.com/2025-seoul-south-korea
+  title: "(2025) Seoul, South Korea"
+  url: https://ok.spacetypeco.com/2025-seoul-south-korea
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-12-02 16:30
 - id: https://ok.spacetypeco.com/new-york-outside-the-city
   title: new york, outside the city
   url: https://ok.spacetypeco.com/new-york-outside-the-city
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-25 00:00
+- id: https://ok.spacetypeco.com/hikes-around-new-york-city
+  title: Hikes around New York City
+  url: https://ok.spacetypeco.com/hikes-around-new-york-city
   fellow:
     name: Kevin Yeh
     year: 2015
@@ -986,30 +1010,6 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-01-05 00:00
-- id: https://ok.spacetypeco.com/streaming-nothing
-  title: streaming nothing
-  url: https://ok.spacetypeco.com/streaming-nothing
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2024-12-30 00:00
-- id: https://ok.spacetypeco.com/small-sites-and-little-rings
-  title: small sites and little rings
-  url: https://ok.spacetypeco.com/small-sites-and-little-rings
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2024-12-26 00:00
 - id: https://saewitz.com/coding-is-changed-forever
   title: Coding Is Changed Forever
   url: https://saewitz.com/coding-is-changed-forever
