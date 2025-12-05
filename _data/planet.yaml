@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-05-27 19:53
+- id: https://newsletter.hackny.org/archive/announcement-hackny-board-changes/
+  title: 'Announcement: hackNY Board Changes'
+  url: https://newsletter.hackny.org/archive/announcement-hackny-board-changes/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2025-12-05 12:00
 - id: https://newsletter.hackny.org/archive/support-hackny-this-giving-tuesday/
   title: Support hackNY this Giving Tuesday!
   url: https://newsletter.hackny.org/archive/support-hackny-this-giving-tuesday/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-06-24 01:47
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
-  title: "[hackNY News] 2025 Weekly Fellowship - Jun 15"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-weekly-fellowship-jun-15/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-06-16 20:30
 - id: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
   title: Walking from LIC to Flushing (Queens)
   url: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
