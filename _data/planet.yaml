@@ -902,6 +902,18 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-06-25 00:00
+- id: https://ok.spacetypeco.com/hikes-around-new-york-city
+  title: Hikes around New York City
+  url: https://ok.spacetypeco.com/hikes-around-new-york-city
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-25 00:00
 - id: https://ok.spacetypeco.com/collecting-and-appreciating
   title: collecting and appreciating
   url: https://ok.spacetypeco.com/collecting-and-appreciating
@@ -998,18 +1010,6 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-01-05 00:00
-- id: https://ok.spacetypeco.com/streaming-nothing
-  title: streaming nothing
-  url: https://ok.spacetypeco.com/streaming-nothing
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2024-12-30 00:00
 - id: https://saewitz.com/coding-is-changed-forever
   title: Coding Is Changed Forever
   url: https://saewitz.com/coding-is-changed-forever
