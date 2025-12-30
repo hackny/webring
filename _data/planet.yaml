@@ -1194,6 +1194,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/photography/jackson-heights-sunnyside/
+  title: Jackson Heights—Sunnyside
+  url: https://exch.gr/photography/jackson-heights-sunnyside/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2025-12-30 02:59
 - id: https://exch.gr/photography/snow-2025-12-27/
   title: Snow 2025-12-27
   url: https://exch.gr/photography/snow-2025-12-27/
@@ -1314,15 +1326,3 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2025-07-31 23:09
-- id: https://exch.gr/music/show-adam-lagreca-berlin-2025-06-23/
-  title: 'Show: Adam LaGreca opening for The Wholesome Boys @ Berlin 2025-06-23'
-  url: https://exch.gr/music/show-adam-lagreca-berlin-2025-06-23/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2025-06-21 15:32
