@@ -746,18 +746,6 @@
     description: Food blog where I talk about all the things I cook and eat. Tech
       blog with some random content at https://jaronoff.com/
   published_at: 2023-12-18 12:12
-- id: 6952e41cb722fe137f361ec1
-  title: Coming soon
-  url: https://brodan.biz/blog/coming-soon/
-  fellow:
-    name: Chris Hranj
-    year: 2016
-    url: https://brodan.biz
-    rss_url: https://brodan.biz/blog/rss/
-    emoji: "\U0001F327️"
-    description: A personal blog mostly about programming, sometimes about tattoos
-      or music.
-  published_at: 2025-12-29 20:27
 - id: 6956f6bc3298917e4d57252e
   title: Leveling Up with Adobe Illustrator
   url: https://brodan.biz/blog/leveling-up-adobe-illustrator/
@@ -878,6 +866,18 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: 6956f6bc3298917e4d57251e
+  title: 'Learning NFT Provenance by Example: A Bored Ape Investigation'
+  url: https://brodan.biz/blog/learning-nft-provenance-by-example/
+  fellow:
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2022-02-22 20:39
 - id: https://ok.spacetypeco.com/2025-seoul-south-korea
   title: "(2025) Seoul, South Korea"
   url: https://ok.spacetypeco.com/2025-seoul-south-korea
