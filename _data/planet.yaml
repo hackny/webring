@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-06-30 01:51
+- id: https://www.vesto.me/2026/01/08/2025-in-review.html
+  title: 2025, in review
+  url: https://www.vesto.me/2026/01/08/2025-in-review.html
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2026-01-07 19:00
 - id: https://www.vesto.me/2025/12/27/seen-while-walking.html
   title: Seen while walking
   url: https://www.vesto.me/2025/12/27/seen-while-walking.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-04-09 00:00
-- id: https://www.vesto.me/2025/02/28/inwood-to-battery.html
-  title: Walking from Inwood to Battery
-  url: https://www.vesto.me/2025/02/28/inwood-to-battery.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-02-27 19:00
 - id: 2026-01-03-houseplants
   title: I Really Like Houseplants
   url: https://liaokev.in/2026-01-03-houseplants
