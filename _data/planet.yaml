@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-05-27 19:53
+- id: https://newsletter.hackny.org/archive/alumny-news-happy-new-year/
+  title: "[alumNY News]: Happy New Year!"
+  url: https://newsletter.hackny.org/archive/alumny-news-happy-new-year/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-01-09 18:25
 - id: https://newsletter.hackny.org/archive/alumny-news-were-back/
   title: "[alumNY News]: We're Back!"
   url: https://newsletter.hackny.org/archive/alumny-news-were-back/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-07-07 18:19
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-29/
-  title: "[hackNY News] 2025 Fellowship Weekly – Jun 29"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jun-29/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-06-30 01:51
 - id: https://www.vesto.me/2026/01/08/2025-in-review.html
   title: 2025, in review
   url: https://www.vesto.me/2026/01/08/2025-in-review.html
