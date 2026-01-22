@@ -780,9 +780,9 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-12-02 16:30
-- id: https://ok.spacetypeco.com/new-york-outside-the-city
-  title: new york, outside the city
-  url: https://ok.spacetypeco.com/new-york-outside-the-city
+- id: https://ok.spacetypeco.com/hikes-around-new-york-city
+  title: Hikes around New York City
+  url: https://ok.spacetypeco.com/hikes-around-new-york-city
   fellow:
     name: Kevin Yeh
     year: 2015
@@ -792,9 +792,9 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-06-25 00:00
-- id: https://ok.spacetypeco.com/hikes-around-new-york-city
-  title: Hikes around New York City
-  url: https://ok.spacetypeco.com/hikes-around-new-york-city
+- id: https://ok.spacetypeco.com/new-york-outside-the-city
+  title: new york, outside the city
+  url: https://ok.spacetypeco.com/new-york-outside-the-city
   fellow:
     name: Kevin Yeh
     year: 2015
