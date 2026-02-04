@@ -636,138 +636,138 @@
     description: Food blog where I talk about all the things I cook and eat. Tech
       blog with some random content at https://jaronoff.com/
   published_at: 2023-12-18 12:12
-- id: https://ok.spacetypeco.com/a-visit-to-the-nybg-holiday-train-show
-  title: a visit to the NYBG holiday train show
-  url: https://ok.spacetypeco.com/a-visit-to-the-nybg-holiday-train-show
+- id: 6956f6bc3298917e4d572530
+  title: Dynamic Gmail Signatures With NGINX
+  url: https://brodan.biz/blog/dynamic-gmail-signatures/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2026-02-01 21:08
-- id: https://ok.spacetypeco.com/2025-seoul-south-korea
-  title: "(2025) Seoul, South Korea"
-  url: https://ok.spacetypeco.com/2025-seoul-south-korea
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2026-01-06 05:20
+- id: 6956f6bc3298917e4d57252e
+  title: Leveling Up with Adobe Illustrator
+  url: https://brodan.biz/blog/leveling-up-adobe-illustrator/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-12-02 16:30
-- id: https://ok.spacetypeco.com/new-york-outside-the-city
-  title: new york, outside the city
-  url: https://ok.spacetypeco.com/new-york-outside-the-city
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-08-30 03:50
+- id: 6956f6bc3298917e4d57252d
+  title: Personal Site Redesign
+  url: https://brodan.biz/blog/personal-site-redesign/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-06-25 00:00
-- id: https://ok.spacetypeco.com/hikes-around-new-york-city
-  title: Hikes around New York City
-  url: https://ok.spacetypeco.com/hikes-around-new-york-city
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-07-12 03:29
+- id: 6956f6bc3298917e4d57252c
+  title: 'Quick Read: How to Set a Default Container in a Kubernetes Manifest'
+  url: https://brodan.biz/blog/kubernetes-setting-a-default-container/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-06-25 00:00
-- id: https://ok.spacetypeco.com/collecting-and-appreciating
-  title: collecting and appreciating
-  url: https://ok.spacetypeco.com/collecting-and-appreciating
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-04-22 13:02
+- id: 6956f6bc3298917e4d57252b
+  title: 'Quick Read: Improving Build Times with Docker + Python'
+  url: https://brodan.biz/blog/improving-build-times-with-docker-python/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-06-15 00:00
-- id: https://ok.spacetypeco.com/writing-documentation
-  title: writing documentation
-  url: https://ok.spacetypeco.com/writing-documentation
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2024-04-07 06:00
+- id: 6956f6bc3298917e4d572528
+  title: A Visual Guide to Flipper Zero GUI Modules
+  url: https://brodan.biz/blog/a-visual-guide-to-flipper-zero-gui-components/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-04-25 23:27
-- id: https://ok.spacetypeco.com/permanently-closed-restaurants-that-i-liked
-  title: permanently closed restaurants that i liked
-  url: https://ok.spacetypeco.com/permanently-closed-restaurants-that-i-liked
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2023-04-25 20:45
+- id: 6956f6bc3298917e4d572524
+  title: Brodan's Tattoo Bucket List
+  url: https://brodan.biz/blog/brodans-tattoo-bucket-list/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-04-13 00:00
-- id: https://ok.spacetypeco.com/deserving-of-rest
-  title: deserving of rest
-  url: https://ok.spacetypeco.com/deserving-of-rest
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2023-03-13 05:43
+- id: 6956f6bc3298917e4d572526
+  title: 'Learning NFT Provenance by Example: Investigation Follow-Up'
+  url: https://brodan.biz/blog/learning-nft-provenance-by-example-investigation-follow-up/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-03-24 22:06
-- id: https://ok.spacetypeco.com/entering-the-market-season
-  title: entering the market season
-  url: https://ok.spacetypeco.com/entering-the-market-season
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2023-01-09 00:40
+- id: 6956f6bc3298917e4d572521
+  title: Dynamic Aspect Ratio Detection With FFmpeg
+  url: https://brodan.biz/blog/dynamic-aspect-ratio-detection-with-ffmpeg/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-02-08 22:24
-- id: https://ok.spacetypeco.com/designing-a-tiny-container-shop
-  title: designing a tiny container shop
-  url: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2022-06-09 22:22
+- id: 6956f6bc3298917e4d572520
+  title: How to Run a Private (Local) Ethereum Network with Go Ethereum
+  url: https://brodan.biz/blog/how-to-run-a-private-local-ethereum-network-with-geth/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-01-19 23:00
-- id: https://ok.spacetypeco.com/re-entry-into-workland
-  title: re-entry into workland
-  url: https://ok.spacetypeco.com/re-entry-into-workland
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2022-05-17 18:16
+- id: 6956f6bc3298917e4d57251f
+  title: 'Learning NFT Generation By Example: An Open-Source Success Story'
+  url: https://brodan.biz/blog/learning-nft-generation-by-example/
   fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-01-16 00:00
+    name: Chris Hranj
+    year: 2016
+    url: https://brodan.biz
+    rss_url: https://brodan.biz/blog/rss/
+    emoji: "\U0001F327️"
+    description: A personal blog mostly about programming, sometimes about tattoos
+      or music.
+  published_at: 2022-04-20 05:39
 - id: https://blog.vinaybhaip.com/2026/01/04/lossless-experience-transfers
   title: A Lossless Transfer of Experiences
   url: https://blog.vinaybhaip.com/2026/01/04/lossless-experience-transfers
