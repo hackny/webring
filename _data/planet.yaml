@@ -394,7 +394,7 @@
     emoji: "\U0001F68C"
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2026-01-26 21:58
+  published_at: 2026-02-05 14:52
 - id: 2026-01-26-energynet
   title: I want to live in a world with the EnergyNet
   url: https://liaokev.in/2026-01-26-energynet
@@ -768,6 +768,138 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: https://ok.spacetypeco.com/a-visit-to-the-nybg-holiday-train-show
+  title: a visit to the NYBG holiday train show
+  url: https://ok.spacetypeco.com/a-visit-to-the-nybg-holiday-train-show
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2026-02-01 21:08
+- id: https://ok.spacetypeco.com/2025-seoul-south-korea
+  title: "(2025) Seoul, South Korea"
+  url: https://ok.spacetypeco.com/2025-seoul-south-korea
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-12-02 16:30
+- id: https://ok.spacetypeco.com/new-york-outside-the-city
+  title: new york, outside the city
+  url: https://ok.spacetypeco.com/new-york-outside-the-city
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-25 00:00
+- id: https://ok.spacetypeco.com/hikes-around-new-york-city
+  title: Hikes around New York City
+  url: https://ok.spacetypeco.com/hikes-around-new-york-city
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-25 00:00
+- id: https://ok.spacetypeco.com/collecting-and-appreciating
+  title: collecting and appreciating
+  url: https://ok.spacetypeco.com/collecting-and-appreciating
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-06-15 00:00
+- id: https://ok.spacetypeco.com/writing-documentation
+  title: writing documentation
+  url: https://ok.spacetypeco.com/writing-documentation
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-04-25 23:27
+- id: https://ok.spacetypeco.com/permanently-closed-restaurants-that-i-liked
+  title: permanently closed restaurants that i liked
+  url: https://ok.spacetypeco.com/permanently-closed-restaurants-that-i-liked
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-04-13 00:00
+- id: https://ok.spacetypeco.com/deserving-of-rest
+  title: deserving of rest
+  url: https://ok.spacetypeco.com/deserving-of-rest
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-03-24 22:06
+- id: https://ok.spacetypeco.com/entering-the-market-season
+  title: entering the market season
+  url: https://ok.spacetypeco.com/entering-the-market-season
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-02-08 22:24
+- id: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  title: designing a tiny container shop
+  url: https://ok.spacetypeco.com/designing-a-tiny-container-shop
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-19 23:00
+- id: https://ok.spacetypeco.com/re-entry-into-workland
+  title: re-entry into workland
+  url: https://ok.spacetypeco.com/re-entry-into-workland
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-01-16 00:00
 - id: https://blog.vinaybhaip.com/2026/01/04/lossless-experience-transfers
   title: A Lossless Transfer of Experiences
   url: https://blog.vinaybhaip.com/2026/01/04/lossless-experience-transfers
