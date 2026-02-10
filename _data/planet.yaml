@@ -383,6 +383,18 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-04-12 00:00
+- id: 2026-02-09-feasting
+  title: This Calls for a Feast
+  url: https://liaokev.in/2026-02-09-feasting
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2026-02-10 03:21
 - id: 2026-02-05-vulnerability
   title: On Speaking Candidly
   url: https://liaokev.in/2026-02-05-vulnerability
@@ -504,18 +516,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2024-11-13 14:15
-- id: 2024-05-16-drag-queen
-  title: Christian Hope and Nymphia Wind at the Presidential Palace
-  url: https://liaokev.in/2024-05-16-drag-queen
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2024-05-16 05:55
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
