@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-05-27 19:53
+- id: https://newsletter.hackny.org/archive/alumny-news-hackathons-books-interviews-and-job/
+  title: "[alumNY News]: Hackathons, Books, Interviews, and Job Openings!"
+  url: https://newsletter.hackny.org/archive/alumny-news-hackathons-books-interviews-and-job/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-02-11 16:22
 - id: https://newsletter.hackny.org/archive/alumny-news-happy-new-year/
   title: "[alumNY News]: Happy New Year!"
   url: https://newsletter.hackny.org/archive/alumny-news-happy-new-year/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-07-14 01:05
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-7/
-  title: "[hackNY News] 2025 Fellowship Weekly – Jul 7"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-7/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-07-07 18:19
 - id: https://www.vesto.me/2026/01/18/ai-companies-will-fail.html
   title: "↗ AI companies will fail. We can salvage something from the wreckage"
   url: https://www.vesto.me/2026/01/18/ai-companies-will-fail.html
