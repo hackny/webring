@@ -928,6 +928,18 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2020-11-22 00:00
+- id: https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn
+  title: Turning Your Robot Vacuum Into a Mesh VPN
+  url: https://saewitz.com/turning-your-robot-vacuum-into-a-mesh-vpn
+  fellow:
+    name: Daniel Saewitz
+    year: 2012
+    url: https://saewitz.com
+    rss_url: https://saewitz.com/feed.xml
+    emoji: "\U0001F30E"
+    description: A personal blog on my experience as a software engineer (mostly frontend),
+      indie founder, and creative.
+  published_at: 2026-02-16 00:00
 - id: https://saewitz.com/coding-is-changed-forever
   title: Coding Is Changed Forever
   url: https://saewitz.com/coding-is-changed-forever
