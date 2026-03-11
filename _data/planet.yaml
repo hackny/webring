@@ -383,6 +383,18 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-04-12 00:00
+- id: 2026-03-10-blessing-for-deidres-hair
+  title: A Brief Blessing for Deidre's Hair
+  url: https://liaokev.in/2026-03-10-blessing-for-deidres-hair
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2026-03-11 04:00
 - id: 2026-03-05-engineer-three
   title: Engineer Three
   url: https://liaokev.in/2026-03-05-engineer-three
@@ -503,19 +515,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2025-09-16 14:00
-- id: 2025-07-20-reclaiming-baptism
-  title: 'Reclaiming Baptism: Being in Water Together (A Sermon at Oaklife Church
-    on July 20th)'
-  url: https://liaokev.in/2025-07-20-reclaiming-baptism
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2025-07-20 14:00
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
