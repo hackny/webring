@@ -827,6 +827,16 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-06-15 00:00
+- id: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
+  title: A Year of Whoop
+  url: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2026-03-19 00:00
 - id: https://blog.vinaybhaip.com/2026/03/15/inconveniencing-others
   title: Inconveniencing Others
   url: https://blog.vinaybhaip.com/2026/03/15/inconveniencing-others
@@ -917,16 +927,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2021-01-26 00:00
-- id: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  title: 2020 Favorites
-  url: https://blog.vinaybhaip.com/2021/01/13/2020-favorites
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-13 00:00
 - id: https://saewitz.com/tests-are-the-new-moat
   title: Tests Are The New Moat
   url: https://saewitz.com/tests-are-the-new-moat
