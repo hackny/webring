@@ -112,3 +112,10 @@
   url: https://dlethab.github.io
   emoji: ⚽️
   description: "personal portfolio! i <3 soccer"
+- name: Joseph Long
+  year: 2013
+  url: https://joseph-long.com/
+  image: https://joseph-long.com/theme/css/headshot.png
+  rss_url: https://joseph-long.com/feeds/all.atom.xml
+  emoji: 🔭
+  description: "A mix of astronomy / research computing writing and some computer nonsense"
