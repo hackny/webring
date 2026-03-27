@@ -119,3 +119,8 @@
   rss_url: https://joseph-long.com/feeds/all.atom.xml
   emoji: 🔭
   description: "A mix of astronomy / research computing writing and some computer nonsense"
+- name: Marley Alford
+  year: 2017
+  url: https://www.marleyalford.com
+  emoji: 🤠
+  description: "A bunch of links and some data about me"
