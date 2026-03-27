@@ -779,18 +779,6 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2026-02-01 21:08
-- id: https://ok.spacetypeco.com/2025-seoul-south-korea
-  title: "(2025) Seoul, South Korea"
-  url: https://ok.spacetypeco.com/2025-seoul-south-korea
-  fellow:
-    name: Kevin Yeh
-    year: 2015
-    url: https://kyeh.me
-    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
-    emoji: "\U0001F607"
-    description: My personal footnotes on the internet and all the words, sounds,
-      videos, and sentiments I want to remember for a rainy day.
-  published_at: 2025-12-02 16:30
 - id: https://ok.spacetypeco.com/new-york-outside-the-city
   title: new york, outside the city
   url: https://ok.spacetypeco.com/new-york-outside-the-city
@@ -827,6 +815,18 @@
     description: My personal footnotes on the internet and all the words, sounds,
       videos, and sentiments I want to remember for a rainy day.
   published_at: 2025-06-15 00:00
+- id: https://ok.spacetypeco.com/writing-documentation
+  title: writing documentation
+  url: https://ok.spacetypeco.com/writing-documentation
+  fellow:
+    name: Kevin Yeh
+    year: 2015
+    url: https://kyeh.me
+    rss_url: https://ok.spacetypeco.com/feed.xml?type=rss
+    emoji: "\U0001F607"
+    description: My personal footnotes on the internet and all the words, sounds,
+      videos, and sentiments I want to remember for a rainy day.
+  published_at: 2025-04-25 23:27
 - id: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
   title: A Year of Whoop
   url: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
