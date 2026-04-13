@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-08-21 20:47
+- id: https://newsletter.hackny.org/archive/alumny-news-spring-is-here/
+  title: "[alumNY news]: Spring is Here! "
+  url: https://newsletter.hackny.org/archive/alumny-news-spring-is-here/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-04-13 14:32
 - id: https://newsletter.hackny.org/archive/alumny-news-happy-fools-spring/
   title: "[alumNY News]: Happy Fool's Spring!"
   url: https://newsletter.hackny.org/archive/alumny-news-happy-fools-spring/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-07-28 17:01
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-20/
-  title: "[hackNY News] 2025 Fellowship Weekly – Jul 20"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-20/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-07-21 00:03
 - id: https://www.vesto.me/2026/04/10/roasted-vegetables.html
   title: 'New wiki page: Roasting vegetables'
   url: https://www.vesto.me/2026/04/10/roasted-vegetables.html
