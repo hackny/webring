@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-07-28 17:01
+- id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
+  title: An ode to Strawberry Music Player
+  url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2026-04-18 20:00
 - id: https://www.vesto.me/2026/04/10/roasted-vegetables.html
   title: 'New wiki page: Roasting vegetables'
   url: https://www.vesto.me/2026/04/10/roasted-vegetables.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-05-23 20:00
-- id: https://www.vesto.me/2025/05/02/preserving-values.html
-  title: Preserving values and culture in a time of threat
-  url: https://www.vesto.me/2025/05/02/preserving-values.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-05-01 20:00
 - id: 2026-04-05-a-tomb-sweeping-easter
   title: An Easter Qingming Crossover Special
   url: https://liaokev.in/2026-04-05-a-tomb-sweeping-easter
