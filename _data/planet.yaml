@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-08-21 20:47
+- id: https://newsletter.hackny.org/archive/alumny-news-happy-may/
+  title: "[alumNY News]: Happy May!"
+  url: https://newsletter.hackny.org/archive/alumny-news-happy-may/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-05-15 02:26
 - id: https://newsletter.hackny.org/archive/alumny-news-spring-is-here/
   title: "[alumNY news]: Spring is Here! "
   url: https://newsletter.hackny.org/archive/alumny-news-spring-is-here/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-08-05 02:28
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-28/
-  title: "[hackNY News] 2025 Fellowship Weekly – Jul 28"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-jul-28/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-07-28 17:01
 - id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
   title: An ode to Strawberry Music Player
   url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
@@ -383,6 +383,18 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-05-23 20:00
+- id: 2026-05-09-doing-one-thing
+  title: Doing One Thing
+  url: https://liaokev.in/2026-05-09-doing-one-thing
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2026-05-10 02:00
 - id: 2026-04-05-a-tomb-sweeping-easter
   title: An Easter Qingming Crossover Special
   url: https://liaokev.in/2026-04-05-a-tomb-sweeping-easter
@@ -503,18 +515,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2026-01-20 02:29
-- id: 2026-01-11-small-hacks-for-reclaiming-time
-  title: Misc Helpful Tools
-  url: https://liaokev.in/2026-01-11-small-hacks-for-reclaiming-time
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2026-01-12 02:29
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
@@ -767,6 +767,16 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: https://blog.vinaybhaip.com/2026/05/30/ship-of-theseus
+  title: Ship of Theseus
+  url: https://blog.vinaybhaip.com/2026/05/30/ship-of-theseus
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2026-05-30 00:00
 - id: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
   title: A Year of Whoop
   url: https://blog.vinaybhaip.com/2026/03/19/year-of-whoop
@@ -857,16 +867,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2022-03-12 00:00
-- id: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  title: Perlin Planets
-  url: https://blog.vinaybhaip.com/2021/01/26/perlin-planets
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2021-01-26 00:00
 - id: https://saewitz.com/tests-are-the-new-moat
   title: Tests Are The New Moat
   url: https://saewitz.com/tests-are-the-new-moat
@@ -975,6 +975,30 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/music/the-fricatives-house-of-abundance-2026-04-18-video-and-photos/
+  title: 'The Fricatives @ House of Abundance 2026-04-18: Video and Photos'
+  url: https://exch.gr/music/the-fricatives-house-of-abundance-2026-04-18-video-and-photos/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2026-05-25 16:07
+- id: https://exch.gr/music/recap-the-fricatives-at-house-of-abundance-10th-anniversary-2026-04-18/
+  title: 'Recap: The Fricatives @ House of Abundance 10th Anniversary 2026-04-18'
+  url: https://exch.gr/music/recap-the-fricatives-at-house-of-abundance-10th-anniversary-2026-04-18/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2026-05-21 20:41
 - id: https://exch.gr/photography/branch-brook-park-cherry-blossom-festival-2026/
   title: Branch Brook Park Cherry Blossom Festival 2026
   url: https://exch.gr/photography/branch-brook-park-cherry-blossom-festival-2026/
@@ -1083,30 +1107,6 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2026-01-14 03:49
-- id: https://exch.gr/photography/zohran-mamdani-inauguration-block-party/
-  title: Zohran Mamdani Inauguration Block Party
-  url: https://exch.gr/photography/zohran-mamdani-inauguration-block-party/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2026-01-04 23:25
-- id: https://exch.gr/photography/jackson-heights-sunnyside/
-  title: Jackson Heights—Sunnyside
-  url: https://exch.gr/photography/jackson-heights-sunnyside/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2025-12-30 02:59
 - id: tag:joseph-long.com,2025-06-18:/writing/image-transformation-from-scratch/
   title: Image transformation and interpolation from scratch
   url: https://joseph-long.com/writing/image-transformation-from-scratch/
