@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-08-21 20:47
+- id: https://newsletter.hackny.org/archive/alumny-news-yay-summer/
+  title: "[alumNY News]: Yay Summer!"
+  url: https://newsletter.hackny.org/archive/alumny-news-yay-summer/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-06-19 15:40
 - id: https://newsletter.hackny.org/archive/alumny-news-happy-may/
   title: "[alumNY News]: Happy May!"
   url: https://newsletter.hackny.org/archive/alumny-news-happy-may/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-09-22 15:00
-- id: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-aug-3/
-  title: "[hackNY News] 2025 Fellowship Weekly – Aug 3"
-  url: https://newsletter.hackny.org/archive/hackny-news-2025-fellowship-weekly-aug-3/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-08-05 02:28
 - id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
   title: An ode to Strawberry Music Player
   url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
