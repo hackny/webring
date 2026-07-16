@@ -131,6 +131,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-08-21 20:47
+- id: https://newsletter.hackny.org/archive/alumny-news-books-babies-and-more/
+  title: "[alumNY News]: Books, Babies, and More!"
+  url: https://newsletter.hackny.org/archive/alumny-news-books-babies-and-more/
+  fellow:
+    name: hackNY alumNY Update
+    year: 2010
+    url: https://newsletter.hackny.org
+    rss_url: https://newsletter.hackny.org/rss
+    emoji: "\U0001F5DE️"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-07-14 15:20
 - id: https://newsletter.hackny.org/archive/alumny-news-yay-summer/
   title: "[alumNY News]: Yay Summer!"
   url: https://newsletter.hackny.org/archive/alumny-news-yay-summer/
@@ -251,18 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-10-06 01:21
-- id: https://newsletter.hackny.org/archive/alumny-town-halls-to-get-feedback-on-h26/
-  title: alumNY Town halls to get feedback on `h26
-  url: https://newsletter.hackny.org/archive/alumny-town-halls-to-get-feedback-on-h26/
-  fellow:
-    name: hackNY alumNY Update
-    year: 2010
-    url: https://newsletter.hackny.org
-    rss_url: https://newsletter.hackny.org/rss
-    emoji: "\U0001F5DE️"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2025-09-22 15:00
 - id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
   title: An ode to Strawberry Music Player
   url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
@@ -493,6 +493,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2025-02-02 06:05
+- id: 2026-07-10-memorisation-firmware
+  title: Memorisation as Firmware Programming
+  url: https://liaokev.in/2026-07-10-memorisation-firmware
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2026-07-10 20:30
 - id: 2026-05-09-doing-one-thing
   title: Doing One Thing
   url: https://liaokev.in/2026-05-09-doing-one-thing
@@ -613,18 +625,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2026-01-26 21:58
-- id: 2026-01-19-breakneck
-  title: Dan Wang's Breakneck speaks to my childhood and this moment
-  url: https://liaokev.in/2026-01-19-breakneck
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2026-01-20 02:29
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
@@ -877,6 +877,16 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: https://blog.vinaybhaip.com/2026/07/03/growth-as-gradient-descent
+  title: Growth as Gradient Descent
+  url: https://blog.vinaybhaip.com/2026/07/03/growth-as-gradient-descent
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2026-07-03 00:00
 - id: https://blog.vinaybhaip.com/2026/05/30/ship-of-theseus
   title: Ship of Theseus
   url: https://blog.vinaybhaip.com/2026/05/30/ship-of-theseus
@@ -967,16 +977,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2024-03-24 00:00
-- id: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  title: Dissonant Trails
-  url: https://blog.vinaybhaip.com/2022/03/12/dissonant-trails
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2022-03-12 00:00
 - id: https://saewitz.com/tests-are-the-new-moat
   title: Tests Are The New Moat
   url: https://saewitz.com/tests-are-the-new-moat
