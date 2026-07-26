@@ -493,6 +493,18 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2025-02-02 06:05
+- id: 2026-07-25-fedora-silverblue
+  title: Half-a-decade of Fedora Silverblue
+  url: https://liaokev.in/2026-07-25-fedora-silverblue
+  fellow:
+    name: Kevin Liao
+    year: 2018
+    url: http://liaokev.in
+    rss_url: http://liaokev.in/feed.xml
+    emoji: "\U0001F68C"
+    description: Personal blog. Rarely updated. Want it to be a space for thoughts
+      on urbanism, Taiwan, language learning, and progressive Christian theology.
+  published_at: 2026-07-25 20:30
 - id: 2026-07-10-memorisation-firmware
   title: Memorisation as Firmware Programming
   url: https://liaokev.in/2026-07-10-memorisation-firmware
@@ -613,18 +625,6 @@
     description: Personal blog. Rarely updated. Want it to be a space for thoughts
       on urbanism, Taiwan, language learning, and progressive Christian theology.
   published_at: 2026-02-05 14:52
-- id: 2026-01-26-energynet
-  title: I want to live in a world with the EnergyNet
-  url: https://liaokev.in/2026-01-26-energynet
-  fellow:
-    name: Kevin Liao
-    year: 2018
-    url: http://liaokev.in
-    rss_url: http://liaokev.in/feed.xml
-    emoji: "\U0001F68C"
-    description: Personal blog. Rarely updated. Want it to be a space for thoughts
-      on urbanism, Taiwan, language learning, and progressive Christian theology.
-  published_at: 2026-01-26 21:58
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
