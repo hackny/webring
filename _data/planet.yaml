@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a7c58b85bb5136a3bc59ead
+  title: Thanks to everyone who made hackNY’s summer 2026 Public Interest Lab possible!
+  url: https://hackny.org/blog/jsvb7mpq5ynlsrwfbidh4kzvjo5f65
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-08-12 12:04
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:69b1be08d126783943eedf40
   title: hackNY and tech bono
   url: https://hackny.org/blog/hackny-and-tech-bono
@@ -119,18 +131,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-09-26 15:52
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66c65247a06df11fc455ec52
-  title: Reflecting on the 2024 hackNY Fellowship
-  url: https://hackny.org/blog/reflecting-on-the-2024-hackny-fellowship
-  fellow:
-    name: hackNY Blog
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-08-21 20:47
 - id: https://newsletter.hackny.org/archive/alumny-news-books-babies-and-more/
   title: "[alumNY News]: Books, Babies, and More!"
   url: https://newsletter.hackny.org/archive/alumny-news-books-babies-and-more/
