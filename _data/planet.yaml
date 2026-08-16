@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a81b3bafe29a456a887166e
+  title: Thanks to everyone who made hackNY’s summer 2026 Public Interest Lab possible!
+  url: https://hackny.org/blog/demoday2026
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-08-16 13:02
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a7c58b85bb5136a3bc59ead
   title: Thanks to everyone who made hackNY’s summer 2026 Public Interest Lab possible!
   url: https://hackny.org/blog/jsvb7mpq5ynlsrwfbidh4kzvjo5f65
@@ -119,18 +131,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-10-03 15:54
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f57c1da4288b2a72ed93a3
-  title: My hackNY Adventure
-  url: https://hackny.org/blog/hackny-adventure
-  fellow:
-    name: hackNY Blog
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-09-26 15:52
 - id: https://newsletter.hackny.org/archive/announcement-new-board-member-and-another/
   title: 'Announcement: New Board Member and Another Successful Summer!'
   url: https://newsletter.hackny.org/archive/announcement-new-board-member-and-another/
