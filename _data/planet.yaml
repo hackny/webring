@@ -1,4 +1,16 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a7e3538f64a261bda3d69d7
+  title: 'Meet the Class of 2026: Our Founding Public Interest Lab Cohort'
+  url: https://hackny.org/blog/meet-the-class-of-2026-our-founding-public-interest-lab-cohort
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-08-17 13:09
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a81b3bafe29a456a887166e
   title: Thanks to everyone who made hackNY’s summer 2026 Public Interest Lab possible!
   url: https://hackny.org/blog/demoday2026
@@ -119,18 +131,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-10-25 14:45
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:66f583c0eb924e0860a66b7d
-  title: 'One of the Best Summers Ever: My HackNY Fellowship Experience'
-  url: https://hackny.org/blog/best-summers-ever
-  fellow:
-    name: hackNY Blog
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-10-03 15:54
 - id: https://newsletter.hackny.org/archive/announcement-new-board-member-and-another/
   title: 'Announcement: New Board Member and Another Successful Summer!'
   url: https://newsletter.hackny.org/archive/announcement-new-board-member-and-another/
@@ -263,126 +263,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-12-02 17:51
-- id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
-  title: An ode to Strawberry Music Player
-  url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2026-04-18 20:00
-- id: https://www.vesto.me/2026/04/10/roasted-vegetables.html
-  title: 'New wiki page: Roasting vegetables'
-  url: https://www.vesto.me/2026/04/10/roasted-vegetables.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2026-04-09 20:00
-- id: https://www.vesto.me/2026/01/18/ai-companies-will-fail.html
-  title: "↗ AI companies will fail. We can salvage something from the wreckage"
-  url: https://www.vesto.me/2026/01/18/ai-companies-will-fail.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2026-01-17 19:00
-- id: https://www.vesto.me/2026/01/08/2025-in-review.html
-  title: 2025, in review
-  url: https://www.vesto.me/2026/01/08/2025-in-review.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2026-01-07 19:00
-- id: https://www.vesto.me/2025/12/27/seen-while-walking.html
-  title: Seen while walking
-  url: https://www.vesto.me/2025/12/27/seen-while-walking.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-12-26 19:00
-- id: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
-  title: Walking from LIC to Flushing (Queens)
-  url: https://www.vesto.me/2025/11/12/walk-lic-to-flushing.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-11-11 19:00
-- id: https://www.vesto.me/2025/07/24/im-back.html
-  title: I'm back!
-  url: https://www.vesto.me/2025/07/24/im-back.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-07-23 20:00
-- id: https://www.vesto.me/2025/06/10/hoboken.html
-  title: Hoboken
-  url: https://www.vesto.me/2025/06/10/hoboken.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-06-09 20:00
-- id: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
-  title: "↗ New recipe: Mexican rice"
-  url: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-05-27 20:00
-- id: https://www.vesto.me/2025/05/24/who-cares-era.html
-  title: ↗ Quoting Dan Sinker from "The Who Cares Era"
-  url: https://www.vesto.me/2025/05/24/who-cares-era.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-05-23 20:00
 - id: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
   title: A Faster Way to Save Links to Notion (or any API) on Android
   url: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
