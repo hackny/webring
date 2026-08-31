@@ -263,6 +263,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-12-02 17:51
+- id: https://www.vesto.me/2026/08/31/any-process-escalate-root.html
+  title: "↗ Any user process can escalate to root"
+  url: https://www.vesto.me/2026/08/31/any-process-escalate-root.html
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2026-08-30 20:00
 - id: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
   title: An ode to Strawberry Music Player
   url: https://www.vesto.me/2026/04/19/ode-to-strawberry-music-player.html
@@ -371,18 +383,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-05-27 20:00
-- id: https://www.vesto.me/2025/05/24/who-cares-era.html
-  title: ↗ Quoting Dan Sinker from "The Who Cares Era"
-  url: https://www.vesto.me/2025/05/24/who-cares-era.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-05-23 20:00
 - id: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
   title: A Faster Way to Save Links to Notion (or any API) on Android
   url: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
