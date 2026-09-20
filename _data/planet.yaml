@@ -1,4 +1,17 @@
 ---
+- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6aa854d1dcf0ef68205fde28
+  title: 'PIL ‘26 Spotlight: Tech Bono for affordable housing– Building a custom CRM
+    for a NYC Community Land Trust Nonprofit'
+  url: https://hackny.org/blog/pil-26-spotlight-tech-bono-for-affordable-housing-building-a-custom-crm-for-a-nyc-community-land-trust-nonprofit
+  fellow:
+    name: hackNY Blog
+    year: 2010
+    url: https://hackny.org/blog
+    rss_url: https://hackny.org/blog?format=rss
+    emoji: "\U0001F3E1"
+    description: hackNY's aim is to build a diverse and inclusive tech community to
+      empower the next generation of responsible leaders in NYC.
+  published_at: 2026-09-20 17:19
 - id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:6a7e3538f64a261bda3d69d7
   title: 'Meet the Class of 2026: Our Founding Public Interest Lab Cohort'
   url: https://hackny.org/blog/meet-the-class-of-2026-our-founding-public-interest-lab-cohort
@@ -119,18 +132,6 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2024-11-04 16:36
-- id: 5e29ed545609757c6fde2e12:5ef6663d22ea9b6af07efe7a:67190d5636f942652a91d568
-  title: 'Application Spotlight: Gloria'
-  url: https://hackny.org/blog/application-spotlight-gloria
-  fellow:
-    name: hackNY Blog
-    year: 2010
-    url: https://hackny.org/blog
-    rss_url: https://hackny.org/blog?format=rss
-    emoji: "\U0001F3E1"
-    description: hackNY's aim is to build a diverse and inclusive tech community to
-      empower the next generation of responsible leaders in NYC.
-  published_at: 2024-10-25 14:45
 - id: https://newsletter.hackny.org/archive/alumny-news-happy-september/
   title: "[alumNY News]: Happy September!"
   url: https://newsletter.hackny.org/archive/alumny-news-happy-september/
