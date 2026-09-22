@@ -384,6 +384,16 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-05-27 20:00
+- id: https://blog.rayberger.org/appreciating-the-sfo-watering-hole
+  title: Appreciating the SFO Watering Hole
+  url: https://blog.rayberger.org/appreciating-the-sfo-watering-hole
+  fellow:
+    name: Ray Berger
+    rss_url: https://blog.rayberger.org/rss.xml
+    year: 2018
+    url: https://www.rayberger.org/
+    emoji: "\U0001F354"
+  published_at: 2026-09-22 05:15
 - id: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
   title: A Faster Way to Save Links to Notion (or any API) on Android
   url: https://blog.rayberger.org/a-faster-way-to-save-links-to-notion-on-android
@@ -484,16 +494,6 @@
     url: https://www.rayberger.org/
     emoji: "\U0001F354"
   published_at: 2025-02-02 08:44
-- id: https://blog.rayberger.org/vue-migration-part-2
-  title: Vue Migration Part 2 - A Simple Solution Emerges
-  url: https://blog.rayberger.org/vue-migration-part-2
-  fellow:
-    name: Ray Berger
-    rss_url: https://blog.rayberger.org/rss.xml
-    year: 2018
-    url: https://www.rayberger.org/
-    emoji: "\U0001F354"
-  published_at: 2025-02-02 06:05
 - id: https://ehicouldeat.com/posts/2024-02-25-post
   title: a busy february.
   url: https://ehicouldeat.com/posts/2024-02-25-post
