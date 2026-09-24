@@ -264,6 +264,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-12-05 12:00
+- id: https://merveilles.town/@vesto/117325777860833507
+  title: Homemade bagels
+  url: https://merveilles.town/@vesto/117325777860833507
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2026-09-26 07:38
 - id: https://www.vesto.me/2026/08/31/any-process-escalate-root.html
   title: "↗ TIL: Any user process can escalate to root"
   url: https://www.vesto.me/2026/08/31/any-process-escalate-root.html
@@ -372,18 +384,6 @@
     description: My blog and personal wiki. Step right up for thoughts on programming,
       vegan cooking, urbanism, and whatever else pops into my mind.
   published_at: 2025-06-09 20:00
-- id: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
-  title: "↗ New recipe: Mexican rice"
-  url: https://www.vesto.me/2025/05/28/new-recipe-mexican-rice.html
-  fellow:
-    name: Steve G.
-    year: 2013
-    url: https://www.vesto.me
-    rss_url: https://www.vesto.me/feed.xml
-    emoji: "\U0001F48C"
-    description: My blog and personal wiki. Step right up for thoughts on programming,
-      vegan cooking, urbanism, and whatever else pops into my mind.
-  published_at: 2025-05-27 20:00
 - id: https://blog.rayberger.org/appreciating-the-sfo-watering-hole
   title: Appreciating the SFO Watering Hole
   url: https://blog.rayberger.org/appreciating-the-sfo-watering-hole
