@@ -746,6 +746,16 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: https://blog.vinaybhaip.com/2026/09/29/time-boxing
+  title: Timeboxing
+  url: https://blog.vinaybhaip.com/2026/09/29/time-boxing
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2026-09-29 00:00
 - id: https://blog.vinaybhaip.com/2026/07/03/growth-as-gradient-descent
   title: Growth as Gradient Descent
   url: https://blog.vinaybhaip.com/2026/07/03/growth-as-gradient-descent
@@ -836,16 +846,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2024-08-03 00:00
-- id: https://blog.vinaybhaip.com/2024/03/24/sealed
-  title: 'Sealed: Custom Wax Seal NFC Tags'
-  url: https://blog.vinaybhaip.com/2024/03/24/sealed
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-03-24 00:00
 - id: https://saewitz.com/tests-are-the-new-moat
   title: Tests Are The New Moat
   url: https://saewitz.com/tests-are-the-new-moat
