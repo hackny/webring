@@ -626,6 +626,16 @@
     description: A personal blog mostly about programming, sometimes about tattoos
       or music.
   published_at: 2022-04-20 05:39
+- id: https://blog.vinaybhaip.com/2026/10/14/weight-of-opportunity
+  title: The Weight of Opportunity
+  url: https://blog.vinaybhaip.com/2026/10/14/weight-of-opportunity
+  fellow:
+    name: Vinay Bhaip
+    year: 2021
+    url: http://vinaybhaip.com
+    rss_url: https://vinaybhaip.com/blog/feed.xml
+    emoji: "\U0001F680"
+  published_at: 2026-10-14 00:00
 - id: https://blog.vinaybhaip.com/2026/09/29/time-boxing
   title: Timeboxing
   url: https://blog.vinaybhaip.com/2026/09/29/time-boxing
@@ -716,16 +726,6 @@
     rss_url: https://vinaybhaip.com/blog/feed.xml
     emoji: "\U0001F680"
   published_at: 2025-07-20 00:00
-- id: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
-  title: Lessons from a Year Abroad
-  url: https://blog.vinaybhaip.com/2024/08/03/lessons-from-abroad
-  fellow:
-    name: Vinay Bhaip
-    year: 2021
-    url: http://vinaybhaip.com
-    rss_url: https://vinaybhaip.com/blog/feed.xml
-    emoji: "\U0001F680"
-  published_at: 2024-08-03 00:00
 - id: https://saewitz.com/tests-are-the-new-moat
   title: Tests Are The New Moat
   url: https://saewitz.com/tests-are-the-new-moat
