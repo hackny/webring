@@ -834,6 +834,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/photography/halloween-acclamation-2026/
+  title: Halloween Acclamation 2026
+  url: https://exch.gr/photography/halloween-acclamation-2026/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2026-10-16 21:00
 - id: https://exch.gr/music/show-the-fricatives-house-of-abundance-2026-10-10/
   title: 'Show: The Fricatives @ House of Abundance 2026-10-10'
   url: https://exch.gr/music/show-the-fricatives-house-of-abundance-2026-10-10/
@@ -954,18 +966,6 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2026-03-27 17:23
-- id: https://exch.gr/music/the-fricatives-upcoming-nyc-shows-3-27-4-18/
-  title: 'The Fricatives - Upcoming NYC Shows: 3/27, 4/18'
-  url: https://exch.gr/music/the-fricatives-upcoming-nyc-shows-3-27-4-18/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2026-03-22 15:53
 - id: tag:joseph-long.com,2025-06-18:/writing/image-transformation-from-scratch/
   title: Image transformation and interpolation from scratch
   url: https://joseph-long.com/writing/image-transformation-from-scratch/
