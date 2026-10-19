@@ -846,6 +846,18 @@
     description: A personal blog on my experience as a software engineer (mostly frontend),
       indie founder, and creative.
   published_at: 2024-10-23 00:00
+- id: https://exch.gr/essays/you-can-see-everything-a-review/
+  title: 'You Can See Everything: A Review'
+  url: https://exch.gr/essays/you-can-see-everything-a-review/
+  fellow:
+    name: Elle Mundy
+    year: 2013
+    url: https://exch.gr/
+    rss_url: https://exch.gr/feed.xml
+    emoji: "\U0001F375"
+    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
+      etc.'
+  published_at: 2026-10-19 18:25
 - id: https://exch.gr/photography/halloween-acclamation-2026/
   title: Halloween Acclamation 2026
   url: https://exch.gr/photography/halloween-acclamation-2026/
@@ -966,18 +978,6 @@
     description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
       etc.'
   published_at: 2026-03-31 03:39
-- id: https://exch.gr/music/cancelled-the-fricatives-opening-for-a-side-of-murder/
-  title: 'Cancelled: The Fricatives opening for A Side of Murder'
-  url: https://exch.gr/music/cancelled-the-fricatives-opening-for-a-side-of-murder/
-  fellow:
-    name: Elle Mundy
-    year: 2013
-    url: https://exch.gr/
-    rss_url: https://exch.gr/feed.xml
-    emoji: "\U0001F375"
-    description: 'Process Things: Elle Mundy''s music, photography, poetry, code,
-      etc.'
-  published_at: 2026-03-27 17:23
 - id: tag:joseph-long.com,2025-06-18:/writing/image-transformation-from-scratch/
   title: Image transformation and interpolation from scratch
   url: https://joseph-long.com/writing/image-transformation-from-scratch/
