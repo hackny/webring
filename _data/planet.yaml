@@ -264,6 +264,18 @@
     description: hackNY's aim is to build a diverse and inclusive tech community to
       empower the next generation of responsible leaders in NYC.
   published_at: 2025-12-08 22:57
+- id: https://www.vesto.me/2026/10/26/negativity-echo-chambers.html
+  title: "↗ Avoid negativity echo chambers"
+  url:
+  fellow:
+    name: Steve G.
+    year: 2013
+    url: https://www.vesto.me
+    rss_url: https://www.vesto.me/feed.xml
+    emoji: "\U0001F48C"
+    description: My blog and personal wiki. Step right up for thoughts on programming,
+      vegan cooking, urbanism, and whatever else pops into my mind.
+  published_at: 2026-10-26 00:00
 - id: https://www.vesto.me/2026/10/17/freshening-up-my-website.html
   title: Freshening up my website
   url:
